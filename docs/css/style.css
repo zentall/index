@@ -6,7 +6,7 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Noto Sans', sans-serif;
     line-height: 1.6;
     background-color: #f4f4f4;
     color: #333;
@@ -67,4 +67,15 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+
+.profile-photo {
+    width: 150px; /* 画像の幅を150pxに固定 */
+    height: auto; /* 高さを自動で調整し、縦横比を維持 */
+    max-height: 150px; /* 画像の最大高さを150pxに制限 */
+    border-radius: 50%; /* 丸い形にする */
+    display: block;
+    margin: 20px auto; /* 中央に配置 */
+    object-fit: cover; /* 縦長でも正方形に切り取って中央部分を表示 */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* 影を追加 */
 }
