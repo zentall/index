@@ -8,3 +8,11 @@ body {
     width: 100vw;
     height: 100vh;
 }
+
+
+ /* 警告ボックスを独立させるためのスタイル */
+.alert-container {
+    position: absolute; /* 相対位置 */
+    margin: 20px; /* 上下左右にマージンを設定 */
+    z-index: 900; /* 他の要素より前面に表示するための z-index */
+}
