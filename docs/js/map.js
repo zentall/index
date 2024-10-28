@@ -9,7 +9,7 @@ const PARAMS = {
         className: 'userCircle',
         dashArray: '4 10'
     },
-    GROWTH_RATIO: 0.4,
+    GROWTH_RATIO: 0.2,
     CELL_CIRCLE_PALLETE: ['#FF5733', '#33FF57', '#3357FF', '#FF33A1', '#FFD700'],
     CELL_CIRCLE_COUNT: 300,
 }
@@ -112,11 +112,11 @@ function main(position) {
 
         circles.forEach(function (circle, index) {
             if (is_eatable(circle)) {
-                console.log('eat')
                 // ユーザーの円が細胞の円より大きい場合、細胞の円を取り込む
                 userCircle.setRadius(userCircle.getRadius() + circle.getRadius() * PARAMS.GROWTH_RATIO); // ユーザーの円を大きくする
                 map.removeLayer(circle); // 細胞の円を地図から削除
                 circles.splice(index, 1); // 配列から削除
+                createRandomCircle(userLatLng.lat, userLatLng.lng)
 
                 document.getElementById('score-alert').innerText = 'スコア:' + Math.round(userCircle.getRadius() * 10)
             }
