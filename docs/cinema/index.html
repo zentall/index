@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>映画カレンダー</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div id="app-container">
+        <!-- 映画グリッド -->
+        <div id="grid-container"></div>
+    </div>
+
+    <!-- 詳細シート -->
+    <div id="sheet-overlay" class="hidden"></div>
+
+    <div id="bottom-sheet" class="sheet">
+        <div class="sheet-handle-container">
+            <div class="sheet-handle"></div>
+        </div>
+
+        <!-- プレイヤーエリア（シート内） -->
+        <div id="sheet-player-container" class="sheet-player-container">
+            <iframe id="sheet-player" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+            <button id="close-sheet-player">✕</button>
+        </div>
+
+        <div class="sheet-content">
+            <h2 class="sheet-title" id="sheet-title"></h2>
+
+            <div class="sheet-meta">
+                <div class="sheet-date" id="sheet-date"></div>
+                <div class="sheet-rating" id="sheet-rating"></div>
+            </div>
+
+            <div class="sheet-genres" id="sheet-genres"></div>
+
+            <button class="play-trailer-btn" id="play-trailer-btn">
+                <span>▶</span>
+                <span>予告編を再生</span>
+            </button>
+
+            <div class="sheet-stats" id="sheet-stats"></div>
+
+            <p class="sheet-desc" id="sheet-desc"></p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
