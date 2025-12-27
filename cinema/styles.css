@@ -1,0 +1,478 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    background: #000;
+    color: #fff;
+    overflow: hidden;
+    height: 100vh;
+}
+
+.hidden {
+    display: none !important;
+}
+
+/* メインコンテナ */
+#app-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+/* グリッドコンテナ */
+#grid-container {
+    flex: 1;
+    overflow-y: auto;
+    background: #000;
+    scroll-behavior: smooth;
+}
+
+#grid-container::-webkit-scrollbar {
+    width: 8px;
+}
+
+#grid-container::-webkit-scrollbar-track {
+    background: #111;
+}
+
+#grid-container::-webkit-scrollbar-thumb {
+    background: #333;
+    border-radius: 4px;
+}
+
+#grid-container::-webkit-scrollbar-thumb:hover {
+    background: #444;
+}
+
+/* 週セクション */
+.week-section {
+    padding: 24px 16px;
+    border-bottom: 1px solid #1a1a1a;
+}
+
+.week-title {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 16px;
+    color: #fff;
+    letter-spacing: -0.5px;
+}
+
+/* 映画グリッド */
+.movie-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+    gap: 16px;
+}
+
+@media (min-width: 768px) {
+    .movie-grid {
+        grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+        gap: 20px;
+    }
+    
+    .week-section {
+        padding: 32px 24px;
+    }
+}
+
+/* ポスターカード */
+.poster-card {
+    cursor: pointer;
+    border-radius: 8px;
+    overflow: hidden;
+    background: #1a1a1a;
+    transition: transform 0.2s, box-shadow 0.2s;
+    position: relative;
+}
+
+/* ステータスバッジ */
+.status-badge {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 11px;
+    font-weight: 600;
+    color: #000;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(4px);
+    z-index: 2;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+    letter-spacing: 0.5px;
+}
+
+.poster-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 24px rgba(255, 255, 255, 0.1);
+}
+
+.poster-card:active {
+    transform: translateY(-2px);
+}
+
+.poster-wrapper {
+    position: relative;
+    width: 100%;
+    padding-bottom: 150%; /* 2:3 aspect ratio */
+    overflow: hidden;
+    background: #111;
+}
+
+.poster-card img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: opacity 0.3s;
+}
+
+.poster-card img:hover {
+    opacity: 0.85;
+}
+
+/* No Image デザイン */
+.no-image-poster {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+}
+
+.no-image-title {
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 1.4;
+    text-align: center;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    word-break: break-word;
+    letter-spacing: -0.3px;
+}
+
+.movie-info {
+    padding: 12px;
+}
+
+.movie-title {
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.3;
+    margin-bottom: 6px;
+    color: #fff;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.release-date {
+    font-size: 12px;
+    color: #888;
+    display: flex;
+    align-items: center;
+    gap: 4px;
+}
+
+/* 詳細シート */
+#sheet-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.7);
+    backdrop-filter: blur(8px);
+    z-index: 100;
+    opacity: 0;
+    transition: opacity 0.3s;
+    pointer-events: none;
+}
+
+#sheet-overlay.show {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.sheet {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    max-height: 75vh;
+    background: linear-gradient(to bottom, #1a1a1a, #0a0a0a);
+    color: #fff;
+    border-radius: 24px 24px 0 0;
+    z-index: 101;
+    transform: translateY(100%);
+    transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 -8px 32px rgba(0, 0, 0, 0.8);
+}
+
+.sheet.show {
+    transform: translateY(0);
+}
+
+.sheet-handle-container {
+    padding: 12px 0 8px;
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.sheet-handle {
+    width: 40px;
+    height: 4px;
+    background: #444;
+    border-radius: 2px;
+}
+
+/* シート内プレイヤー */
+.sheet-player-container {
+    width: 100%;
+    height: 0;
+    overflow: hidden;
+    background: #000;
+    position: relative;
+    transition: height 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.sheet-player-container.active {
+    height: 56.25vw; /* 16:9 aspect ratio */
+    max-height: 40vh;
+}
+
+#sheet-player {
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+#close-sheet-player {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    width: 36px;
+    height: 36px;
+    background: rgba(0, 0, 0, 0.8);
+    border: none;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 10;
+    transition: background 0.2s;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.sheet-player-container.active #close-sheet-player {
+    opacity: 1;
+    pointer-events: auto;
+}
+
+#close-sheet-player:hover {
+    background: rgba(0, 0, 0, 0.95);
+}
+
+.sheet-content {
+    padding: 24px 24px 32px;
+    overflow-y: auto;
+    flex: 1;
+}
+
+.sheet-content::-webkit-scrollbar {
+    width: 6px;
+}
+
+.sheet-content::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+.sheet-content::-webkit-scrollbar-thumb {
+    background: #333;
+    border-radius: 3px;
+}
+
+.sheet-title {
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 8px;
+    line-height: 1.2;
+    letter-spacing: -0.5px;
+}
+
+.sheet-meta {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+}
+
+.sheet-date {
+    font-size: 14px;
+    color: #aaa;
+}
+
+.sheet-rating {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 14px;
+    color: #ffd700;
+}
+
+.sheet-genres {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.genre-tag {
+    background: #2a2a2a;
+    color: #ccc;
+    padding: 6px 12px;
+    border-radius: 16px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+.sheet-desc {
+    font-size: 15px;
+    line-height: 1.7;
+    color: #ccc;
+    margin-bottom: 24px;
+}
+
+.homepage-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    width: 100%;
+    padding: 14px;
+    background: rgba(255, 255, 255, 0.08);
+    border: 1px solid rgba(255, 255, 255, 0.15);
+    border-radius: 12px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 500;
+    text-decoration: none;
+    transition: all 0.2s;
+    margin-bottom: 12px;
+}
+
+.homepage-btn:hover {
+    background: rgba(255, 255, 255, 0.12);
+    border-color: rgba(255, 255, 255, 0.25);
+    transform: translateY(-2px);
+}
+
+.homepage-btn:active {
+    transform: translateY(0);
+}
+
+.sheet-stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    gap: 16px;
+    padding: 20px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+
+.stat-item {
+    text-align: center;
+}
+
+.stat-label {
+    font-size: 12px;
+    color: #888;
+    margin-bottom: 4px;
+}
+
+.stat-value {
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+}
+
+/* クレジット情報 */
+.credits-group {
+    margin-bottom: 16px;
+}
+
+.credits-label {
+    font-size: 12px;
+    color: #888;
+    margin-bottom: 6px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+
+.credits-value {
+    font-size: 14px;
+    color: #fff;
+    line-height: 1.6;
+}
+
+.credit-name {
+    font-weight: 500;
+}
+
+.play-trailer-btn {
+    width: 100%;
+    padding: 16px;
+    background: linear-gradient(135deg, #ff0000, #cc0000);
+    border: none;
+    border-radius: 12px;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    transition: transform 0.2s, box-shadow 0.2s;
+    margin-bottom: 20px;
+}
+
+.play-trailer-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 16px rgba(255, 0, 0, 0.3);
+}
+
+.play-trailer-btn:active {
+    transform: translateY(0);
+}
+
+.play-trailer-btn.disabled {
+    background: #333;
+    color: #666;
+    cursor: not-allowed;
+}
+
+.play-trailer-btn.disabled:hover {
+    transform: none;
+    box-shadow: none;
+}
