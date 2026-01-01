@@ -1,0 +1,2428 @@
+[
+  {
+    "id": 1540640,
+    "title": "蟲",
+    "originalTitle": "蟲",
+    "overview": "映画監督の柾木は、親の遺産を食い潰しながら引きこもり続けて10年になる。極端に人との接触を嫌う柾木を気に掛ける大学時代からの友人・池内は、刺激を与えようと小劇場の舞台へと連れ出すが、柾木は居酒屋で酒をあおりながら厳しい論評を繰り返すばかりだった。しかし、そこに出演女優の芙蓉が現れると、その反応が一変する。柾木の演技論を熱心に聞く芙蓉に心を動かされ、創作意欲が湧き出してきた柾木は、彼女を主役にした脚本を書き始める。その想いの空回りが、次第に狂気を孕んで、誰も想像だにしない歪んだ愛の物語を奏ではじめる―。",
+    "releaseDate": "2025-10-17",
+    "jpReleaseDate": "2026-01-01",
+    "jpReleaseType": 3,
+    "runtime": 90,
+    "genres": [
+      {
+        "id": 18,
+        "name": "ドラマ"
+      },
+      {
+        "id": 10749,
+        "name": "ロマンス"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.2331,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aDDgFVmEfcnrNlrgtE5yMJSCnqF.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/sxk6WuXVNdFkKEI2v1K5dNk70KB.jpg",
+    "trailerUrl": null,
+    "homepage": "https://mushi-movie.com/",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 1611413,
+        "name": "平波亘",
+        "profilePath": null
+      }
+    ],
+    "cast": [
+      {
+        "id": 2019377,
+        "name": "平埜生成",
+        "character": "",
+        "profilePath": "/apCVyHO7qY3AiV21y9LzjDCjJjC.jpg"
+      },
+      {
+        "id": 5667584,
+        "name": "佐藤里菜",
+        "character": "",
+        "profilePath": "/yl22l8f3dOraZ4JecoF7O7jFJyO.jpg"
+      },
+      {
+        "id": 1509644,
+        "name": "木口健太",
+        "character": "",
+        "profilePath": "/7spY4qhRsRLFsD2sL0eR8hPf8xp.jpg"
+      },
+      {
+        "id": 1344700,
+        "name": "北原帆夏",
+        "character": "",
+        "profilePath": "/zYbo1nCeItwBM7fruwyLnyJYLsn.jpg"
+      },
+      {
+        "id": 1349123,
+        "name": "細川佳央",
+        "character": "",
+        "profilePath": "/mdhkxrujjGM591NoFMO6sL2auYY.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1507724,
+    "title": "迷宮のしおり",
+    "originalTitle": "迷宮のしおり",
+    "overview": "どこにでもいる普通の女子高生・前澤栞は、\r ある日突然スマホが割れ、気が付くと誰もいない異世界の横浜にいた――。  スマホを見ると、栞のＳＮＳには身に覚えのない自身の写真が投稿されている。\r 投稿された写真に映っているのは――？\r 果たして彼女はこの奇妙なスマホの迷宮から抜け出すことができるのか！？",
+    "releaseDate": "2026-01-01",
+    "jpReleaseDate": "2026-01-01",
+    "jpReleaseType": 3,
+    "runtime": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "アニメーション"
+      },
+      {
+        "id": 878,
+        "name": "サイエンスフィクション"
+      },
+      {
+        "id": 27,
+        "name": "ホラー"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.5437,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aBu2yfe3MLRyY6fuhQRSYs4e4Ci.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/80BGnKFgg4bm5l6Yxl7GDTVBT1q.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=ATQwiFYf6Ew",
+    "homepage": "https://gaga.ne.jp/meikyu-shiori/",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 76408,
+        "name": "河森正治",
+        "profilePath": "/7DE15Wgg2hEqq6yoRq6pnHzi2Yz.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 3734766,
+        "name": "SUZUKA",
+        "character": "Shiori Maezawa / Shiori@Revolution (voice)",
+        "profilePath": null
+      },
+      {
+        "id": 1115688,
+        "name": "原田泰造",
+        "character": "Komori (voice)",
+        "profilePath": "/bmsOBM2xx11Sw9fJNPDtzuqgp1z.jpg"
+      },
+      {
+        "id": 1700138,
+        "name": "伊東蒼",
+        "character": "Kirara Kurashina (voice)",
+        "profilePath": "/s6ZsLCOs1OTnLg9aAlmpYCEqtRj.jpg"
+      },
+      {
+        "id": 3843319,
+        "name": "齋藤潤",
+        "character": "Kento Yamada (voice)",
+        "profilePath": "/tYbBtEvzm3dqwdxS0h61TVwqAfN.jpg"
+      },
+      {
+        "id": 3847755,
+        "name": "寺西拓人",
+        "character": "Suguru Kagami (voice)",
+        "profilePath": null
+      }
+    ]
+  },
+  {
+    "id": 1575712,
+    "title": "#런석진_에피소드.투어 더 무비",
+    "originalTitle": "#런석진_에피소드.투어 더 무비",
+    "overview": "",
+    "releaseDate": "2025-12-27",
+    "jpReleaseDate": "2026-01-02",
+    "jpReleaseType": 3,
+    "runtime": 94,
+    "genres": [
+      {
+        "id": 99,
+        "name": "ドキュメンタリー"
+      },
+      {
+        "id": 10402,
+        "name": "音楽"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.7484,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eiPUYr2p17R0bz6WanJJ0jyYrDb.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/n9uPzYp2rDcSLJbCwXCdT7b3si.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 2042738,
+        "name": "Park Jun-soo",
+        "profilePath": "/ohDQzAK26k87v6poQBRHWOxjrlq.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 1544088,
+        "name": "진",
+        "character": "Self",
+        "profilePath": "/cothCnRmZXC63olRZ816lZoGMDc.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1197306,
+    "title": "ワーキングマン",
+    "originalTitle": "A Working Man",
+    "overview": "レヴォン・ケイドは、受勲もした軍歴を持つ極秘任務隊員だが、そのキャリアを封印し、建設業で質素な生活を送っていた。しかし、彼にとって家族同然である上司の娘が人身売買集団に連れ去られてしまう。彼女を連れ戻そうとするレヴォンは、捜索の過程で想像をはるかに上回る腐敗社会を目の当たりにするのだった。",
+    "releaseDate": "2025-03-26",
+    "jpReleaseDate": "2026-01-02",
+    "jpReleaseType": 3,
+    "runtime": 118,
+    "genres": [
+      {
+        "id": 28,
+        "name": "アクション"
+      },
+      {
+        "id": 80,
+        "name": "犯罪"
+      },
+      {
+        "id": 53,
+        "name": "スリラー"
+      }
+    ],
+    "voteAverage": 6.705,
+    "voteCount": 1696,
+    "popularity": 32.0786,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 19769,
+        "name": "David Ayer",
+        "profilePath": "/7JmWK2wg2StEc9eYjY96s7OJgb7.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 976,
+        "name": "ジェイソン・ステイサム",
+        "character": "Levon Cade",
+        "profilePath": "/o7sfT7EBtzxwiJiKmCafoebJQ2q.jpg"
+      },
+      {
+        "id": 973,
+        "name": "Jason Flemyng",
+        "character": "Wolo Kolisnyk",
+        "profilePath": "/nYl0180ACnLzVlGbaAfuPtdGr9K.jpg"
+      },
+      {
+        "id": 17817,
+        "name": "Merab Ninidze",
+        "character": "Yuri",
+        "profilePath": "/jnJ4lQULt6Ga3lXkIqAhMR7xYdE.jpg"
+      },
+      {
+        "id": 1011106,
+        "name": "Maximilian Osinski",
+        "character": "Dimi Kolisnyk",
+        "profilePath": "/wMRtFsZSR9FvYj1wzsziKQqpZ0C.jpg"
+      },
+      {
+        "id": 950125,
+        "name": "Cokey Falkow",
+        "character": "Dougie",
+        "profilePath": "/2VEMBUOHKZbpypEuso8jyxSo3Yc.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1559218,
+    "title": "架空の犬と嘘をつく猫",
+    "originalTitle": "架空の犬と嘘をつく猫",
+    "overview": "弟の死により現実を見なくなった母親を筆頭に、家族の誰もが”不都合な真実“から目をそらし、それでもなお一緒に暮らしている、機能不全の羽猫家の約30年間を描いた物語。",
+    "releaseDate": "2026-01-09",
+    "jpReleaseDate": "2026-01-09",
+    "jpReleaseType": 3,
+    "runtime": 125,
+    "genres": [
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.1305,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rAUGA6yt1EJ6kGNEUvENNUEPdtj.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/7NGb9x9L4l64TfawvYiDGAcKd1t.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 1916457,
+        "name": "森ガキ侑大",
+        "profilePath": "/tZiQdRjR4bAY3aSUi4ciPnF3RYL.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 1318732,
+        "name": "高杉真宙",
+        "character": "",
+        "profilePath": "/gP5lShrAl4ovliqAqJQTgrTeEwz.jpg"
+      },
+      {
+        "id": 1419909,
+        "name": "伊藤万理華",
+        "character": "",
+        "profilePath": "/fqI7wHzqZQkMafj1LXMOso7aPDf.jpg"
+      },
+      {
+        "id": 2130091,
+        "name": "深川麻衣",
+        "character": "",
+        "profilePath": "/dQS2iRrUaFlb7iVLzJThfcN4kJA.jpg"
+      },
+      {
+        "id": 552232,
+        "name": "安藤裕子",
+        "character": "",
+        "profilePath": null
+      },
+      {
+        "id": 2148832,
+        "name": "向里祐香",
+        "character": "",
+        "profilePath": "/uTKvkl3BYeiIPUvKfdL3QDaeM5.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1432547,
+    "title": "ALL YOU NEED IS KILL",
+    "originalTitle": "ALL YOU NEED IS KILL",
+    "overview": "地球外生命体の襲来によって、死んではその日の朝に戻るというタイムループに閉じ込められたリタ。蓄積された記憶と経験を武器に戦いを続ける彼女だが、誰にも理解されず、終わりの見えない戦いに心は蝕まれていく。そんな時、彼女の前に現れる男・ケイジ。「俺も…今日をずっと繰り返している」。運命の出会いを果たした二人は、終わりなき戦場を変える希望となるのか……。",
+    "releaseDate": "2026-01-09",
+    "jpReleaseDate": "2026-01-09",
+    "jpReleaseType": 3,
+    "runtime": 82,
+    "genres": [
+      {
+        "id": 16,
+        "name": "アニメーション"
+      },
+      {
+        "id": 28,
+        "name": "アクション"
+      },
+      {
+        "id": 9648,
+        "name": "謎"
+      },
+      {
+        "id": 878,
+        "name": "サイエンスフィクション"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.8783,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/y8mUXNllYasEJ37IsZaLrrR2yaW.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/yFDR62ZwlorTho3p9ZgAco5seI8.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=g5BS-I-8E6s",
+    "homepage": "https://aynk-anime.com",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 3118033,
+        "name": "秋本賢一郎",
+        "profilePath": null
+      }
+    ],
+    "cast": [
+      {
+        "id": 3086952,
+        "name": "見上愛",
+        "character": "Rita (voice)",
+        "profilePath": "/rj9P9XKrsW8n9ECX7HyaiwezmdU.jpg"
+      },
+      {
+        "id": 1256603,
+        "name": "花江夏樹",
+        "character": "Keiji (voice)",
+        "profilePath": "/alTb0DlcPIbcwM08WSmxFai58sd.jpg"
+      },
+      {
+        "id": 119143,
+        "name": "花澤香菜",
+        "character": "Shasta (voice)",
+        "profilePath": "/5bK9ttcRydQBWmyZp7gXDmJYOPF.jpg"
+      },
+      {
+        "id": 3457521,
+        "name": "ヒコロヒー",
+        "character": "Raychell (voice)",
+        "profilePath": "/4FkbgNnjZxj0aVOYfliYGZzGCiU.jpg"
+      },
+      {
+        "id": 3803704,
+        "name": "もう中学生",
+        "character": "Yonaval (voice)",
+        "profilePath": "/xcE4sb2nLMpce2WGW2MKOq1jacw.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1245993,
+    "title": "コート・スティーリング",
+    "originalTitle": "Caught Stealing",
+    "overview": "1998年、ニューヨーク。メジャーリーグのドラフト候補になるほど将来有望だったものの、運命のいたずらによって夢破れた若者・ハンク。バーテンダーとして働きながら、恋人のイヴォンヌと平和に暮らしていたある日、変わり者の隣人・ラスから突然ネコの世話を頼まれる。親切心から引き受けたのもつかの間、街中のマフィアたちが代わる代わる彼の家へ殴り込んでは暴力に任せて脅迫してくる悪夢のようなの日々が始まった！ やがてハンクは、自身が裏社会の大金絡みの事件に巻き込まれてしまったことを知る──が、時すでに遅し！\r 警察に助けを求めながら戦々恐々と逃げ続けていたある日、ついに大きな悲劇が起こる。理不尽な人生に堪忍袋の緒がブチギレたハンクは、一念発起して自分を巻き込んだ隣人やマフィアたちにリベンジすることを決意する──！",
+    "releaseDate": "2025-08-26",
+    "jpReleaseDate": "2026-01-09",
+    "jpReleaseType": 3,
+    "runtime": 107,
+    "genres": [
+      {
+        "id": 80,
+        "name": "犯罪"
+      },
+      {
+        "id": 53,
+        "name": "スリラー"
+      },
+      {
+        "id": 35,
+        "name": "コメディ"
+      }
+    ],
+    "voteAverage": 6.942,
+    "voteCount": 639,
+    "popularity": 11.8603,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/i7OPV7PgyT3FVZk0teETuUQ5oDg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/zWO3B2CTDguZqCrVQ2u5Xnp9VRS.jpg",
+    "trailerUrl": null,
+    "homepage": "https://caught-stealing.jp",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 6431,
+        "name": "ダーレン・アロノフスキー",
+        "profilePath": "/tOjz8mVI2HeQBvU6KNjIExMBsXL.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 86654,
+        "name": "オースティン・バトラー",
+        "character": "Hank Thompson",
+        "profilePath": "/aGZKvPmjopFfbehunaXXzeZ8eXy.jpg"
+      },
+      {
+        "id": 9788,
+        "name": "レジーナ・キング",
+        "character": "Detective Roman",
+        "profilePath": "/fEIz0ljk9CBrp3AitM5nwjfoGVu.jpg"
+      },
+      {
+        "id": 37153,
+        "name": "ゾーイ・クラヴィッツ",
+        "character": "Yvonne",
+        "profilePath": "/zx74kkI931iiQATJybvRKWYnOe9.jpg"
+      },
+      {
+        "id": 136532,
+        "name": "Matt Smith",
+        "character": "Russ",
+        "profilePath": "/xr2GSp8Pm6fT5VGm0I9tsWVcZ8q.jpg"
+      },
+      {
+        "id": 23626,
+        "name": "リーヴ・シュレイバー",
+        "character": "Lipa",
+        "profilePath": "/26G7QjSb5ZazgWb9XB2X6SwcILQ.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1174128,
+    "title": "동화지만 청불입니다",
+    "originalTitle": "동화지만 청불입니다",
+    "overview": "",
+    "releaseDate": "2025-01-08",
+    "jpReleaseDate": "2026-01-09",
+    "jpReleaseType": 3,
+    "runtime": 110,
+    "genres": [
+      {
+        "id": 35,
+        "name": "コメディ"
+      },
+      {
+        "id": 10749,
+        "name": "ロマンス"
+      }
+    ],
+    "voteAverage": 7.4,
+    "voteCount": 15,
+    "popularity": 3.9153,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mkQE7ZOhBMoVhDFbwLiJ43T5GzX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/1E2WVVwN0L8KtgvmtaHhER3DpvO.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 2109484,
+        "name": "이종석",
+        "profilePath": null
+      }
+    ],
+    "cast": [
+      {
+        "id": 1988598,
+        "name": "パク・ジヒョン",
+        "character": "Dan-bi",
+        "profilePath": "/A3sGA6JjvkQbIvTjxhdukpIi8jC.jpg"
+      },
+      {
+        "id": 77318,
+        "name": "최시원",
+        "character": "Jung-seok",
+        "profilePath": "/9NWbnMRKDa6HV2OeoNw0wTeyl6t.jpg"
+      },
+      {
+        "id": 1020859,
+        "name": "성동일",
+        "character": "CEO Hwang",
+        "profilePath": "/9VLRIvOyQSHkpJaeaBcmHzcEUQn.jpg"
+      },
+      {
+        "id": 2435807,
+        "name": "Park Geon-il",
+        "character": "O Chung Gil / \"Demon King of Night Tales\"",
+        "profilePath": "/2vFeKHJw3N7At7ADpZERolnS4Pl.jpg"
+      },
+      {
+        "id": 3291459,
+        "name": "황세온",
+        "character": "Chae Yeong [Dan Bi's friend]",
+        "profilePath": "/ltTUUtLF6CRd0LmBlt02EwPM2Tq.jpg"
+      }
+    ]
+  },
+  {
+    "id": 844069,
+    "title": "귀문",
+    "originalTitle": "귀문",
+    "overview": "",
+    "releaseDate": "2021-08-25",
+    "jpReleaseDate": "2026-01-09",
+    "jpReleaseType": 3,
+    "runtime": 85,
+    "genres": [
+      {
+        "id": 27,
+        "name": "ホラー"
+      },
+      {
+        "id": 53,
+        "name": "スリラー"
+      }
+    ],
+    "voteAverage": 6.7,
+    "voteCount": 80,
+    "popularity": 1.0198,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lchBnX6ZPWAshGwXgmIQHcanYVa.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/s8ryrjpl6GjSLoEHagzmgE4Yl2f.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 3133890,
+        "name": "Sim Deok-geun",
+        "profilePath": null
+      }
+    ],
+    "cast": [
+      {
+        "id": 84751,
+        "name": "김강우",
+        "character": "Do-jin",
+        "profilePath": "/1B883y0AG0WPTmGkC14XIggXVLz.jpg"
+      },
+      {
+        "id": 1875643,
+        "name": "김소혜",
+        "character": "Hye-young",
+        "profilePath": "/4RVabvmDS1dVOi0q9aiiKHHCipJ.jpg"
+      },
+      {
+        "id": 3133888,
+        "name": "이중형",
+        "character": "Tae-hoon",
+        "profilePath": "/SrJOOMF2yphSdvB8Q8LGpzBYdL.jpg"
+      },
+      {
+        "id": 2369536,
+        "name": "Hong Jin-gi",
+        "character": "Won-jae",
+        "profilePath": "/88Icmn5JbdlsWBsATX4LyRdl5k1.jpg"
+      },
+      {
+        "id": 2201131,
+        "name": "Um Chae-young",
+        "character": "Mi-rin",
+        "profilePath": "/PTZP0yR7CfwMkND0IqEBHZXGCq.jpg"
+      }
+    ]
+  },
+  {
+    "id": 75629,
+    "title": "ヱヴァンゲリヲン新劇場版:Q",
+    "originalTitle": "ヱヴァンゲリヲン新劇場版:Q",
+    "overview": "大災害「セカンドインパクト」後の世界を舞台に、人型兵器「エヴァンゲリオン」のパイロットとなった少年少女たちと、第3新東京市に襲来する謎の敵「使徒」との戦いを描いたテレビアニメ『新世紀エヴァンゲリオン』（1995年 - 1996年）を、新たな設定とストーリーで「リビルド」（再構築）したものが『ヱヴァンゲリヲン新劇場版』シリーズである。本作は2007年公開の『ヱヴァンゲリヲン新劇場版:序』、2009年公開の『ヱヴァンゲリヲン新劇場版:破』に続く第3作目にあたる。タイトルの「Q」は、当初は雅楽の用語「序破急」に由来する「急」とされていた。  シリーズ第1作『序』は、TVシリーズ第壱話から第六話までのストーリーをほぼ踏襲していたが、第2作『破』からは、TVシリーズ第八話から第拾九話を元にしつつも、新たな登場人物、エヴァンゲリオン、使徒などが加わり『新劇場版』独自のストーリーへとシフトしていった。そして本作『Q』では、前作から14年後の世界におけるNERVと反NERV組織「ヴィレ」の戦いなど、TVシリーズや旧劇場版とは全く異なるストーリーが展開される。",
+    "releaseDate": "2012-11-17",
+    "jpReleaseDate": "2026-01-09",
+    "jpReleaseType": 3,
+    "runtime": 106,
+    "genres": [
+      {
+        "id": 16,
+        "name": "アニメーション"
+      },
+      {
+        "id": 878,
+        "name": "サイエンスフィクション"
+      },
+      {
+        "id": 28,
+        "name": "アクション"
+      },
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 7.192,
+    "voteCount": 887,
+    "popularity": 3.2958,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/o7b5oDSpADw8SMfNd9ekqyFGCjp.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/q0PBB2RCrOAZrZjqJKhL3ibTV8b.jpg",
+    "trailerUrl": null,
+    "homepage": "https://www.evangelion.co.jp/sp/3_0/",
+    "tagline": "「希望は残っているよ。どんな時にもね」",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 77921,
+        "name": "庵野秀明",
+        "profilePath": "/AfV9h1RW6uALpx751APdUoX8ONc.jpg"
+      },
+      {
+        "id": 77926,
+        "name": "摩砂雪",
+        "profilePath": "/aYxPbcnEonKP6Ctb6ibHUBLJWxv.jpg"
+      },
+      {
+        "id": 56341,
+        "name": "前田真宏",
+        "profilePath": "/dwqETG4XzUO0zGMYluXfLVIrdDu.jpg"
+      },
+      {
+        "id": 77923,
+        "name": "鶴巻和哉",
+        "profilePath": "/vhf9zmNK3HcDkB0fH3RULJoCU9b.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 77927,
+        "name": "緒方恵美",
+        "character": "Shinji Ikari (voice)",
+        "profilePath": "/eNdfMUyZgG5P4TNIZpbTAu8gBs9.jpg"
+      },
+      {
+        "id": 83768,
+        "name": "宮村優子",
+        "character": "Asuka Shikinami Langley (voice)",
+        "profilePath": "/lVxXWzREWxixZ51EK4gmz9LqCV9.jpg"
+      },
+      {
+        "id": 81244,
+        "name": "石田彰",
+        "character": "Kaworu Nagisa (voice)",
+        "profilePath": "/jnW2Gn2NlR2uwOCeyOuzypnTmkH.jpg"
+      },
+      {
+        "id": 40325,
+        "name": "林原めぐみ",
+        "character": "Rei Ayanami (voice)",
+        "profilePath": "/qiCiLNGaJmwql2uBpjnkY5zX5T2.jpg"
+      },
+      {
+        "id": 9711,
+        "name": "坂本真綾",
+        "character": "Mari Illustrious Makinami (voice)",
+        "profilePath": "/hPz2oEQui8a4q9aXdBugQf93ONq.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1537813,
+    "title": "星野先生は今日も走る",
+    "originalTitle": "星野先生は今日も走る",
+    "overview": "",
+    "releaseDate": "2026-01-10",
+    "jpReleaseDate": "2026-01-10",
+    "jpReleaseType": 3,
+    "runtime": 67,
+    "genres": [
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.0389,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hvNZknHdosyYb4soMLgy7gnVhEb.jpg",
+    "backdropUrl": null,
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 5049500,
+        "name": "Yuta Soma",
+        "profilePath": null
+      }
+    ],
+    "cast": [
+      {
+        "id": 5657356,
+        "name": "MIYAZON",
+        "character": "Hoshino Yuichi",
+        "profilePath": null
+      },
+      {
+        "id": 1343676,
+        "name": "大原櫻子",
+        "character": "Shiori Hanaura",
+        "profilePath": "/zgezWtMVtz2L5gArqngdBc6f5uV.jpg"
+      },
+      {
+        "id": 227624,
+        "name": "井上正大",
+        "character": "Hirokazu Ito",
+        "profilePath": "/sFCfEVsFd4VmfK8irbKEFSTCKKx.jpg"
+      },
+      {
+        "id": 5657357,
+        "name": "Shugo",
+        "character": "",
+        "profilePath": null
+      },
+      {
+        "id": 5060366,
+        "name": "山口暖人",
+        "character": "Ito Eito",
+        "profilePath": "/5ejzzt1Wq95OwfiHWFqngB0etIm.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1077647,
+    "title": "물안에서",
+    "originalTitle": "물안에서",
+    "overview": "",
+    "releaseDate": "2023-04-12",
+    "jpReleaseDate": "2026-01-10",
+    "jpReleaseType": 3,
+    "runtime": 61,
+    "genres": [
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 6.5,
+    "voteCount": 22,
+    "popularity": 0.428,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/sfg6A1knpv2XagkvXQCd5L3sb7l.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/5G7WyWUBQhic7bk1dbqQaNJ22UL.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 150975,
+        "name": "홍상수",
+        "profilePath": "/cjZT9zhN5Yl65vTYAoyxCE02rm4.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 2288848,
+        "name": "신석호",
+        "character": "Seongmo",
+        "profilePath": "/j1i08iO4oEhsvIcF4Y16TMSiTL4.jpg"
+      },
+      {
+        "id": 2549743,
+        "name": "하성국",
+        "character": "Sangguk",
+        "profilePath": "/3FW50397nOBKjlpHrb1HdAMmPRg.jpg"
+      },
+      {
+        "id": 3888432,
+        "name": "김승윤",
+        "character": "Namhee",
+        "profilePath": "/cB2ruWx68496igigoMPCntcHoM9.jpg"
+      },
+      {
+        "id": 123664,
+        "name": "김민희",
+        "character": "Seongmo's Ex-Girlfriend (voice)",
+        "profilePath": "/zZ41nW0GJqesHB75hFP6qllPS9y.jpg"
+      },
+      {
+        "id": 4517634,
+        "name": "김소령",
+        "character": "",
+        "profilePath": null
+      }
+    ]
+  },
+  {
+    "id": 1556442,
+    "title": "とれ！",
+    "originalTitle": "とれ！",
+    "overview": "高校3年生の美咲（中島瑠菜）。やりたいことも見つからず、母子家庭で親に負担をかけたくないため進学はせず、地元で就職しようとバイトをしながら最後の高校生活を送っていた。親友の皐月（まいきち）は親の希望で大学進学を目指しているが、日々SNS投稿に夢中。  そんなある日、美咲が撮ったVLOGに霊のようなものが偶然映り、投稿動画は瞬く間にバズっていく。驚いた二人はこれをチャンスと思い、続けざまに心霊のフェイク動画を投稿し、バズは益々大きくなり広告収益が手元に入る。調子に乗った二人の撮影はエスカレートし、さらなる刺激を求め地元で噂の廃墟に潜入、とうとう取り返しのつかない本物が映りこんでしまう。さらに、廃墟撮影の道中で地蔵を拝んだ美咲は、和装でお面のような顔の“神様”に憑きまとわれることにーー。",
+    "releaseDate": "2026-01-16",
+    "jpReleaseDate": "2026-01-16",
+    "jpReleaseType": 3,
+    "runtime": 74,
+    "genres": [
+      {
+        "id": 27,
+        "name": "ホラー"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.1984,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/u9W2IZRQ6JQlf1Bur2fMmzypkZy.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/eT7QekNA6VEIXW9OVbRqrwK9BOl.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=Sqopyr58_Ig",
+    "homepage": "https://tore-movie.jp/",
+    "tagline": "",
+    "status": "In Production",
+    "directors": [
+      {
+        "id": 5726487,
+        "name": "コウイチ",
+        "profilePath": "/tffWceIlWAm8VoNEHZ9LKeOhkmK.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 3859556,
+        "name": "中島瑠菜",
+        "character": "佐藤美咲",
+        "profilePath": "/30RR9EnlCbzrtVcJGYd53ljV0sC.jpg"
+      },
+      {
+        "id": 5726486,
+        "name": "まいきち",
+        "character": "橋本皐月",
+        "profilePath": "/coZzq90CvJeFov15Z6pGnwOVrDB.jpg"
+      },
+      {
+        "id": 2089128,
+        "name": "和田雅成",
+        "character": "浅野斗真",
+        "profilePath": "/b1jhORTsto0Ejrfs1iuN5laDudK.jpg"
+      },
+      {
+        "id": 1188512,
+        "name": "宮地真緒",
+        "character": "橋本未映子",
+        "profilePath": "/yhVImgBPiN5eJxKl5bRwrfyYmJB.jpg"
+      },
+      {
+        "id": 67318,
+        "name": "奥菜恵",
+        "character": "佐藤雅美",
+        "profilePath": "/zOY3nJLKX8zqeO9VNVvm2slv1mD.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1532395,
+    "title": "万事快調〈オール・グリーンズ〉",
+    "originalTitle": "万事快調〈オール・グリーンズ〉",
+    "overview": "",
+    "releaseDate": "2026-01-16",
+    "jpReleaseDate": "2026-01-16",
+    "jpReleaseType": 3,
+    "runtime": 119,
+    "genres": [
+      {
+        "id": 35,
+        "name": "コメディ"
+      },
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.3654,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yo6eLG1F2tC8ecdkXcYLlfu72bl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/diQKCrUfy6L5xzLIXEtE4AWBKbR.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 2428703,
+        "name": "児山隆",
+        "profilePath": null
+      }
+    ],
+    "cast": [
+      {
+        "id": 1960999,
+        "name": "南沙良",
+        "character": "",
+        "profilePath": "/4Ixs64qw8oE7BBy9TMA6dhUkzjc.jpg"
+      },
+      {
+        "id": 2222685,
+        "name": "出口夏希",
+        "character": "",
+        "profilePath": "/gLWbN85sIY4gIyfUZ82WACrc3Db.jpg"
+      },
+      {
+        "id": 2762775,
+        "name": "吉田美月喜",
+        "character": "",
+        "profilePath": "/7bMv0ajEYjp70AKHxH63Xfng2ga.jpg"
+      },
+      {
+        "id": 4293593,
+        "name": "羽村仁成",
+        "character": "",
+        "profilePath": null
+      },
+      {
+        "id": 1762674,
+        "name": "Daichi Kaneko",
+        "character": "",
+        "profilePath": "/uI440qww2G8mTSKO9A65ZrqPga8.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1395839,
+    "title": "ザ・カース",
+    "originalTitle": "The Curse",
+    "overview": "物語の主人公は東京で暮らす美容師の璃子。ある日、台湾の友人・淑芬（シューフン）のSNSに不穏な写真と「お前ら全員さっさと死ね」という呪詛の言葉を発見します。やがて親友や仲間たちが次々と怪死を遂げ、璃子自身のもとにも紙人形の呪いが迫り寄ることに。恐怖の発生源を探るべく台湾に渡った彼女の前に現れるのは、不気味な《赤い服の女》と想像を絶する闇でした。",
+    "releaseDate": "2026-01-16",
+    "jpReleaseDate": "2026-01-16",
+    "jpReleaseType": 3,
+    "runtime": 95,
+    "genres": [
+      {
+        "id": 53,
+        "name": "スリラー"
+      },
+      {
+        "id": 9648,
+        "name": "謎"
+      },
+      {
+        "id": 27,
+        "name": "ホラー"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.234,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/eiLtWm1BiqS2BHJ7PuPJSp9d69M.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/1jxTnpaGckczKx0V41smden59Xq.jpg",
+    "trailerUrl": null,
+    "homepage": "https://the-curse-movie.com/",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 2092721,
+        "name": "宇賀那健一",
+        "profilePath": "/bd7E3n4vVF2IH4CVd7lJXA3UJwH.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 4995151,
+        "name": "Yukino Kaizu",
+        "character": "Riko",
+        "profilePath": "/zFsCnt7S3AN78CSukPwYtzDQWj9.jpg"
+      },
+      {
+        "id": 3066719,
+        "name": "丸山裕介",
+        "character": "",
+        "profilePath": "/fwqrFdCB0eIlVTcTwXilM7f8m8r.jpg"
+      },
+      {
+        "id": 2870994,
+        "name": "喜矢武豊",
+        "character": "",
+        "profilePath": "/nuIx4auFSiotY1H4KfPJqSVB81q.jpg"
+      },
+      {
+        "id": 3185102,
+        "name": "Tammy Lin",
+        "character": "",
+        "profilePath": "/q6rMfOYnCn2geuO1ThoRb2zPx1O.jpg"
+      },
+      {
+        "id": 2906878,
+        "name": "Mimi Shao",
+        "character": "",
+        "profilePath": "/7TaPa0dRf8Klrt64SbNMcZyHyLn.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1356587,
+    "title": "长安的荔枝",
+    "originalTitle": "长安的荔枝",
+    "overview": "",
+    "releaseDate": "2025-07-12",
+    "jpReleaseDate": "2026-01-16",
+    "jpReleaseType": 3,
+    "runtime": 122,
+    "genres": [
+      {
+        "id": 18,
+        "name": "ドラマ"
+      },
+      {
+        "id": 36,
+        "name": "履歴"
+      },
+      {
+        "id": 35,
+        "name": "コメディ"
+      }
+    ],
+    "voteAverage": 7.138,
+    "voteCount": 29,
+    "popularity": 1.8468,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bT8E8PDcN25FKynuFvzHYDp2Tk1.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/8OPxY4gmVLoURJcz1BbR2a4Hi5q.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 1292116,
+        "name": "Dong Chengpeng",
+        "profilePath": "/w2d1MkMXUvtdCFwCeCT7Lxdo6NA.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 1292116,
+        "name": "Dong Chengpeng",
+        "character": "Li Shande",
+        "profilePath": "/w2d1MkMXUvtdCFwCeCT7Lxdo6NA.jpg"
+      },
+      {
+        "id": 1627281,
+        "name": "白客",
+        "character": "Su Liang",
+        "profilePath": "/t7Hi7qYnXPaeehR7K5rbf0hHX0B.jpg"
+      },
+      {
+        "id": 2611997,
+        "name": "Zhuang Dafei",
+        "character": "A Tong",
+        "profilePath": "/fDAPC5xUqxMhEowcsObB8z5YsBX.jpg"
+      },
+      {
+        "id": 2217481,
+        "name": "劉俊謙",
+        "character": "Linyi Slave",
+        "profilePath": "/12UjFLBUTopW0O9UB9f2TK18dSl.jpg"
+      },
+      {
+        "id": 25246,
+        "name": "アンディ・ラウ",
+        "character": "Yang Guozhong",
+        "profilePath": "/z9R2yerjfgxwDWIH8sjiS0hhcre.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1272837,
+    "title": "28年後... 白骨の神殿",
+    "originalTitle": "28 Years Later: The Bone Temple",
+    "overview": "",
+    "releaseDate": "2026-01-14",
+    "jpReleaseDate": "2026-01-16",
+    "jpReleaseType": 3,
+    "runtime": 109,
+    "genres": [
+      {
+        "id": 27,
+        "name": "ホラー"
+      },
+      {
+        "id": 53,
+        "name": "スリラー"
+      },
+      {
+        "id": 878,
+        "name": "サイエンスフィクション"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 10.8001,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/j44XuLdsoSnlSuMgdKmcju4vM95.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/dT1p0K1szMAUBuE2bibouDQdNb8.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=8LV7qc4kzPM",
+    "homepage": "",
+    "tagline": "",
+    "status": "Post Production",
+    "directors": [
+      {
+        "id": 1795072,
+        "name": "ニア・ダコスタ",
+        "profilePath": "/zRyaLNXLT2gKgPvLreyg3GeEIdD.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 5469,
+        "name": "レイフ・ファインズ",
+        "character": "Dr. Ian Kelson",
+        "profilePath": "/u29BOqiV5GCQ8k8WUJM50i9xlBf.jpg"
+      },
+      {
+        "id": 5107934,
+        "name": "アルフィー・ウィリアムズ",
+        "character": "Spike",
+        "profilePath": "/wqfyAhZH6uCu5J4THsz2gJxsizB.jpg"
+      },
+      {
+        "id": 85065,
+        "name": "ジャック・オコンネル",
+        "character": "Sir Lord Jimmy Crystal",
+        "profilePath": "/9RrqnB1BRaWWHEjlWVVAna0sdBB.jpg"
+      },
+      {
+        "id": 1344320,
+        "name": "Chi Lewis-Parry",
+        "character": "Samson",
+        "profilePath": "/yFE1xHcKn9Gww9DCUYQmBlZ3HVx.jpg"
+      },
+      {
+        "id": 1672504,
+        "name": "Erin Kellyman",
+        "character": "Jimmy Ink",
+        "profilePath": "/f7XXomAaSRxE3h5NT0sAlcQTjPL.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1241436,
+    "title": "ウォーフェア 戦地最前線",
+    "originalTitle": "Warfare",
+    "overview": "＜極限の95分、映画史上最もリアルな戦場に、あなたを閉じ込める＞\r 2006年、イラク。監督を務めたメンドーサが所属していたアメリカ特殊部隊の小隊８名は、危険地帯ラマディで、アルカイダ幹部の監視と狙撃の任務についていた。ところが事態を察知した敵兵から先制攻撃を受け、全面衝突が始まる。反乱勢力に完全包囲され、負傷者は続出。救助を要請するが、さらなる攻撃を受け現場は地獄と化す。本部との通信を閉ざした通信兵・メンドーサ、指揮官のジョーは部隊への指示を完全に放棄し、皆から信頼される狙撃手のエリオット（愛称:ブージャー･ブー(鼻くそブーの意)）は爆撃により意識を失ってしまう。痛みに耐えきれず叫び声を上げる者、鎮痛剤のモルヒネを打ち間違える者、持ち場を守らずパニックに陥る者。彼らは逃げ場のない、轟音鳴り響くウォーフェア（戦闘）から、いかにして脱出するのか。",
+    "releaseDate": "2025-04-09",
+    "jpReleaseDate": "2026-01-16",
+    "jpReleaseType": 3,
+    "runtime": 95,
+    "genres": [
+      {
+        "id": 10752,
+        "name": "戦争"
+      },
+      {
+        "id": 28,
+        "name": "アクション"
+      }
+    ],
+    "voteAverage": 7.093,
+    "voteCount": 1198,
+    "popularity": 17.6779,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ikdVFWer1HWuRcpSVE9EIhoQVPV.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 3608245,
+        "name": "Ray Mendoza",
+        "profilePath": "/4WBfSzOyG5TsSOmB3ssSd0SKfmR.jpg"
+      },
+      {
+        "id": 2036,
+        "name": "アレックス・ガーランド",
+        "profilePath": "/qSWzYnDw68xm4i5xprH9BwQ6q25.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 2710333,
+        "name": "D'Pharaoh Woon-A-Tai",
+        "character": "Ray",
+        "profilePath": "/eoQtQj87Hv8UO7dW8J8wY3f41e4.jpg"
+      },
+      {
+        "id": 93491,
+        "name": "ウィル・ポールター",
+        "character": "Erik",
+        "profilePath": "/9blYMaj79VGC6BHTLmJp3V5S8r3.jpg"
+      },
+      {
+        "id": 1363054,
+        "name": "コスモ・ジャーヴィス",
+        "character": "Elliott",
+        "profilePath": "/1kgghZ558CxZCJip5ufO6BAqUGp.jpg"
+      },
+      {
+        "id": 1538851,
+        "name": "キット・コナー",
+        "character": "Tommy",
+        "profilePath": "/ut64CyBwiRudb3DxOgUa2j9Wxep.jpg"
+      },
+      {
+        "id": 1512452,
+        "name": "Finn Bennett",
+        "character": "John",
+        "profilePath": "/p4ya77nmLlhS2cyPKUZi9zVD4Mu.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1122618,
+    "title": "Good One",
+    "originalTitle": "Good One",
+    "overview": "",
+    "releaseDate": "2024-08-09",
+    "jpReleaseDate": "2026-01-16",
+    "jpReleaseType": 3,
+    "runtime": 90,
+    "genres": [
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 6.651,
+    "voteCount": 53,
+    "popularity": 4.5748,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/hKNTx4T9skoEJMczJyHg1CsAEMZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/13H7aiwQsiEDok54b1OFDTz7u1X.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 2355854,
+        "name": "India Donaldson",
+        "profilePath": "/fGFhju6X9R3pZhSBZybUxCJEu56.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 4046500,
+        "name": "Lily Collias",
+        "character": "Sam",
+        "profilePath": "/cy7BAIoU9PVvaADzaHb8Uykelhq.jpg"
+      },
+      {
+        "id": 6474,
+        "name": "ジェームズ・レグロス",
+        "character": "Chris",
+        "profilePath": "/q7AgI7xjFDSQPlilkT17YddAc93.jpg"
+      },
+      {
+        "id": 59145,
+        "name": "Danny McCarthy",
+        "character": "Matt",
+        "profilePath": "/jTYHl6SGo6hrHrezVCNHvEr4a5g.jpg"
+      },
+      {
+        "id": 2735013,
+        "name": "Sumaya Bouhbal",
+        "character": "Jessie",
+        "profilePath": "/iLT1wu5fO5DRI05pFft9Fg8aUwK.jpg"
+      },
+      {
+        "id": 1702807,
+        "name": "Diana Irvine",
+        "character": "Casey",
+        "profilePath": "/rE6Tbt6h46CzWuaxA2mbJ5tRoLp.jpg"
+      }
+    ]
+  },
+  {
+    "id": 400033,
+    "title": "Tokyo melody, un film sur Ryuichi Sakamoto",
+    "originalTitle": "Tokyo melody, un film sur Ryuichi Sakamoto",
+    "overview": "",
+    "releaseDate": "1985-04-09",
+    "jpReleaseDate": "2026-01-16",
+    "jpReleaseType": 3,
+    "runtime": 62,
+    "genres": [
+      {
+        "id": 99,
+        "name": "ドキュメンタリー"
+      },
+      {
+        "id": 10402,
+        "name": "音楽"
+      }
+    ],
+    "voteAverage": 7.2,
+    "voteCount": 6,
+    "popularity": 0.2561,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/rq6P9Zb129eIdlzskJtJ46U5AQk.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/s1Us5nFvHbWezACM1GrHwJYUfZL.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 1628387,
+        "name": "Elizabeth Lennard",
+        "profilePath": null
+      }
+    ],
+    "cast": [
+      {
+        "id": 11382,
+        "name": "坂本龍一",
+        "character": "Self",
+        "profilePath": "/nYMG17bYaFkyTzs37W80G0MofPd.jpg"
+      },
+      {
+        "id": 78352,
+        "name": "矢野顕子",
+        "character": "Self",
+        "profilePath": "/hvxKBkHN0ycCRR5agukqq0bgldL.jpg"
+      },
+      {
+        "id": 1564130,
+        "name": "高橋幸宏",
+        "character": "Self (archive footage)",
+        "profilePath": "/unui1xU4qfkk4SyHiDNDjH5s8Sz.jpg"
+      },
+      {
+        "id": 1084110,
+        "name": "細野晴臣",
+        "character": "Self (archive footage)",
+        "profilePath": "/xcyfoBn0zSMiXcSTezPGmoOWZsK.jpg"
+      },
+      {
+        "id": 7487,
+        "name": "デヴィッド・ボウイ",
+        "character": "Celliers (archive footage)",
+        "profilePath": "/7OIa363iSLG43x9Sb9HojUANwbh.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1172503,
+    "title": "해야 할 일",
+    "originalTitle": "해야 할 일",
+    "overview": "",
+    "releaseDate": "2024-09-25",
+    "jpReleaseDate": "2026-01-17",
+    "jpReleaseType": 3,
+    "runtime": 103,
+    "genres": [
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 5.0,
+    "voteCount": 1,
+    "popularity": 0.229,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nhyzAAxpTaHKCFmehBXAin0a5hE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/wSqlFvZ0kgGr4N5918sVEWCQ5Kf.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 4246529,
+        "name": "Park Hong-jun",
+        "profilePath": null
+      }
+    ],
+    "cast": [
+      {
+        "id": 1998064,
+        "name": "장성범",
+        "character": "Kang Joon-hee",
+        "profilePath": "/4sm01JgdQcv7MAZk1lk6wyEWWmO.jpg"
+      },
+      {
+        "id": 4047197,
+        "name": "서석규",
+        "character": "Lee Dong-woo",
+        "profilePath": "/1oz795HpTYrf8AZ7QxAys1zz7zV.jpg"
+      },
+      {
+        "id": 3042453,
+        "name": "김도영",
+        "character": "Jung Kyu-hoon",
+        "profilePath": "/whiZb5mdliBZiAtoIVEOtjlLKhd.jpg"
+      },
+      {
+        "id": 2004692,
+        "name": "김영웅",
+        "character": "Bae Ho-geun",
+        "profilePath": "/ws3OSpqIhgxe2AUk8gKjn65ZehG.jpg"
+      },
+      {
+        "id": 1078672,
+        "name": "장리우",
+        "character": "Son Kyung-yeon",
+        "profilePath": "/nKbLec4FlaWOiyvzRe3bzVrwUTh.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1595942,
+    "title": "怪獣天国",
+    "originalTitle": "怪獣天国",
+    "overview": "",
+    "releaseDate": "2026-01-23",
+    "jpReleaseDate": "2026-01-23",
+    "jpReleaseType": 3,
+    "runtime": 71,
+    "genres": [
+      {
+        "id": 878,
+        "name": "サイエンスフィクション"
+      },
+      {
+        "id": 14,
+        "name": "ファンタジー"
+      },
+      {
+        "id": 35,
+        "name": "コメディ"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.1443,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kGoBRzLcfONf7tOB7Dvhm4Xqtw.jpg",
+    "backdropUrl": null,
+    "trailerUrl": "https://www.youtube.com/watch?v=TrUKgKHXOPw",
+    "homepage": "",
+    "tagline": "",
+    "status": "Post Production",
+    "directors": [
+      {
+        "id": 132059,
+        "name": "河崎実",
+        "profilePath": "/bmJBcbkHDw8AaUMPtxPKzORIZI.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 1384651,
+        "name": "蕨野友也",
+        "character": "Hiroyuki Asatani",
+        "profilePath": "/aXwEbJ6uiYATjKxbL3Nblpt26jC.jpg"
+      },
+      {
+        "id": 3663524,
+        "name": "志田音々",
+        "character": "",
+        "profilePath": "/mdQArwfHK9Uf3H7awjYNpZBWOVN.jpg"
+      },
+      {
+        "id": 3932216,
+        "name": "Hitomi Takagi",
+        "character": "",
+        "profilePath": null
+      },
+      {
+        "id": 1156132,
+        "name": "イジリー岡田",
+        "character": "",
+        "profilePath": "/yP2GrqOl9wsIjSZtGcBwLdqyj4g.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1568457,
+    "title": "ただいまって言える場所",
+    "originalTitle": "ただいまって言える場所",
+    "overview": "大人なのに学校へ行きたくない…。大人なのに反抗期中…。親から自立できない中学教師・えりこ。一方、勉強もできて、友達もいて、荒れてもいない大人の仮面を被った“原因不明の不登校少女”・千花。二人は同じ学校の教師と生徒。だが部屋から出られないのも一緒だった。ある日、えりこが趣味のBL漫画をネット出品すると、“チー”という少女と意気投合。それが千花だった。互いに気づかぬままSNSで感想を送り合い、いつしか本音を話せる親友になっていく。一緒に部屋から出ようと親や学校に向き合うが、千花の“不登校の真相”とえりこの“過去の傷”が二人を追い詰め、取り巻く世界が予期せぬ方向に動き始める――。",
+    "releaseDate": "2026-01-23",
+    "jpReleaseDate": "2026-01-23",
+    "jpReleaseType": 3,
+    "runtime": 0,
+    "genres": [],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.1789,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/toKLnsJ3501vQe90kR6SigCtKvR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/uGlwlgM4JxwPWu9u2lyyLYP1jXa.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Post Production",
+    "directors": [
+      {
+        "id": 77679,
+        "name": "塚本連平",
+        "profilePath": "/9dfd4cjRBatTkzSlEiOAWbETniv.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 592809,
+        "name": "鈴木愛理",
+        "character": "",
+        "profilePath": "/vxkmgiewSEnzYDWQnIo963DoXT9.jpg"
+      },
+      {
+        "id": 9707,
+        "name": "伊藤歩",
+        "character": "",
+        "profilePath": "/9uc0XnA8nAcCYInxUq5nkNSHc7N.jpg"
+      },
+      {
+        "id": 135374,
+        "name": "大塚寧々",
+        "character": "",
+        "profilePath": "/48TFOrOB7oZOJ0LXbYQb7p5PE1z.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1502131,
+    "title": "終点のあの子",
+    "originalTitle": "終点のあの子",
+    "overview": "",
+    "releaseDate": "2026-01-23",
+    "jpReleaseDate": "2026-01-23",
+    "jpReleaseType": 3,
+    "runtime": 125,
+    "genres": [
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.3438,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/VJjyMznpIMDXZmpeLBlw2zCgCJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/tN5VIsdm3FePMTg3A4O3n6nA8GT.jpg",
+    "trailerUrl": null,
+    "homepage": "https://endof-theline.com/",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 1206861,
+        "name": "吉田浩太",
+        "profilePath": "/t7iqeN906IFIjwkQv5T2SRD005I.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 3640211,
+        "name": "當真あみ",
+        "character": "Kiyoko",
+        "profilePath": "/tqVci45pFJ4B7abPvb86UZLAyzs.jpg"
+      },
+      {
+        "id": 2018504,
+        "name": "中島セナ",
+        "character": "Shuri",
+        "profilePath": "/o6oCJO0rtgwCEFSb8Yc4MuhPSp1.jpg"
+      },
+      {
+        "id": 1297661,
+        "name": "平澤宏々路",
+        "character": "Natsuko",
+        "profilePath": "/pXfjCdUnrK1gLoP9AwLwI0JUMv8.jpg"
+      },
+      {
+        "id": 3873634,
+        "name": "南琴奈",
+        "character": "Kyoko",
+        "profilePath": "/hpiO6jMfz5nshWVBckYjiTv0oqV.jpg"
+      },
+      {
+        "id": 2130091,
+        "name": "深川麻衣",
+        "character": "Ruriko",
+        "profilePath": "/dQS2iRrUaFlb7iVLzJThfcN4kJA.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1433087,
+    "title": "恋愛裁判",
+    "originalTitle": "恋愛裁判",
+    "overview": "人気急上昇中のアイドルグループ「ハッピー☆ファンファーレ」でセンターを務める山岡真衣 (齊藤京子) は、中学時代の同級生・間山敬 (倉悠貴) と偶然再会し、恋に落ちる。アイドルとして背負う「恋愛禁止」ルールと、抑えきれない自身の感情との間で葛藤する真衣。しかし、ある事件をきっかけに、彼女は衝動的に敬のもとへと駆け寄る。その8カ月後、事態は一変。所属事務所から「恋愛禁止条項違反」で訴えられた真衣は、事務所社長の吉田光一 (津田健次郎)、チーフマネージャーの矢吹早耶 (唐田えりか) らによって、法廷で厳しく追及されることとなる。アイドルが「恋」をすることは「罪」なのか？彼女の選択が今、裁かれる――",
+    "releaseDate": "2026-01-23",
+    "jpReleaseDate": "2026-01-23",
+    "jpReleaseType": 3,
+    "runtime": 124,
+    "genres": [
+      {
+        "id": 18,
+        "name": "ドラマ"
+      },
+      {
+        "id": 10402,
+        "name": "音楽"
+      },
+      {
+        "id": 10749,
+        "name": "ロマンス"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 1.1253,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nvk8bbtp15Zu8sGKtAspHrwrMaf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/pN6sTnFXUuiDqR019WBFhCnQ2KX.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 1046090,
+        "name": "深田晃司",
+        "profilePath": "/mOcKGo3JUsUF7AXpj5D2LJxkVDG.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 2538827,
+        "name": "齊藤京子",
+        "character": "Mai Yamaoka",
+        "profilePath": "/ds3khPvvYSpVTV6OFl1wRnXRxQC.jpg"
+      },
+      {
+        "id": 2647155,
+        "name": "倉悠貴",
+        "character": "Kei Mayama",
+        "profilePath": "/dPTlgkUvQXPfc1yZLXSsdF5gOQM.jpg"
+      },
+      {
+        "id": 135524,
+        "name": "津田健次郎",
+        "character": "Koichi Yoshida",
+        "profilePath": "/yBlT8FzQqZYbDcJlnCEayNQHrzS.jpg"
+      },
+      {
+        "id": 1822694,
+        "name": "唐田えりか",
+        "character": "Saya Yabuki",
+        "profilePath": "/h9J86XWiV4XMwjBGlcT7oKyiBLx.jpg"
+      },
+      {
+        "id": 5199638,
+        "name": "Yuna Nakamura",
+        "character": "Nanaka Shimizu",
+        "profilePath": "/tZdCdximTqkE8DXrSrFTr6qRIco.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1401542,
+    "title": "프로젝트 Y",
+    "originalTitle": "프로젝트 Y",
+    "overview": "",
+    "releaseDate": "2026-01-21",
+    "jpReleaseDate": "2026-01-23",
+    "jpReleaseType": 3,
+    "runtime": 109,
+    "genres": [
+      {
+        "id": 80,
+        "name": "犯罪"
+      },
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 3.7077,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/4t2ImmKli4bOrBtaWBaV2rSeiVG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/b16iGgM0Grq526oBxZR9kRBOKIe.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 1191707,
+        "name": "이환",
+        "profilePath": "/qaSfoZGToSg5Hq8DFkkMofNOGP6.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 2112859,
+        "name": "한소희",
+        "character": "Mi-sun",
+        "profilePath": "/8IvEOnqMjqJWcci3z44haH38Ee8.jpg"
+      },
+      {
+        "id": 1937533,
+        "name": "전종서",
+        "character": "Do-kyung",
+        "profilePath": "/13mReqKdJFy3NjbqAFzVBLiyF9d.jpg"
+      },
+      {
+        "id": 3038410,
+        "name": "김신록",
+        "character": "Ga-young",
+        "profilePath": "/nR8DnqtTq7PgOjZrZB8F6PuNo6r.jpg"
+      },
+      {
+        "id": 2463266,
+        "name": "정영주",
+        "character": "Bull",
+        "profilePath": "/oPHCzElm0I0cR6sB1WTutvtKAtI.jpg"
+      },
+      {
+        "id": 1985544,
+        "name": "이재균",
+        "character": "Seok-gu",
+        "profilePath": "/gqIT1S8cRDZvPul9utZQMOgBtYI.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1236153,
+    "title": "MERCY／マーシー　AI裁判",
+    "originalTitle": "Mercy",
+    "overview": "",
+    "releaseDate": "2026-01-22",
+    "jpReleaseDate": "2026-01-23",
+    "jpReleaseType": 3,
+    "runtime": 100,
+    "genres": [
+      {
+        "id": 878,
+        "name": "サイエンスフィクション"
+      },
+      {
+        "id": 28,
+        "name": "アクション"
+      },
+      {
+        "id": 53,
+        "name": "スリラー"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 6.6039,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1LzdlxK9ctsnx7nXoGF1ImHKddl.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/ArM4HK4N2lUcRzDRdIRcY6gHZNn.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=j3D7oadIK-U",
+    "homepage": "",
+    "tagline": "",
+    "status": "Post Production",
+    "directors": [
+      {
+        "id": 23430,
+        "name": "Тимур Бекмамбетов",
+        "profilePath": "/w4C8qeeWRvD7rbIj3elTvhdxjT.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 73457,
+        "name": "クリス・プラット",
+        "character": "Det. Chris Raven",
+        "profilePath": "/cRH6HPAQ98PlOwwEvhYO4CM9lwu.jpg"
+      },
+      {
+        "id": 933238,
+        "name": "レベッカ・ファーガソン",
+        "character": "Judge Maddox",
+        "profilePath": "/lJloTOheuQSirSLXNA3JHsrMNfH.jpg"
+      },
+      {
+        "id": 82809,
+        "name": "アナベル・ウォーリス",
+        "character": "",
+        "profilePath": "/9lqdI8L2Bgj8zWR5l4l0II6GXug.jpg"
+      },
+      {
+        "id": 3119545,
+        "name": "Kali Reis",
+        "character": "",
+        "profilePath": "/qJcXQKgaq11aNNPPok0m4yfP2Og.jpg"
+      },
+      {
+        "id": 21660,
+        "name": "Rafi Gavron",
+        "character": "",
+        "profilePath": "/avCWoO9fLwEhbT6cvu0TJcSj49g.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1228246,
+    "title": "ファイブ・ナイツ・アット・フレディーズ２",
+    "originalTitle": "Five Nights at Freddy's 2",
+    "overview": "",
+    "releaseDate": "2025-12-03",
+    "jpReleaseDate": "2026-01-23",
+    "jpReleaseType": 3,
+    "runtime": 104,
+    "genres": [
+      {
+        "id": 27,
+        "name": "ホラー"
+      },
+      {
+        "id": 53,
+        "name": "スリラー"
+      }
+    ],
+    "voteAverage": 6.868,
+    "voteCount": 451,
+    "popularity": 320.7103,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=hL9MbUETB44",
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 2103746,
+        "name": "Emma Tammi",
+        "profilePath": "/6iJhQO8TzChHjJlNcFg0kHt4pAV.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 27972,
+        "name": "ジョシュ・ハッチャーソン",
+        "character": "Mike",
+        "profilePath": "/f0eosZ1Fx0VBUyspq8K2f8sUSBn.jpg"
+      },
+      {
+        "id": 2283930,
+        "name": "Piper Rubio",
+        "character": "Abby",
+        "profilePath": "/5Bt8p5uRlfLjOn64k1gTiSjmL8q.jpg"
+      },
+      {
+        "id": 1368507,
+        "name": "Elizabeth Lail",
+        "character": "Vanessa",
+        "profilePath": "/lDYjEyqojUs2sF3CgdsOZ9vr2KL.jpg"
+      },
+      {
+        "id": 26457,
+        "name": "マシュー・リラード",
+        "character": "William Afton / Yellow Rabbit",
+        "profilePath": "/auUbijDzR9xpSgQtLsYDvNatloj.jpg"
+      },
+      {
+        "id": 1824301,
+        "name": "Freddy Carter",
+        "character": "Michael",
+        "profilePath": "/u4Ibhf8LnRzfuR2IUx6ZQWdWaVv.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1167863,
+    "title": "黒の牛",
+    "originalTitle": "黒の牛",
+    "overview": "",
+    "releaseDate": "2024-11-08",
+    "jpReleaseDate": "2026-01-23",
+    "jpReleaseType": 3,
+    "runtime": 114,
+    "genres": [
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 7.5,
+    "voteCount": 1,
+    "popularity": 0.4457,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6l3Cf56cikwpll0i7fkcthGKPtR.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/7ajqnik0ZDnKobIidoS1w99HN4s.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 1305933,
+        "name": "蔦哲一朗",
+        "profilePath": "/dierACrK5wLZ0cNHiI6ttXYSwF2.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 71171,
+        "name": "李康生",
+        "character": "",
+        "profilePath": "/rdyfLsAHK0h1ijwdJbXtDJ0iGOd.jpg"
+      },
+      {
+        "id": 5043110,
+        "name": "Fukuyo",
+        "character": "Ox",
+        "profilePath": null
+      },
+      {
+        "id": 136191,
+        "name": "田中泯",
+        "character": "",
+        "profilePath": "/bXmBnejA48Da7LzLdJqTKSVPCwd.jpg"
+      },
+      {
+        "id": 3726228,
+        "name": "Ryubun Sumori",
+        "character": "",
+        "profilePath": "/8IqPCCkRCOXKsxhhHxhjAMxfMSa.jpg"
+      },
+      {
+        "id": 5043111,
+        "name": "Kei Takei",
+        "character": "",
+        "profilePath": null
+      }
+    ]
+  },
+  {
+    "id": 1288987,
+    "title": "Olivia y las nubes",
+    "originalTitle": "Olivia y las nubes",
+    "overview": "",
+    "releaseDate": "2025-06-19",
+    "jpReleaseDate": "2026-01-24",
+    "jpReleaseType": 3,
+    "runtime": 81,
+    "genres": [
+      {
+        "id": 16,
+        "name": "アニメーション"
+      },
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 6.0,
+    "voteCount": 1,
+    "popularity": 0.6198,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/nwfjehaVFGWmnubSQRFRwwyLVKL.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/2zoNGjUV4Y1Asp1Hxkg3Whx4LZE.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 3539624,
+        "name": "Tomás Pichardo-Espaillat",
+        "profilePath": "/nY9QPX1DppG0H0Fap6q0W8FQdjx.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 1476095,
+        "name": "Olga Valdez",
+        "character": "Olivia (voice)",
+        "profilePath": "/9dj2iwwZSWyrLHXZzTL9IlAH5ke.jpg"
+      },
+      {
+        "id": 1676666,
+        "name": "Héctor Aníbal",
+        "character": "Ramón (voice)",
+        "profilePath": "/5PU9da9gJrZFizL0teCm7YCosPT.jpg"
+      },
+      {
+        "id": 4152933,
+        "name": "Fery Cordero Bello",
+        "character": "Mauricio (voice)",
+        "profilePath": null
+      },
+      {
+        "id": 4157469,
+        "name": "Dominique Goris",
+        "character": "Barbara (voice)",
+        "profilePath": null
+      },
+      {
+        "id": 4830117,
+        "name": "Elsa Núñez",
+        "character": "Doña Olivia (voice)",
+        "profilePath": null
+      }
+    ]
+  },
+  {
+    "id": 1461201,
+    "title": "クスノキの番人",
+    "originalTitle": "クスノキの番人",
+    "overview": "理不尽な解雇により職を失った青年・直井玲斗は、追い詰められた末の過ちで逮捕される。運に身を委ね、将来を思い描くことも、人生の選択を自ら決める意志もなかった。そんな彼に運命を変える出会いが訪れる。依頼人の指示に従うなら、釈放する――突如現れそう告げる弁護士の条件を呑んだ玲斗の前に現れたのは柳澤千舟。大企業・柳澤グループの発展に大きく貢献してきた人物であり、亡き母の腹違いの姉だという。「あなたに、命じたいことがあります」それは、月郷神社に佇む＜クスノキの番人＞になることだった。戸惑いながらも番人となった玲斗は、さまざまな事情で境内を訪れる人々と出会う。クスノキに定期的に足を運び続ける男・佐治寿明。その娘で父の行動を不審に思う女子大生・佐治優美。家業の継承に葛藤する青年・大場壮貴、彼らや千舟と関わるうちに、玲斗の世界は、少しずつ色を帯びていく。",
+    "releaseDate": "2026-01-30",
+    "jpReleaseDate": "2026-01-30",
+    "jpReleaseType": 3,
+    "runtime": 103,
+    "genres": [
+      {
+        "id": 16,
+        "name": "アニメーション"
+      },
+      {
+        "id": 18,
+        "name": "ドラマ"
+      },
+      {
+        "id": 9648,
+        "name": "謎"
+      },
+      {
+        "id": 14,
+        "name": "ファンタジー"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.5131,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/kvAG1owZk5JYrPZe8uYmsgodwBu.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/iBCuy1Ic4BFuObMmMf4b7eGylqS.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=FJ7XsCrvfak",
+    "homepage": "https://kusunoki-movie.com",
+    "tagline": "",
+    "status": "Post Production",
+    "directors": [
+      {
+        "id": 1362698,
+        "name": "伊藤智彦",
+        "profilePath": "/GyFpjtodiP19QlMue8Yu41N3gG.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 2389740,
+        "name": "高橋文哉",
+        "character": "Reito Naoi (voice)",
+        "profilePath": "/l7f30v8ew2bjKWBCaf3WGoU54xC.jpg"
+      },
+      {
+        "id": 78350,
+        "name": "天海祐希",
+        "character": "Chifune Yanagisawa (voice)",
+        "profilePath": "/h5OODF0k6lOomoA6T4BzyqFTcdL.jpg"
+      },
+      {
+        "id": 2053787,
+        "name": "齋藤飛鳥",
+        "character": "Yumi Saji (voice)",
+        "profilePath": "/2sOZRKPNqKAazTsFzzqJtna7Fnz.jpg"
+      },
+      {
+        "id": 2560735,
+        "name": "宮世琉弥",
+        "character": "Sōki Ōba (voice)",
+        "profilePath": "/1eEHt14GlxmMgnBpf0ZstRHceOE.jpg"
+      },
+      {
+        "id": 45999,
+        "name": "大沢たかお",
+        "character": "Toshiaki Saji (voice)",
+        "profilePath": "/nxSOEoENPw6NIYOckna94WICPAE.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1224993,
+    "title": "검은 수녀들",
+    "originalTitle": "검은 수녀들",
+    "overview": "",
+    "releaseDate": "2025-01-24",
+    "jpReleaseDate": "2026-01-30",
+    "jpReleaseType": 3,
+    "runtime": 115,
+    "genres": [
+      {
+        "id": 27,
+        "name": "ホラー"
+      },
+      {
+        "id": 9648,
+        "name": "謎"
+      },
+      {
+        "id": 53,
+        "name": "スリラー"
+      },
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 6.26,
+    "voteCount": 73,
+    "popularity": 4.3504,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8NqTc1N4M6XOrOxw0Kd8W40G72d.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/xIB0jjWBuURB0K2Pr91VsjUNYsY.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 146865,
+        "name": "권혁재",
+        "profilePath": "/xLzue64JzRSiFddkwhXZOcT9Tox.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 74421,
+        "name": "송혜교",
+        "character": "Sister Giunia",
+        "profilePath": "/tlAX3f82Mf5h0rznpVBVK7nD2om.jpg"
+      },
+      {
+        "id": 2067860,
+        "name": "チョン・ヨビン",
+        "character": "Sister Michela",
+        "profilePath": "/l28uxiGDMyZjQMRvhfNCtkydmpK.jpg"
+      },
+      {
+        "id": 1299479,
+        "name": "이진욱",
+        "character": "Father Paolo",
+        "profilePath": "/fODHfrMuRac7xkeFErJOjawggM1.jpg"
+      },
+      {
+        "id": 2704194,
+        "name": "문우진",
+        "character": "Choi Hee-joon",
+        "profilePath": "/jAk8EhqNnflSWltcJuv5nE4MpTu.jpg"
+      },
+      {
+        "id": 83637,
+        "name": "허준호",
+        "character": "Father Andreas",
+        "profilePath": "/t6wAW0pdbycCERKMdl4VF2Sm6E3.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1198994,
+    "title": "HELP/復讐島",
+    "originalTitle": "Send Help",
+    "overview": "",
+    "releaseDate": "2026-01-22",
+    "jpReleaseDate": "2026-01-30",
+    "jpReleaseType": 3,
+    "runtime": 0,
+    "genres": [
+      {
+        "id": 27,
+        "name": "ホラー"
+      },
+      {
+        "id": 53,
+        "name": "スリラー"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 3.7743,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lNam8wi4bhzZ6U4wRb2T1nGsSix.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/egPjVZQkex73piq0V3oF1MO5pzi.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=hFQUI-jP4gU",
+    "homepage": "https://www.20thcenturystudios.jp/movies/fukushu-jima",
+    "tagline": "",
+    "status": "Post Production",
+    "directors": [
+      {
+        "id": 7623,
+        "name": "サム・ライミ",
+        "profilePath": "/8gssvwiPrFRuFRlr5ruKx68k1Jl.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 53714,
+        "name": "Rachel McAdams",
+        "character": "Linda Liddle",
+        "profilePath": "/2zyOjda95OfAAsJvuwTV0UaznPZ.jpg"
+      },
+      {
+        "id": 527393,
+        "name": "Dylan O'Brien",
+        "character": "Bradley Preston",
+        "profilePath": "/xN3GdvIlqsR838gDoblhPH0numP.jpg"
+      },
+      {
+        "id": 4477127,
+        "name": "Edyll Ismail",
+        "character": "",
+        "profilePath": "/4JNIAlJXlw1HTF2log6GUeErDcT.jpg"
+      },
+      {
+        "id": 109438,
+        "name": "ゼイヴィア・サミュエル",
+        "character": "",
+        "profilePath": "/gHvKqCXfpzaGp46gqsy9MVDfmSf.jpg"
+      },
+      {
+        "id": 145248,
+        "name": "Chris Pang",
+        "character": "",
+        "profilePath": "/rd1ScdIuW0Wo4qdjIDsnXeZDr8a.jpg"
+      }
+    ]
+  },
+  {
+    "id": 910850,
+    "title": "機動戦士ガンダム  閃光のハサウェイ キルケーの魔女",
+    "originalTitle": "機動戦士ガンダム  閃光のハサウェイ キルケーの魔女",
+    "overview": "",
+    "releaseDate": "2026-01-30",
+    "jpReleaseDate": "2026-01-30",
+    "jpReleaseType": 3,
+    "runtime": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "アニメーション"
+      },
+      {
+        "id": 878,
+        "name": "サイエンスフィクション"
+      },
+      {
+        "id": 10752,
+        "name": "戦争"
+      },
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.6457,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/s9gebOdfQjiORS1RhWuog8qIiKk.jpg",
+    "backdropUrl": null,
+    "trailerUrl": "https://www.youtube.com/watch?v=e9oZ3sRTUdA",
+    "homepage": "https://gundam-official.com/hathaway",
+    "tagline": "",
+    "status": "In Production",
+    "directors": [
+      {
+        "id": 1222157,
+        "name": "村瀬修功",
+        "profilePath": null
+      }
+    ],
+    "cast": [
+      {
+        "id": 1065297,
+        "name": "小野賢章",
+        "character": "Hathaway Noa (voice)",
+        "profilePath": "/wUYJ3HIeygHfh4rAqupE4RPoG3W.jpg"
+      },
+      {
+        "id": 1452028,
+        "name": "上田麗奈",
+        "character": "Gigi Andalucia (voice)",
+        "profilePath": "/cddK6dQtVCg6ToQRpETbRYRJK4G.jpg"
+      },
+      {
+        "id": 9721,
+        "name": "諏訪部順一",
+        "character": "Kenneth Sleg (voice)",
+        "profilePath": "/4S7c3n3r07A83HvkLrnWZGVhiHg.jpg"
+      },
+      {
+        "id": 1388751,
+        "name": "斉藤壮馬",
+        "character": "Lane Aim (voice)",
+        "profilePath": "/8W8Y02Jmjivw0kk5PDih9dqiyd9.jpg"
+      }
+    ]
+  },
+  {
+    "id": 798645,
+    "title": "ランニング・マン",
+    "originalTitle": "The Running Man",
+    "overview": "",
+    "releaseDate": "2025-11-11",
+    "jpReleaseDate": "2026-01-30",
+    "jpReleaseType": 3,
+    "runtime": 133,
+    "genres": [
+      {
+        "id": 28,
+        "name": "アクション"
+      },
+      {
+        "id": 53,
+        "name": "スリラー"
+      },
+      {
+        "id": 878,
+        "name": "サイエンスフィクション"
+      }
+    ],
+    "voteAverage": 6.84,
+    "voteCount": 823,
+    "popularity": 108.5847,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=8qYfJyMNAjM",
+    "homepage": "https://the-runningman-movie.jp",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 11090,
+        "name": "エドガー・ライト",
+        "profilePath": "/3BqgbeAkNnDcIVtrDvG6LJnEkZK.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 83271,
+        "name": "グレン・パウエル",
+        "character": "Ben Richards",
+        "profilePath": "/fUnIaJkdgvQTztyR1nLeUceSzly.jpg"
+      },
+      {
+        "id": 16851,
+        "name": "ジョシュ・ブローリン",
+        "character": "Dan Killian",
+        "profilePath": "/sX2etBbIkxRaCsATyw5ZpOVMPTD.jpg"
+      },
+      {
+        "id": 91671,
+        "name": "コールマン・ドミンゴ",
+        "character": "Bobby Thompson",
+        "profilePath": "/r2usluS5vx7O7npAYfaAFfNGxc8.jpg"
+      },
+      {
+        "id": 72095,
+        "name": "リー・ペイス",
+        "character": "Evan McCone",
+        "profilePath": "/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
+      },
+      {
+        "id": 39995,
+        "name": "マイケル・セラ",
+        "character": "Elton Parrakis",
+        "profilePath": "/qjhNKsw0OLyZQgK4srhelBafcCf.jpg"
+      }
+    ]
+  }
+]
