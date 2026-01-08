@@ -20,7 +20,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.2331,
+    "popularity": 0.1889,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/aDDgFVmEfcnrNlrgtE5yMJSCnqF.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/sxk6WuXVNdFkKEI2v1K5dNk70KB.jpg",
@@ -72,11 +72,11 @@
     "id": 1507724,
     "title": "迷宮のしおり",
     "originalTitle": "迷宮のしおり",
-    "overview": "どこにでもいる普通の女子高生・前澤栞は、\r ある日突然スマホが割れ、気が付くと誰もいない異世界の横浜にいた――。  スマホを見ると、栞のＳＮＳには身に覚えのない自身の写真が投稿されている。\r 投稿された写真に映っているのは――？\r 果たして彼女はこの奇妙なスマホの迷宮から抜け出すことができるのか！？",
+    "overview": "どこにでもいる普通の女子高生・前澤栞は、  ある日突然スマホが割れ、気が付くと誰もいない異世界の横浜にいた――。  スマホを見ると、栞のＳＮＳには身に覚えのない自身の写真が投稿されている。  投稿された写真に映っているのは――？  果たして彼女はこの奇妙なスマホの迷宮から抜け出すことができるのか！？",
     "releaseDate": "2026-01-01",
     "jpReleaseDate": "2026-01-01",
     "jpReleaseType": 3,
-    "runtime": 0,
+    "runtime": 115,
     "genres": [
       {
         "id": 16,
@@ -93,7 +93,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.5437,
+    "popularity": 0.6969,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/aBu2yfe3MLRyY6fuhQRSYs4e4Ci.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/80BGnKFgg4bm5l6Yxl7GDTVBT1q.jpg",
@@ -160,9 +160,9 @@
         "name": "音楽"
       }
     ],
-    "voteAverage": 0.0,
-    "voteCount": 0,
-    "popularity": 0.7484,
+    "voteAverage": 5.0,
+    "voteCount": 1,
+    "popularity": 0.3697,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/eiPUYr2p17R0bz6WanJJ0jyYrDb.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/n9uPzYp2rDcSLJbCwXCdT7b3si.jpg",
@@ -209,9 +209,9 @@
         "name": "スリラー"
       }
     ],
-    "voteAverage": 6.705,
-    "voteCount": 1696,
-    "popularity": 32.0786,
+    "voteAverage": 6.699,
+    "voteCount": 1720,
+    "popularity": 32.2002,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
@@ -276,7 +276,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.1305,
+    "popularity": 0.1519,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/rAUGA6yt1EJ6kGNEUvENNUEPdtj.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/7NGb9x9L4l64TfawvYiDGAcKd1t.jpg",
@@ -353,7 +353,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.8783,
+    "popularity": 0.8464,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/y8mUXNllYasEJ37IsZaLrrR2yaW.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/yFDR62ZwlorTho3p9ZgAco5seI8.jpg",
@@ -424,9 +424,9 @@
         "name": "コメディ"
       }
     ],
-    "voteAverage": 6.942,
-    "voteCount": 639,
-    "popularity": 11.8603,
+    "voteAverage": 6.94,
+    "voteCount": 666,
+    "popularity": 11.4735,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/i7OPV7PgyT3FVZk0teETuUQ5oDg.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/zWO3B2CTDguZqCrVQ2u5Xnp9VRS.jpg",
@@ -493,9 +493,9 @@
         "name": "ロマンス"
       }
     ],
-    "voteAverage": 7.4,
-    "voteCount": 15,
-    "popularity": 3.9153,
+    "voteAverage": 7.438,
+    "voteCount": 16,
+    "popularity": 2.7067,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/mkQE7ZOhBMoVhDFbwLiJ43T5GzX.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/1E2WVVwN0L8KtgvmtaHhER3DpvO.jpg",
@@ -564,7 +564,7 @@
     ],
     "voteAverage": 6.7,
     "voteCount": 80,
-    "popularity": 1.0198,
+    "popularity": 1.1509,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/lchBnX6ZPWAshGwXgmIQHcanYVa.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/s8ryrjpl6GjSLoEHagzmgE4Yl2f.jpg",
@@ -639,9 +639,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 7.192,
-    "voteCount": 887,
-    "popularity": 3.2958,
+    "voteAverage": 7.189,
+    "voteCount": 889,
+    "popularity": 3.0967,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/o7b5oDSpADw8SMfNd9ekqyFGCjp.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/q0PBB2RCrOAZrZjqJKhL3ibTV8b.jpg",
@@ -656,6 +656,11 @@
         "profilePath": "/AfV9h1RW6uALpx751APdUoX8ONc.jpg"
       },
       {
+        "id": 77923,
+        "name": "鶴巻和哉",
+        "profilePath": "/vhf9zmNK3HcDkB0fH3RULJoCU9b.jpg"
+      },
+      {
         "id": 77926,
         "name": "摩砂雪",
         "profilePath": "/aYxPbcnEonKP6Ctb6ibHUBLJWxv.jpg"
@@ -664,11 +669,6 @@
         "id": 56341,
         "name": "前田真宏",
         "profilePath": "/dwqETG4XzUO0zGMYluXfLVIrdDu.jpg"
-      },
-      {
-        "id": 77923,
-        "name": "鶴巻和哉",
-        "profilePath": "/vhf9zmNK3HcDkB0fH3RULJoCU9b.jpg"
       }
     ],
     "cast": [
@@ -721,7 +721,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.0389,
+    "popularity": 0.094,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/hvNZknHdosyYb4soMLgy7gnVhEb.jpg",
     "backdropUrl": null,
@@ -786,7 +786,7 @@
     ],
     "voteAverage": 6.5,
     "voteCount": 22,
-    "popularity": 0.428,
+    "popularity": 0.4556,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/sfg6A1knpv2XagkvXQCd5L3sb7l.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/5G7WyWUBQhic7bk1dbqQaNJ22UL.jpg",
@@ -851,7 +851,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.1984,
+    "popularity": 0.0727,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/u9W2IZRQ6JQlf1Bur2fMmzypkZy.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/eT7QekNA6VEIXW9OVbRqrwK9BOl.jpg",
@@ -920,7 +920,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.3654,
+    "popularity": 0.4175,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/yo6eLG1F2tC8ecdkXcYLlfu72bl.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/diQKCrUfy6L5xzLIXEtE4AWBKbR.jpg",
@@ -993,7 +993,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.234,
+    "popularity": 0.4845,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/eiLtWm1BiqS2BHJ7PuPJSp9d69M.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/1jxTnpaGckczKx0V41smden59Xq.jpg",
@@ -1066,7 +1066,7 @@
     ],
     "voteAverage": 7.138,
     "voteCount": 29,
-    "popularity": 1.8468,
+    "popularity": 1.8998,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/bT8E8PDcN25FKynuFvzHYDp2Tk1.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/8OPxY4gmVLoURJcz1BbR2a4Hi5q.jpg",
@@ -1078,7 +1078,7 @@
       {
         "id": 1292116,
         "name": "Dong Chengpeng",
-        "profilePath": "/w2d1MkMXUvtdCFwCeCT7Lxdo6NA.jpg"
+        "profilePath": "/rR2zPhvqwx0aZuLPOJrFuqOjcBE.jpg"
       }
     ],
     "cast": [
@@ -1086,7 +1086,7 @@
         "id": 1292116,
         "name": "Dong Chengpeng",
         "character": "Li Shande",
-        "profilePath": "/w2d1MkMXUvtdCFwCeCT7Lxdo6NA.jpg"
+        "profilePath": "/rR2zPhvqwx0aZuLPOJrFuqOjcBE.jpg"
       },
       {
         "id": 1627281,
@@ -1139,7 +1139,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 10.8001,
+    "popularity": 17.5624,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/j44XuLdsoSnlSuMgdKmcju4vM95.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/dT1p0K1szMAUBuE2bibouDQdNb8.jpg",
@@ -1206,9 +1206,9 @@
         "name": "アクション"
       }
     ],
-    "voteAverage": 7.093,
-    "voteCount": 1198,
-    "popularity": 17.6779,
+    "voteAverage": 7.089,
+    "voteCount": 1217,
+    "popularity": 14.9276,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ikdVFWer1HWuRcpSVE9EIhoQVPV.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
@@ -1233,7 +1233,7 @@
         "id": 2710333,
         "name": "D'Pharaoh Woon-A-Tai",
         "character": "Ray",
-        "profilePath": "/eoQtQj87Hv8UO7dW8J8wY3f41e4.jpg"
+        "profilePath": "/ozEGeNK9r2EFn4rNU0DSuNQaia0.jpg"
       },
       {
         "id": 93491,
@@ -1276,9 +1276,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 6.651,
-    "voteCount": 53,
-    "popularity": 4.5748,
+    "voteAverage": 6.7,
+    "voteCount": 54,
+    "popularity": 3.3547,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/hKNTx4T9skoEJMczJyHg1CsAEMZ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/13H7aiwQsiEDok54b1OFDTz7u1X.jpg",
@@ -1347,7 +1347,7 @@
     ],
     "voteAverage": 7.2,
     "voteCount": 6,
-    "popularity": 0.2561,
+    "popularity": 0.1968,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/rq6P9Zb129eIdlzskJtJ46U5AQk.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/s1Us5nFvHbWezACM1GrHwJYUfZL.jpg",
@@ -1412,7 +1412,7 @@
     ],
     "voteAverage": 5.0,
     "voteCount": 1,
-    "popularity": 0.229,
+    "popularity": 0.2142,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/nhyzAAxpTaHKCFmehBXAin0a5hE.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/wSqlFvZ0kgGr4N5918sVEWCQ5Kf.jpg",
@@ -1485,7 +1485,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.1443,
+    "popularity": 0.1043,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kGoBRzLcfONf7tOB7Dvhm4Xqtw.jpg",
     "backdropUrl": null,
@@ -1539,7 +1539,7 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.1789,
+    "popularity": 0.126,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/toKLnsJ3501vQe90kR6SigCtKvR.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/uGlwlgM4JxwPWu9u2lyyLYP1jXa.jpg",
@@ -1592,7 +1592,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.3438,
+    "popularity": 0.33,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/VJjyMznpIMDXZmpeLBlw2zCgCJ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/tN5VIsdm3FePMTg3A4O3n6nA8GT.jpg",
@@ -1665,7 +1665,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.1253,
+    "popularity": 0.972,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/nvk8bbtp15Zu8sGKtAspHrwrMaf.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/pN6sTnFXUuiDqR019WBFhCnQ2KX.jpg",
@@ -1734,10 +1734,10 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 3.7077,
+    "popularity": 3.6122,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/4t2ImmKli4bOrBtaWBaV2rSeiVG.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/b16iGgM0Grq526oBxZR9kRBOKIe.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/8yzfrJQRt90oBjSnKoziXl0A42l.jpg",
     "trailerUrl": null,
     "homepage": "",
     "tagline": "",
@@ -1787,7 +1787,7 @@
     "title": "MERCY／マーシー　AI裁判",
     "originalTitle": "Mercy",
     "overview": "",
-    "releaseDate": "2026-01-22",
+    "releaseDate": "2026-01-21",
     "jpReleaseDate": "2026-01-23",
     "jpReleaseType": 3,
     "runtime": 100,
@@ -1807,10 +1807,10 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 6.6039,
+    "popularity": 10.8585,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/1LzdlxK9ctsnx7nXoGF1ImHKddl.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/ArM4HK4N2lUcRzDRdIRcY6gHZNn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/l0rY0RH64CXne5vW2Y3yHZpjmDy.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=j3D7oadIK-U",
     "homepage": "",
     "tagline": "",
@@ -1874,12 +1874,12 @@
         "name": "スリラー"
       }
     ],
-    "voteAverage": 6.868,
-    "voteCount": 451,
-    "popularity": 320.7103,
+    "voteAverage": 6.8,
+    "voteCount": 526,
+    "popularity": 178.0246,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/mOeBBD49M72vCEXzgA1dS2MwGno.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=hL9MbUETB44",
     "homepage": "",
     "tagline": "",
@@ -1941,7 +1941,7 @@
     ],
     "voteAverage": 7.5,
     "voteCount": 1,
-    "popularity": 0.4457,
+    "popularity": 0.3389,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/6l3Cf56cikwpll0i7fkcthGKPtR.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/7ajqnik0ZDnKobIidoS1w99HN4s.jpg",
@@ -2010,7 +2010,7 @@
     ],
     "voteAverage": 6.0,
     "voteCount": 1,
-    "popularity": 0.6198,
+    "popularity": 0.4108,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/nwfjehaVFGWmnubSQRFRwwyLVKL.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/2zoNGjUV4Y1Asp1Hxkg3Whx4LZE.jpg",
@@ -2059,6 +2059,75 @@
     ]
   },
   {
+    "id": 1609620,
+    "title": "ガールズ＆パンツァー　もっとらぶらぶ作戦です！　第2幕",
+    "originalTitle": "ガールズ＆パンツァー　もっとらぶらぶ作戦です！　第2幕",
+    "overview": "",
+    "releaseDate": "2026-01-30",
+    "jpReleaseDate": "2026-01-30",
+    "jpReleaseType": 3,
+    "runtime": 72,
+    "genres": [
+      {
+        "id": 16,
+        "name": "アニメーション"
+      },
+      {
+        "id": 35,
+        "name": "コメディ"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.1282,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/dJ2OaV78Kylsxlj5dRKAHDQKrpV.jpg",
+    "backdropUrl": null,
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "In Production",
+    "directors": [
+      {
+        "id": 1494117,
+        "name": "下田正美",
+        "profilePath": "/5VMpnxuGnph5y9HpSqSktr6SNUp.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 1254300,
+        "name": "渕上舞",
+        "character": "",
+        "profilePath": "/rWYdSVyjdyKoWj9SbJRTMJmYgbJ.jpg"
+      },
+      {
+        "id": 1254671,
+        "name": "茅野愛衣",
+        "character": "",
+        "profilePath": "/pfM0EcMpzPGChxM4sdPjCpPFKch.jpg"
+      },
+      {
+        "id": 1256099,
+        "name": "尾崎真実",
+        "character": "",
+        "profilePath": "/4zqziz0CPlp7JAogk5WrHUaKM3G.jpg"
+      },
+      {
+        "id": 1256098,
+        "name": "中上育実",
+        "character": "",
+        "profilePath": "/6ASuHnrzVAGgmM7NxvvV9knSwRo.jpg"
+      },
+      {
+        "id": 1242005,
+        "name": "井口裕香",
+        "character": "",
+        "profilePath": "/ArhwersC4G7Or81brTOdW8yEhfV.jpg"
+      }
+    ]
+  },
+  {
     "id": 1461201,
     "title": "クスノキの番人",
     "originalTitle": "クスノキの番人",
@@ -2087,7 +2156,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.5131,
+    "popularity": 0.5096,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kvAG1owZk5JYrPZe8uYmsgodwBu.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/iBCuy1Ic4BFuObMmMf4b7eGylqS.jpg",
@@ -2162,9 +2231,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 6.26,
-    "voteCount": 73,
-    "popularity": 4.3504,
+    "voteAverage": 6.257,
+    "voteCount": 74,
+    "popularity": 4.0459,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/8NqTc1N4M6XOrOxw0Kd8W40G72d.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/xIB0jjWBuURB0K2Pr91VsjUNYsY.jpg",
@@ -2220,7 +2289,7 @@
     "releaseDate": "2026-01-22",
     "jpReleaseDate": "2026-01-30",
     "jpReleaseType": 3,
-    "runtime": 0,
+    "runtime": 113,
     "genres": [
       {
         "id": 27,
@@ -2229,13 +2298,17 @@
       {
         "id": 53,
         "name": "スリラー"
+      },
+      {
+        "id": 35,
+        "name": "コメディ"
       }
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 3.7743,
+    "popularity": 7.352,
     "adult": false,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/lNam8wi4bhzZ6U4wRb2T1nGsSix.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/zbJWVHOtj3ljBzWgL1P8pxP03Up.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/egPjVZQkex73piq0V3oF1MO5pzi.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=hFQUI-jP4gU",
     "homepage": "https://www.20thcenturystudios.jp/movies/fukushu-jima",
@@ -2253,7 +2326,7 @@
         "id": 53714,
         "name": "Rachel McAdams",
         "character": "Linda Liddle",
-        "profilePath": "/2zyOjda95OfAAsJvuwTV0UaznPZ.jpg"
+        "profilePath": "/zmcwkvBGU4j6QEClXGu7ODjDEM.jpg"
       },
       {
         "id": 527393,
@@ -2310,7 +2383,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.6457,
+    "popularity": 0.5008,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/s9gebOdfQjiORS1RhWuog8qIiKk.jpg",
     "backdropUrl": null,
@@ -2375,9 +2448,9 @@
         "name": "サイエンスフィクション"
       }
     ],
-    "voteAverage": 6.84,
-    "voteCount": 823,
-    "popularity": 108.5847,
+    "voteAverage": 6.8,
+    "voteCount": 905,
+    "popularity": 77.0282,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/dKL78O9zxczVgjtNcQ9UkbYLzqX.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg",
@@ -2397,7 +2470,7 @@
         "id": 83271,
         "name": "グレン・パウエル",
         "character": "Ben Richards",
-        "profilePath": "/fUnIaJkdgvQTztyR1nLeUceSzly.jpg"
+        "profilePath": "/m6D6tSmgEvYGxo2q0zrwyo1a4of.jpg"
       },
       {
         "id": 16851,
