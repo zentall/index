@@ -20,7 +20,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 4.3598,
+    "popularity": 0.7438,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/aDDgFVmEfcnrNlrgtE5yMJSCnqF.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/sxk6WuXVNdFkKEI2v1K5dNk70KB.jpg",
@@ -93,7 +93,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 3.7156,
+    "popularity": 4.6694,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/aBu2yfe3MLRyY6fuhQRSYs4e4Ci.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/80BGnKFgg4bm5l6Yxl7GDTVBT1q.jpg",
@@ -162,7 +162,7 @@
     ],
     "voteAverage": 5.0,
     "voteCount": 1,
-    "popularity": 0.9043,
+    "popularity": 0.7605,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/eiPUYr2p17R0bz6WanJJ0jyYrDb.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/n9uPzYp2rDcSLJbCwXCdT7b3si.jpg",
@@ -209,9 +209,9 @@
         "name": "スリラー"
       }
     ],
-    "voteAverage": 6.7,
-    "voteCount": 1747,
-    "popularity": 28.4354,
+    "voteAverage": 6.688,
+    "voteCount": 1762,
+    "popularity": 27.683,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/6FRFIogh3zFnVWn7Z6zcYnIbRcX.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/fTrQsdMS2MUw00RnzH0r3JWHhts.jpg",
@@ -271,7 +271,7 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.2296,
+    "popularity": 0.0404,
     "adult": false,
     "posterUrl": null,
     "backdropUrl": null,
@@ -330,7 +330,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.2451,
+    "popularity": 0.2194,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/rAUGA6yt1EJ6kGNEUvENNUEPdtj.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/7NGb9x9L4l64TfawvYiDGAcKd1t.jpg",
@@ -407,7 +407,7 @@
     ],
     "voteAverage": 6.0,
     "voteCount": 1,
-    "popularity": 6.4617,
+    "popularity": 2.0178,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/y8mUXNllYasEJ37IsZaLrrR2yaW.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/yFDR62ZwlorTho3p9ZgAco5seI8.jpg",
@@ -478,9 +478,9 @@
         "name": "コメディ"
       }
     ],
-    "voteAverage": 6.935,
-    "voteCount": 693,
-    "popularity": 9.1738,
+    "voteAverage": 6.922,
+    "voteCount": 706,
+    "popularity": 8.6453,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/i7OPV7PgyT3FVZk0teETuUQ5oDg.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/41043LV7mfluH8iXEUPVseCDAv5.jpg",
@@ -512,7 +512,7 @@
         "id": 37153,
         "name": "ゾーイ・クラヴィッツ",
         "character": "Yvonne",
-        "profilePath": "/zx74kkI931iiQATJybvRKWYnOe9.jpg"
+        "profilePath": "/iRsOS82q5WRAZBquTgtgzDQf01S.jpg"
       },
       {
         "id": 136532,
@@ -549,7 +549,7 @@
     ],
     "voteAverage": 7.438,
     "voteCount": 16,
-    "popularity": 5.6431,
+    "popularity": 8.958,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/mkQE7ZOhBMoVhDFbwLiJ43T5GzX.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/1E2WVVwN0L8KtgvmtaHhER3DpvO.jpg",
@@ -616,9 +616,9 @@
         "name": "スリラー"
       }
     ],
-    "voteAverage": 6.7,
-    "voteCount": 80,
-    "popularity": 3.4315,
+    "voteAverage": 6.66,
+    "voteCount": 81,
+    "popularity": 3.0898,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/lchBnX6ZPWAshGwXgmIQHcanYVa.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/s8ryrjpl6GjSLoEHagzmgE4Yl2f.jpg",
@@ -693,9 +693,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 7.186,
-    "voteCount": 893,
-    "popularity": 3.4431,
+    "voteAverage": 7.187,
+    "voteCount": 895,
+    "popularity": 2.8332,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/o7b5oDSpADw8SMfNd9ekqyFGCjp.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/q0PBB2RCrOAZrZjqJKhL3ibTV8b.jpg",
@@ -710,9 +710,9 @@
         "profilePath": "/AfV9h1RW6uALpx751APdUoX8ONc.jpg"
       },
       {
-        "id": 77923,
-        "name": "鶴巻和哉",
-        "profilePath": "/vhf9zmNK3HcDkB0fH3RULJoCU9b.jpg"
+        "id": 77926,
+        "name": "摩砂雪",
+        "profilePath": "/aYxPbcnEonKP6Ctb6ibHUBLJWxv.jpg"
       },
       {
         "id": 56341,
@@ -720,9 +720,9 @@
         "profilePath": "/dwqETG4XzUO0zGMYluXfLVIrdDu.jpg"
       },
       {
-        "id": 77926,
-        "name": "摩砂雪",
-        "profilePath": "/aYxPbcnEonKP6Ctb6ibHUBLJWxv.jpg"
+        "id": 77923,
+        "name": "鶴巻和哉",
+        "profilePath": "/vhf9zmNK3HcDkB0fH3RULJoCU9b.jpg"
       }
     ],
     "cast": [
@@ -775,7 +775,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.2525,
+    "popularity": 0.0725,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/hvNZknHdosyYb4soMLgy7gnVhEb.jpg",
     "backdropUrl": null,
@@ -840,7 +840,7 @@
     ],
     "voteAverage": 6.5,
     "voteCount": 22,
-    "popularity": 4.2533,
+    "popularity": 2.9362,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/sfg6A1knpv2XagkvXQCd5L3sb7l.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/5G7WyWUBQhic7bk1dbqQaNJ22UL.jpg",
@@ -905,7 +905,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 3.0518,
+    "popularity": 4.3412,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/u9W2IZRQ6JQlf1Bur2fMmzypkZy.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/eT7QekNA6VEIXW9OVbRqrwK9BOl.jpg",
@@ -974,7 +974,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 2.6828,
+    "popularity": 4.7317,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/yo6eLG1F2tC8ecdkXcYLlfu72bl.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/diQKCrUfy6L5xzLIXEtE4AWBKbR.jpg",
@@ -1047,7 +1047,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.4245,
+    "popularity": 0.4142,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/eiLtWm1BiqS2BHJ7PuPJSp9d69M.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/1jxTnpaGckczKx0V41smden59Xq.jpg",
@@ -1119,8 +1119,8 @@
       }
     ],
     "voteAverage": 7.2,
-    "voteCount": 29,
-    "popularity": 5.2287,
+    "voteCount": 31,
+    "popularity": 6.2762,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/bT8E8PDcN25FKynuFvzHYDp2Tk1.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/8OPxY4gmVLoURJcz1BbR2a4Hi5q.jpg",
@@ -1169,6 +1169,83 @@
     ]
   },
   {
+    "id": 1284120,
+    "title": "Den stygge stesøsteren",
+    "originalTitle": "Den stygge stesøsteren",
+    "overview": "",
+    "releaseDate": "2025-03-07",
+    "jpReleaseDate": "2026-01-16",
+    "jpReleaseType": 3,
+    "runtime": 109,
+    "genres": [
+      {
+        "id": 27,
+        "name": "ホラー"
+      },
+      {
+        "id": 35,
+        "name": "コメディ"
+      },
+      {
+        "id": 14,
+        "name": "ファンタジー"
+      },
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 7.322,
+    "voteCount": 859,
+    "popularity": 21.2991,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aM7XhsXqE2Otu0Jmcr8NrxUai4B.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/ev9kxdoJ5IYVprt1OvH2SMWJdU1.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 1480411,
+        "name": "Emilie Blichfeldt",
+        "profilePath": "/7sMDeTqW5ZXztzhHi54c2FqSVbz.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 2890913,
+        "name": "Lea Mathilde Skar-Myren",
+        "character": "Elvira",
+        "profilePath": "/wRsFFN1lhGcVM5kQFnLRW0wlQXR.jpg"
+      },
+      {
+        "id": 63769,
+        "name": "Ane Dahl Torp",
+        "character": "Rebekka",
+        "profilePath": "/loW4MVWGzbJJzcBb8HNotalmLtk.jpg"
+      },
+      {
+        "id": 1384976,
+        "name": "Thea Sofie Loch Næss",
+        "character": "Agnes",
+        "profilePath": "/fzd0RI8Vnsw1LoG81YthvdnaeJD.jpg"
+      },
+      {
+        "id": 3126191,
+        "name": "Flo Fagerli",
+        "character": "Alma",
+        "profilePath": "/yem43JCCG9xpjTT1IuosGtmZVNA.jpg"
+      },
+      {
+        "id": 3676023,
+        "name": "Isac Calmroth",
+        "character": "Prince Julian",
+        "profilePath": "/doyeUwvMsSkNuNzak9kBt26fNuP.jpg"
+      }
+    ]
+  },
+  {
     "id": 1272837,
     "title": "28年後... 白骨の神殿",
     "originalTitle": "28 Years Later: The Bone Temple",
@@ -1191,9 +1268,9 @@
         "name": "サイエンスフィクション"
       }
     ],
-    "voteAverage": 7.235,
-    "voteCount": 183,
-    "popularity": 115.7367,
+    "voteAverage": 7.241,
+    "voteCount": 255,
+    "popularity": 72.2395,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/dT1p0K1szMAUBuE2bibouDQdNb8.jpg",
@@ -1224,7 +1301,7 @@
       {
         "id": 5107934,
         "name": "アルフィー・ウィリアムズ",
-        "character": "Spike",
+        "character": "Spike / Jimmy",
         "profilePath": "/wqfyAhZH6uCu5J4THsz2gJxsizB.jpg"
       },
       {
@@ -1260,9 +1337,9 @@
         "name": "アクション"
       }
     ],
-    "voteAverage": 7.094,
-    "voteCount": 1246,
-    "popularity": 10.8396,
+    "voteAverage": 7.092,
+    "voteCount": 1257,
+    "popularity": 12.3167,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ikdVFWer1HWuRcpSVE9EIhoQVPV.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/cJvUJEEQ86LSjl4gFLkYpdCJC96.jpg",
@@ -1330,9 +1407,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 6.588,
-    "voteCount": 57,
-    "popularity": 2.7157,
+    "voteAverage": 6.491,
+    "voteCount": 58,
+    "popularity": 0.8096,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/hKNTx4T9skoEJMczJyHg1CsAEMZ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/13H7aiwQsiEDok54b1OFDTz7u1X.jpg",
@@ -1407,9 +1484,9 @@
         "name": "犯罪"
       }
     ],
-    "voteAverage": 6.3,
-    "voteCount": 121,
-    "popularity": 2.7932,
+    "voteAverage": 6.268,
+    "voteCount": 125,
+    "popularity": 3.0544,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/759mIIerY4Njb8uPoj7AIXGSNh3.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/keC82cQ8q0ZHthrbvzWq04kGnbv.jpg",
@@ -1478,7 +1555,7 @@
     ],
     "voteAverage": 7.2,
     "voteCount": 6,
-    "popularity": 0.2228,
+    "popularity": 0.4114,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/rq6P9Zb129eIdlzskJtJ46U5AQk.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/s1Us5nFvHbWezACM1GrHwJYUfZL.jpg",
@@ -1543,7 +1620,7 @@
     ],
     "voteAverage": 5.0,
     "voteCount": 1,
-    "popularity": 4.358,
+    "popularity": 0.942,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/nhyzAAxpTaHKCFmehBXAin0a5hE.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/wSqlFvZ0kgGr4N5918sVEWCQ5Kf.jpg",
@@ -1592,6 +1669,71 @@
     ]
   },
   {
+    "id": 1047001,
+    "title": "アバウトアス・バット・ノット・アバウトアス",
+    "originalTitle": "About Us But Not About Us",
+    "overview": "文学教授がレストランで学生と出会い、食事をしながら秘密や嘘が明らかになり、悲劇との不吉なつながりが明らかになる。",
+    "releaseDate": "2023-04-08",
+    "jpReleaseDate": "2026-01-17",
+    "jpReleaseType": 3,
+    "runtime": 90,
+    "genres": [
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 5.2,
+    "voteCount": 6,
+    "popularity": 0.1047,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/aLfMSJYSk3x1cQCXsFOhu9Zlj26.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/dHfA82DK7u7meq3KtNBnCAC6glj.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 591994,
+        "name": "Jun Robles Lana",
+        "profilePath": "/nZ8yiwZskOxveSfHXqv6mY5yTnY.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 1234471,
+        "name": "Romnick Sarmenta",
+        "character": "Eric",
+        "profilePath": "/lH183dNVqJx9Or6jwTzgDLZHdf4.jpg"
+      },
+      {
+        "id": 1349626,
+        "name": "Elijah Canlas",
+        "character": "Lance",
+        "profilePath": "/m6ka8mftyggEFkqq5g1CIbS3oQ0.jpg"
+      },
+      {
+        "id": 2345346,
+        "name": "Olive Isidro",
+        "character": "Prof. Dimalanta",
+        "profilePath": null
+      },
+      {
+        "id": 1490606,
+        "name": "Arkin Del Rosario",
+        "character": "Waiter #1",
+        "profilePath": "/emRa52DZdZj73p4KtD0DeeBBGc6.jpg"
+      },
+      {
+        "id": 3048431,
+        "name": "James Andrew Razon",
+        "character": "Waiter #2",
+        "profilePath": "/4rxwGKc8gZcOl0QXLl7h38DU3YW.jpg"
+      }
+    ]
+  },
+  {
     "id": 1619332,
     "title": "舞台 『光が死んだ夏』",
     "originalTitle": "舞台 『光が死んだ夏』",
@@ -1603,7 +1745,7 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.1329,
+    "popularity": 0.0693,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/b7hLRv7SqUefRu3rXzH4Itc96G6.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/tNsKVjCH4a67NT2L9VKuwrxtpas.jpg",
@@ -1668,7 +1810,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.0429,
+    "popularity": 0.0906,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/4PcZ849dxfyqzkXf5b8Ld6mo8sx.jpg",
     "backdropUrl": null,
@@ -1710,7 +1852,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.2901,
+    "popularity": 0.1215,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kGoBRzLcfONf7tOB7Dvhm4Xqtw.jpg",
     "backdropUrl": null,
@@ -1764,7 +1906,7 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.6857,
+    "popularity": 2.619,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/toKLnsJ3501vQe90kR6SigCtKvR.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/uGlwlgM4JxwPWu9u2lyyLYP1jXa.jpg",
@@ -1817,9 +1959,9 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 4.3369,
+    "popularity": 1.3697,
     "adult": false,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/VJjyMznpIMDXZmpeLBlw2zCgCJ.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/o00AZbDAQ4BRAnuRUfcJ44SF5FU.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/tN5VIsdm3FePMTg3A4O3n6nA8GT.jpg",
     "trailerUrl": null,
     "homepage": "https://endof-theline.com/",
@@ -1842,7 +1984,7 @@
       {
         "id": 2018504,
         "name": "中島セナ",
-        "character": "Shuri",
+        "character": "Akari",
         "profilePath": "/o6oCJO0rtgwCEFSb8Yc4MuhPSp1.jpg"
       },
       {
@@ -1890,7 +2032,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 4.306,
+    "popularity": 6.4627,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/nvk8bbtp15Zu8sGKtAspHrwrMaf.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/pN6sTnFXUuiDqR019WBFhCnQ2KX.jpg",
@@ -1959,7 +2101,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 2.4819,
+    "popularity": 7.2199,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/4t2ImmKli4bOrBtaWBaV2rSeiVG.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/8yzfrJQRt90oBjSnKoziXl0A42l.jpg",
@@ -2030,12 +2172,12 @@
         "name": "スリラー"
       }
     ],
-    "voteAverage": 6.8,
-    "voteCount": 6,
-    "popularity": 29.9387,
+    "voteAverage": 6.873,
+    "voteCount": 71,
+    "popularity": 76.8102,
     "adult": false,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/pyok1kZJCfyuFapYXzHcy7BLlQa.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/l0rY0RH64CXne5vW2Y3yHZpjmDy.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/p9rCuCVl2y78IbbRC5XbNJLiYsN.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/mHC8tSRYfAKGh2jaSNQMSzGdbOW.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=j3D7oadIK-U",
     "homepage": "",
     "tagline": "",
@@ -2063,19 +2205,19 @@
       {
         "id": 3119545,
         "name": "Kali Reis",
-        "character": "Jacqueline \"Jaq\" Diallo",
+        "character": "Jacqueline 'Jaq' Diallo",
         "profilePath": "/qJcXQKgaq11aNNPPok0m4yfP2Og.jpg"
       },
       {
         "id": 82809,
         "name": "アナベル・ウォーリス",
-        "character": "Nicole Raven",
-        "profilePath": "/9lqdI8L2Bgj8zWR5l4l0II6GXug.jpg"
+        "character": "Nicole Raven (née Martin)",
+        "profilePath": "/b6PltW1e18BdmRz3nKZ7ID9uZ24.jpg"
       },
       {
         "id": 1293892,
         "name": "Chris Sullivan",
-        "character": "Rob Nelson",
+        "character": "Robert 'Rob' Nelson",
         "profilePath": "/gKZ9xSFrDzUPv27iAkMpH6Qf0Sk.jpg"
       }
     ]
@@ -2099,9 +2241,9 @@
         "name": "スリラー"
       }
     ],
-    "voteAverage": 6.8,
-    "voteCount": 634,
-    "popularity": 76.8746,
+    "voteAverage": 6.7,
+    "voteCount": 671,
+    "popularity": 64.1619,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/udAxQEORq2I5wxI97N2TEqdhzBE.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/54BOXpX2ieTXMDzHymdDMnUIzYG.jpg",
@@ -2127,7 +2269,7 @@
         "id": 2283930,
         "name": "Piper Rubio",
         "character": "Abby",
-        "profilePath": "/5Bt8p5uRlfLjOn64k1gTiSjmL8q.jpg"
+        "profilePath": "/kIg9VvVBi1H8Bl9B697f2GE9rPo.jpg"
       },
       {
         "id": 1368507,
@@ -2166,7 +2308,7 @@
     ],
     "voteAverage": 7.5,
     "voteCount": 1,
-    "popularity": 3.45,
+    "popularity": 2.5068,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/6l3Cf56cikwpll0i7fkcthGKPtR.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/7ajqnik0ZDnKobIidoS1w99HN4s.jpg",
@@ -2235,7 +2377,7 @@
     ],
     "voteAverage": 6.0,
     "voteCount": 2,
-    "popularity": 0.5922,
+    "popularity": 0.6188,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/nwfjehaVFGWmnubSQRFRwwyLVKL.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/2zoNGjUV4Y1Asp1Hxkg3Whx4LZE.jpg",
@@ -2287,7 +2429,7 @@
     "id": 1609620,
     "title": "ガールズ＆パンツァー　もっとらぶらぶ作戦です！　第2幕",
     "originalTitle": "ガールズ＆パンツァー　もっとらぶらぶ作戦です！　第2幕",
-    "overview": "",
+    "overview": "戦車に乗って戦う武芸「戦車道」にまい進する女子高生たち。その厳しさのかたわらで、彼女たちはそれぞれ日常も楽しんでいる。戦車道以外の部活動に真剣に励むチームや、リゾート施設や無人島、宝島に出かけるチーム、さらに美味しいご飯を食べすぎてしまうチームなど、楽しみ方はそれぞれ。そして、そんな彼女たちの周囲では、酒に飲まれてしまう大人もいて……。",
     "releaseDate": "2026-01-30",
     "jpReleaseDate": "2026-01-30",
     "jpReleaseType": 3,
@@ -2304,14 +2446,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.6551,
+    "popularity": 0.2904,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/dJ2OaV78Kylsxlj5dRKAHDQKrpV.jpg",
     "backdropUrl": null,
     "trailerUrl": null,
     "homepage": "",
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "directors": [
       {
         "id": 1494117,
@@ -2381,14 +2523,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 2.9933,
+    "popularity": 3.8625,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kvAG1owZk5JYrPZe8uYmsgodwBu.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/iBCuy1Ic4BFuObMmMf4b7eGylqS.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=FJ7XsCrvfak",
     "homepage": "https://kusunoki-movie.com",
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "directors": [
       {
         "id": 1362698,
@@ -2456,9 +2598,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 6.3,
-    "voteCount": 74,
-    "popularity": 2.4127,
+    "voteAverage": 6.24,
+    "voteCount": 75,
+    "popularity": 2.6387,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/8NqTc1N4M6XOrOxw0Kd8W40G72d.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/xIB0jjWBuURB0K2Pr91VsjUNYsY.jpg",
@@ -2529,12 +2671,12 @@
         "name": "コメディ"
       }
     ],
-    "voteAverage": 6.0,
-    "voteCount": 1,
-    "popularity": 13.9112,
+    "voteAverage": 7.2,
+    "voteCount": 18,
+    "popularity": 55.8665,
     "adult": false,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/lNam8wi4bhzZ6U4wRb2T1nGsSix.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/egPjVZQkex73piq0V3oF1MO5pzi.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/mlV70IuchLZXcXKowjwSpSfdfUB.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/hO2jx1H3XafR7Y8QbFgVH1sHTY9.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=hFQUI-jP4gU",
     "homepage": "https://www.20thcenturystudios.jp/movies/fukushu-jima",
     "tagline": "",
@@ -2551,31 +2693,31 @@
         "id": 53714,
         "name": "レイチェル・マクアダムス",
         "character": "Linda Liddle",
-        "profilePath": "/zmcwkvBGU4j6QEClXGu7ODjDEM.jpg"
+        "profilePath": "/2zyOjda95OfAAsJvuwTV0UaznPZ.jpg"
       },
       {
         "id": 527393,
         "name": "Dylan O'Brien",
         "character": "Bradley Preston",
-        "profilePath": "/xN3GdvIlqsR838gDoblhPH0numP.jpg"
+        "profilePath": "/34b2hShMWBjFhxGPfcqqtsKXtkK.jpg"
       },
       {
         "id": 4477127,
         "name": "Edyll Ismail",
-        "character": "",
+        "character": "Zuri",
         "profilePath": "/4JNIAlJXlw1HTF2log6GUeErDcT.jpg"
+      },
+      {
+        "id": 352,
+        "name": "Dennis Haysbert",
+        "character": "Franklin",
+        "profilePath": "/lcnjaw2CFN6q9eaes1jTYrUB0rb.jpg"
       },
       {
         "id": 109438,
         "name": "ゼイヴィア・サミュエル",
-        "character": "",
+        "character": "Donovan",
         "profilePath": "/gHvKqCXfpzaGp46gqsy9MVDfmSf.jpg"
-      },
-      {
-        "id": 145248,
-        "name": "Chris Pang",
-        "character": "",
-        "profilePath": "/rd1ScdIuW0Wo4qdjIDsnXeZDr8a.jpg"
       }
     ]
   },
@@ -2608,14 +2750,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 4.5823,
+    "popularity": 4.8146,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/8JklX7JAE3vVPKxbx6y6cBnHv9K.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/4ZTD67RhUOcI8WVP1Kmd1LFFc7d.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=5p3Ec5ewI-w",
     "homepage": "https://gundam-official.com/hathaway",
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "directors": [
       {
         "id": 1222157,
@@ -2673,9 +2815,9 @@
         "name": "サイエンスフィクション"
       }
     ],
-    "voteAverage": 6.802,
-    "voteCount": 1026,
-    "popularity": 49.8054,
+    "voteAverage": 6.797,
+    "voteCount": 1073,
+    "popularity": 54.2669,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/hA5SAIDIkEkOAiMCUpWeFzHh9fq.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/aHj7d7wSLqrg5cjAcgHhiGr97Ih.jpg",
@@ -2695,7 +2837,7 @@
         "id": 83271,
         "name": "グレン・パウエル",
         "character": "Ben Richards",
-        "profilePath": "/m6D6tSmgEvYGxo2q0zrwyo1a4of.jpg"
+        "profilePath": "/fUnIaJkdgvQTztyR1nLeUceSzly.jpg"
       },
       {
         "id": 91671,
@@ -2719,7 +2861,84 @@
         "id": 72095,
         "name": "リー・ペイス",
         "character": "Evan McCone",
-        "profilePath": "/eeTc0d2AX1vFYVxZ6Qw7qZpg4Tz.jpg"
+        "profilePath": "/hePfTi5HwU9X0eX2sOmHj9I1Ryp.jpg"
+      }
+    ]
+  },
+  {
+    "id": 586810,
+    "title": "マーズ・エクスプレス",
+    "originalTitle": "Mars Express",
+    "overview": "ときは23世紀――西暦2200年。地球での仕事を終え、活動拠点である火星に戻ってきた私立探偵 アリーヌ 。「行方不明になっている大学生の娘を探してほしい」という男の依頼を受けて、アンドロイドの相棒 カルロス と共に捜索を開始する。調査の過程で、火星の首都ノクティスの暗部に足を踏み入れていく二人を待ち受けていたのは、腐敗した街の裏側、強大な権力を持つ企業の陰謀、そして人間とロボットが共存する社会の根幹を揺るがす事態だった。",
+    "releaseDate": "2023-11-22",
+    "jpReleaseDate": "2026-01-30",
+    "jpReleaseType": 3,
+    "runtime": 89,
+    "genres": [
+      {
+        "id": 16,
+        "name": "アニメーション"
+      },
+      {
+        "id": 878,
+        "name": "サイエンスフィクション"
+      },
+      {
+        "id": 28,
+        "name": "アクション"
+      },
+      {
+        "id": 9648,
+        "name": "謎"
+      }
+    ],
+    "voteAverage": 7.4,
+    "voteCount": 478,
+    "popularity": 1.9791,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/pvV19mW9nTl8Qn2lQkYGk8L7ptc.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/yIOw17XdfsoCaydtrkzlZBCcHk6.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=Bbac2I_l-Js",
+    "homepage": "https://marsexpress.jp",
+    "tagline": "人間が私たちを捨てたんじゃない。私たちが捨てる。",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 2070443,
+        "name": "Jérémie Périn",
+        "profilePath": "/dtztYdhy6x428hHokkBhLpG4DEI.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 19360,
+        "name": "レア・ドリュッケール",
+        "character": "Aline Ruby (voice)",
+        "profilePath": "/pWHeXliKhtNw0ATyaXisrXUSCHo.jpg"
+      },
+      {
+        "id": 8789,
+        "name": "Mathieu Amalric",
+        "character": "Chris Royjacker (voice)",
+        "profilePath": "/j9PWIR367ikxxPIrIKlAiEswZDm.jpg"
+      },
+      {
+        "id": 1471331,
+        "name": "Daniel Njo Lobé",
+        "character": "Carlos Rivera (voice)",
+        "profilePath": "/qUHgblg8GHvEJhQMXBV3Ld9vBEW.jpg"
+      },
+      {
+        "id": 2269548,
+        "name": "Marie Bouvet",
+        "character": "Roberta Williams (voice)",
+        "profilePath": "/rSwP59pKa9ikOlx7voUL5w1XOgG.jpg"
+      },
+      {
+        "id": 1977924,
+        "name": "Sébastien Chassagne",
+        "character": "Inspecteur Simon Gordaux (voice)",
+        "profilePath": "/2LxQhhs794et6rtQsIZaxgxTbwk.jpg"
       }
     ]
   }
