@@ -1,5 +1,65 @@
 [
   {
+    "id": 1631685,
+    "title": "雨にじむ渤海",
+    "originalTitle": "雨にじむ渤海",
+    "overview": "",
+    "releaseDate": "2026-02-04",
+    "jpReleaseDate": "2026-02-04",
+    "jpReleaseType": 3,
+    "runtime": 130,
+    "genres": [],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.0327,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/z2jOUP0r9jb2qIyw35Mt5Cgjis7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/itOOLFARY1UsZvWwBsUkCurs2zu.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 5667579,
+        "name": "Hiramatsu Yuu",
+        "profilePath": null
+      }
+    ],
+    "cast": [
+      {
+        "id": 4187618,
+        "name": "礼華はる",
+        "character": "Dae Inseon",
+        "profilePath": null
+      },
+      {
+        "id": 3347798,
+        "name": "彩海せら",
+        "character": "Sewon",
+        "profilePath": null
+      },
+      {
+        "id": 5995392,
+        "name": "Nono Reia",
+        "character": "Queen Eunbin",
+        "profilePath": null
+      },
+      {
+        "id": 3385957,
+        "name": "一樹千尋",
+        "character": "Yaritsu Aboki",
+        "profilePath": "/tnERP60VYTxdg4KHOyTf9yZudAZ.jpg"
+      },
+      {
+        "id": 3944533,
+        "name": "夢奈瑠音",
+        "character": "Governor Mukcheol",
+        "profilePath": null
+      }
+    ]
+  },
+  {
     "id": 1598785,
     "title": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
     "originalTitle": "銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き",
@@ -32,7 +92,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.3566,
+    "popularity": 0.9557,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/p2wClSPUcs0NidsNBueaTBmGkJd.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/wG2VyZvBjXwuZUvqK00UcUNIpCG.jpg",
@@ -92,7 +152,7 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.0826,
+    "popularity": 0.1537,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/3uCWukCs8yLh2Lh7mzgbZ2BVoQH.jpg",
     "backdropUrl": null,
@@ -139,7 +199,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.0082,
+    "popularity": 0.5657,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/wrnPSN0VJDRLFoOmv6T4dMrYYVq.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/hvdmeHJn3hbYKeCPyWIB7aInFtb.jpg",
@@ -204,9 +264,9 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.2701,
+    "popularity": 0.2041,
     "adult": false,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/3TCTYOB1MeEKo8qnaDOiGwd9y31.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7k7ywAbBNrhsLhHkKggzveMhFQg.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/s4jZuMSlFekkW5pjt7lnBXMStOZ.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=mROmTDCY214",
     "homepage": "",
@@ -269,7 +329,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.3549,
+    "popularity": 0.2521,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/vCyLm5PN4lkfl89hRn1oeX595En.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/Avjj0u3FlutyD71UtdVDVMEJsGO.jpg",
@@ -340,12 +400,12 @@
         "name": "ファンタジー"
       }
     ],
-    "voteAverage": 7.683,
-    "voteCount": 694,
-    "popularity": 90.9839,
+    "voteAverage": 7.688,
+    "voteCount": 699,
+    "popularity": 81.6191,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/tlNFKrkb0LzhnwvyiMSOoCB5dbj.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/lNYympQM5O6QSInusbyG9eJDIe4.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=vPsRgYGdtFA",
     "homepage": "https://kimetsu.com/anime/mugenjyohen_movie",
     "tagline": "宴の時間だ",
@@ -411,7 +471,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.2849,
+    "popularity": 0.9168,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/grq3eAFw6D0iFB1xfBA9GPbNjeD.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/8KzGsh6LTZCbYg4UujDhYqlmVzg.jpg",
@@ -442,6 +502,71 @@
     ]
   },
   {
+    "id": 27432,
+    "title": "キラー・オブ・シープ",
+    "originalTitle": "Killer of Sheep",
+    "overview": "ワッツ暴動の爪痕が残る1970年代初頭のロサンゼルス、ワッツ地区。スタンは妻と2人の子どもたちを養うため羊の屠殺場で働きながら、空虚な毎日を送っている。日々の労働と貧困のせいで肉体的にも精神的にも疲れ果てている彼は自分の殻に閉じこもるようになり、妻は孤独を募らせていく。",
+    "releaseDate": "1978-11-14",
+    "jpReleaseDate": "2026-02-07",
+    "jpReleaseType": 3,
+    "runtime": 80,
+    "genres": [
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 6.6,
+    "voteCount": 136,
+    "popularity": 0.7331,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/z1CqJKI6gmdAMprD1NOYSCHVXEv.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/r763vsubExGcDJypctYuLLJmhB.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=r9CwNI8ULVw",
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 97755,
+        "name": "Charles Burnett",
+        "profilePath": "/798g9dlNawhj20PbP0w5U4eqq.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 16506,
+        "name": "Henry G. Sanders",
+        "character": "Stan",
+        "profilePath": "/4HWUP5K5kPxt5c0Xp65QOyV5gPG.jpg"
+      },
+      {
+        "id": 143438,
+        "name": "Kaycee Moore",
+        "character": "Stan's Wife",
+        "profilePath": "/7e3SzMwd9i5GEHNUhvfLEY0fBzB.jpg"
+      },
+      {
+        "id": 143439,
+        "name": "Charles Bracy",
+        "character": "Bracy",
+        "profilePath": null
+      },
+      {
+        "id": 143440,
+        "name": "Angela Burnett",
+        "character": "Stan's Daughter",
+        "profilePath": null
+      },
+      {
+        "id": 122289,
+        "name": "Eugene Cherry",
+        "character": "Eugene",
+        "profilePath": null
+      }
+    ]
+  },
+  {
     "id": 1530941,
     "title": "新劇場版 銀魂 -吉原大炎上-",
     "originalTitle": "新劇場版 銀魂 -吉原大炎上-",
@@ -466,14 +591,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.2709,
+    "popularity": 1.2153,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/5F7YrauGDP2tbzz84KKwji2MB3e.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/8qSFFK9AcMl2Ecp249f5J3Nr8MK.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=cO2AX29b7Tw",
     "homepage": "https://wwws.warnerbros.co.jp/shingintamamovie",
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "directors": [
       {
         "id": 2378273,
@@ -535,14 +660,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.6711,
+    "popularity": 1.5077,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/m0SmTFThfKTMZMKxUsxc7vFUla.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/b1CO4XDNSYIZE1ev8Z72fcxJjC7.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=36JDA7oxID0",
     "homepage": "https://bokuyaba-anime-movie.com",
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "directors": [
       {
         "id": 3397906,
@@ -588,10 +713,10 @@
     "title": "クライム101",
     "originalTitle": "Crime 101",
     "overview": "アメリカ西海岸線を走るハイウェイ＜101＞号線で、数百万ドルの宝石が消える強盗事件が多発。４年間にも及ぶデーヴィスの犯行は一切のミスがなく完璧だったが、人生最大の大金を得るために高額商品を扱う保険会社に勤めるシャロンに接触し、共謀を持ちかけたことから思わぬ綻びを見せ始める──。",
-    "releaseDate": "2026-02-09",
+    "releaseDate": "2026-02-11",
     "jpReleaseDate": "2026-02-13",
     "jpReleaseType": 3,
-    "runtime": 141,
+    "runtime": 140,
     "genres": [
       {
         "id": 80,
@@ -602,11 +727,11 @@
         "name": "スリラー"
       }
     ],
-    "voteAverage": 0.0,
-    "voteCount": 0,
-    "popularity": 13.8984,
+    "voteAverage": 9.5,
+    "voteCount": 4,
+    "popularity": 27.4765,
     "adult": false,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fDj8ZATOTmiFy7BF43L3XLIOrf0.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7curvoRSvtHTdd7QhTkWbuQMds5.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/2t25zHKX3PAUZWppuLD36JGdgCA.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=EnERhCxIf8U",
     "homepage": "",
@@ -648,7 +773,7 @@
         "id": 1525043,
         "name": "モニカ・バルバロ",
         "character": "Maya",
-        "profilePath": "/hiOYXzSkkuKyCEcjLxBoAc4bLZS.jpg"
+        "profilePath": "/fcujBTiKyZgJzaDenhv5ryo9SyB.jpg"
       }
     ]
   },
@@ -680,8 +805,8 @@
       }
     ],
     "voteAverage": 6.5,
-    "voteCount": 113,
-    "popularity": 6.5285,
+    "voteCount": 114,
+    "popularity": 6.1984,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/xXJjuZwSI6O6r4MnnCZuSmEJfiy.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/5OEcsHKZy9TLFz9qXLp5NJN9K8e.jpg",
@@ -757,9 +882,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 6.113,
+    "voteAverage": 6.1,
     "voteCount": 172,
-    "popularity": 8.5387,
+    "popularity": 5.0258,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/hqaJrihfOCJyytIiuh1MKecM4BB.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/lprsAHkwMxk2iC6VZxNmV0H7g1t.jpg",
@@ -830,9 +955,9 @@
         "name": "コメディ"
       }
     ],
-    "voteAverage": 7.371,
-    "voteCount": 1326,
-    "popularity": 30.1918,
+    "voteAverage": 7.366,
+    "voteCount": 1379,
+    "popularity": 21.9212,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/1prf5Qob2ZRCFWp6XHvVSey8G6e.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/tN3pTxkQoP96wtaEahYuRVdUWb2.jpg",
@@ -907,9 +1032,9 @@
         "name": "アドベンチャー"
       }
     ],
-    "voteAverage": 6.787,
-    "voteCount": 503,
-    "popularity": 5.3909,
+    "voteAverage": 6.8,
+    "voteCount": 504,
+    "popularity": 3.6454,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ynyN9hdxL5vq7GnSX8Fdz3TfoTE.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/7ZP8HtgOIDaBs12krXgUIygqEsy.jpg",
@@ -945,7 +1070,7 @@
       },
       {
         "id": 932821,
-        "name": "소지섭",
+        "name": "ソ・ジソブ",
         "character": "Moon Do-seok",
         "profilePath": "/oEdXNo3ohtldtIW6DMFPpvMYW4g.jpg"
       },
@@ -984,9 +1109,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 8.193,
-    "voteCount": 908,
-    "popularity": 3.9653,
+    "voteAverage": 8.2,
+    "voteCount": 910,
+    "popularity": 4.3048,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/m4pgO8iyafIrbjN1hJ7hAOsQfjo.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/1EAxNqdkVnp48a7NUuNBHGflowM.jpg",
@@ -996,11 +1121,6 @@
     "status": "Released",
     "directors": [
       {
-        "id": 1999367,
-        "name": "中山勝一",
-        "profilePath": null
-      },
-      {
         "id": 77923,
         "name": "鶴巻和哉",
         "profilePath": "/vhf9zmNK3HcDkB0fH3RULJoCU9b.jpg"
@@ -1009,6 +1129,11 @@
         "id": 56341,
         "name": "前田真宏",
         "profilePath": "/dwqETG4XzUO0zGMYluXfLVIrdDu.jpg"
+      },
+      {
+        "id": 1999367,
+        "name": "中山勝一",
+        "profilePath": null
       },
       {
         "id": 77921,
@@ -1066,7 +1191,7 @@
     ],
     "voteAverage": 6.9,
     "voteCount": 20,
-    "popularity": 0.2169,
+    "popularity": 0.7355,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/712BOyadfS8Dt56ymxEyahlqYOQ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/auCqpkz6wFuy1KvXTIAKUq2lFNP.jpg",
@@ -1077,7 +1202,7 @@
     "directors": [
       {
         "id": 150975,
-        "name": "홍상수",
+        "name": "ホン・サンス",
         "profilePath": "/cjZT9zhN5Yl65vTYAoyxCE02rm4.jpg"
       }
     ],
@@ -1115,6 +1240,75 @@
     ]
   },
   {
+    "id": 1260643,
+    "title": "ポール･マッカートニー：マン･オン･ザ･ラン",
+    "originalTitle": "Paul McCartney: Man on the Run",
+    "overview": "ザ･ビートルズ解散後、妻リンダと共にウイングスを結成したポール･マッカートニーの素顔に迫るドキュメンタリー「ポール･マッカートニー：マン･オン･ザ･ラン」。アカデミー賞受賞監督のモーガン･ネヴィルが貴重なアーカイブ映像を通して、新時代の音楽シーンにおいて自身を確立しようともがき、苦悩と栄光を味わったポールの再起の軌跡を描く。",
+    "releaseDate": "2026-02-19",
+    "jpReleaseDate": "2026-02-19",
+    "jpReleaseType": 3,
+    "runtime": 115,
+    "genres": [
+      {
+        "id": 99,
+        "name": "ドキュメンタリー"
+      },
+      {
+        "id": 10402,
+        "name": "音楽"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.9831,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qX0hwcKvO3FNkI3JMBUnQ3wxKEI.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/mA03GgESjKMCUAiCywyx6I7kSZx.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 228643,
+        "name": "モーガン・ネヴィル",
+        "profilePath": "/gi8kgpBsyEh7AFboSoL1AI5dOhE.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 10215,
+        "name": "ポール・マッカートニー",
+        "character": "Self",
+        "profilePath": "/dSheYj41UvBQ4DAEtfyuS1R52Ce.jpg"
+      },
+      {
+        "id": 112923,
+        "name": "リンダ・マッカートニー",
+        "character": "Self (archival footage)",
+        "profilePath": "/hwwiwbzpRWvQaDXw5NM7J3hOtq9.jpg"
+      },
+      {
+        "id": 1810147,
+        "name": "デニー・レイン",
+        "character": "Self (archival footage)",
+        "profilePath": "/fpamPZe9AfqeGGvy3Z7IBa8bv1z.jpg"
+      },
+      {
+        "id": 2214550,
+        "name": "デニー・セイウェル",
+        "character": "Self (archival footage)",
+        "profilePath": "/4XlxuBPskSWPMi6fx6DLlpjBBFv.jpg"
+      },
+      {
+        "id": 2214544,
+        "name": "ヘンリー・マカロック",
+        "character": "Self (archival footage)",
+        "profilePath": "/4KOclUvJQBPpOdBrvVu0NJpv6CS.jpg"
+      }
+    ]
+  },
+  {
     "id": 1576370,
     "title": "東方神起 20th Anniversary Film『IDENTITY』",
     "originalTitle": "東方神起 20th Anniversary Film『IDENTITY』",
@@ -1135,7 +1329,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.0214,
+    "popularity": 0.1758,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/1dRZBEJjpeyLRrJruq2Y4QwLt4y.jpg",
     "backdropUrl": null,
@@ -1176,7 +1370,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.1918,
+    "popularity": 0.2239,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/7wL8GlTbd9FjuBauIBUMiqfPkEo.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/fPRfRAPM26KUFE1IKM0d3cywNWN.jpg",
@@ -1241,7 +1435,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.3667,
+    "popularity": 0.6638,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/cFwpQtlUM63U0AKpwet7OPrL7HA.jpg",
     "backdropUrl": null,
@@ -1310,7 +1504,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.3518,
+    "popularity": 0.6556,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/pKzKYSNhjDvf2C0AsYhco8nCVtw.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/kq2Lym2qKZcbTAt4KjJYeYwVxGH.jpg",
@@ -1382,12 +1576,12 @@
         "name": "スリラー"
       }
     ],
-    "voteAverage": 6.353,
-    "voteCount": 95,
-    "popularity": 38.7015,
+    "voteAverage": 6.6,
+    "voteCount": 160,
+    "popularity": 162.0954,
     "adult": false,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5Q1zdYe9PYEXMGELzjfjyx8Eb7H.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/eFUtmW3XqK4MVwPotko0pm6oMRK.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/57cyAMc9c8iveudogTRuDOQjujn.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/9uakM2woks0JV8HKIc4oatIVS88.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=abE2ruiqQ-s",
     "homepage": "https://osaru-ben-movie.jp",
     "tagline": "",
@@ -1433,6 +1627,80 @@
     ]
   },
   {
+    "id": 1624208,
+    "title": "엔하이픈 [워크 더 라인 썸머 에디션] 인 시네마",
+    "originalTitle": "엔하이픈 [워크 더 라인 썸머 에디션] 인 시네마",
+    "overview": "",
+    "releaseDate": "2026-02-27",
+    "jpReleaseDate": "2026-02-27",
+    "jpReleaseType": 3,
+    "runtime": 124,
+    "genres": [
+      {
+        "id": 10402,
+        "name": "音楽"
+      },
+      {
+        "id": 99,
+        "name": "ドキュメンタリー"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 1.4499,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6a7Wwooo0a8BWL6qmqF1kqzZoex.jpg",
+    "backdropUrl": null,
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Post Production",
+    "directors": [
+      {
+        "id": 3460618,
+        "name": "박재석",
+        "profilePath": null
+      },
+      {
+        "id": 3140690,
+        "name": "오윤동",
+        "profilePath": "/lU2SjPr2FSi7IcZSS7DAgjTt3pV.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 2722430,
+        "name": "정원",
+        "character": "Self",
+        "profilePath": "/l4ABWn9GYY5pV7JLssd3OhjiF0g.jpg"
+      },
+      {
+        "id": 2722418,
+        "name": "희승",
+        "character": "Self",
+        "profilePath": "/9J5U9DyM30NZoqAhmsHdPfq0NHa.jpg"
+      },
+      {
+        "id": 2722421,
+        "name": "제이",
+        "character": "Self",
+        "profilePath": "/Af37qMqG3DFM7NThiPsotgAnwpk.jpg"
+      },
+      {
+        "id": 2722426,
+        "name": "제이크",
+        "character": "Self",
+        "profilePath": "/Aeefk05sMurgbCvaSmvcc90filZ.jpg"
+      },
+      {
+        "id": 2722427,
+        "name": "성훈",
+        "character": "Self",
+        "profilePath": "/qgTtYUSwxmN6UFL2itYzPa4Fb3F.jpg"
+      }
+    ]
+  },
+  {
     "id": 1610884,
     "title": "#拡散",
     "originalTitle": "#拡散",
@@ -1444,7 +1712,7 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.2015,
+    "popularity": 0.1183,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/iM7W3xZGjAewbp4UF9KJtb8N3zQ.jpg",
     "backdropUrl": null,
@@ -1503,7 +1771,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.4765,
+    "popularity": 0.573,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/zarwRdOKi27bsY0CaOd7cxr57sL.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/2zsn3myyhBB6bjNKGFPgEVfXUBp.jpg",
@@ -1580,7 +1848,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.496,
+    "popularity": 1.3749,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/mKkYq96Qf8duNWds7aBqzAXDpje.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/pxd9rc03EMMln3tVFdfd427Fpsi.jpg",
@@ -1661,7 +1929,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.3485,
+    "popularity": 2.1549,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/q2CqzdaaxHrpH1SKlqjKOBKCUEm.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/4z6VWajbDWZ6CQFC3u4ApKMzGMk.jpg",
@@ -1710,6 +1978,75 @@
     ]
   },
   {
+    "id": 1316092,
+    "title": "嵐が丘",
+    "originalTitle": "“Wuthering Heights”",
+    "overview": "",
+    "releaseDate": "2026-02-11",
+    "jpReleaseDate": "2026-02-27",
+    "jpReleaseType": 3,
+    "runtime": 136,
+    "genres": [
+      {
+        "id": 18,
+        "name": "ドラマ"
+      },
+      {
+        "id": 10749,
+        "name": "ロマンス"
+      }
+    ],
+    "voteAverage": 8.1,
+    "voteCount": 23,
+    "popularity": 56.6846,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9Rmhua58sWR3RrjhNmH2ky6etQg.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/sYM02XfZhqvlixmRkDcseQ6Xllk.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=ucV9gjY6xqk",
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 1252934,
+        "name": "エメラルド・フェネル",
+        "profilePath": "/ytyHUsPb7Saulczm8nCJHypIWQF.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 234352,
+        "name": "マーゴット・ロビー",
+        "character": "Catherine Earnshaw",
+        "profilePath": "/fz4hVgsJEeAgJCA9EcEfVJHVaud.jpg"
+      },
+      {
+        "id": 2034418,
+        "name": "ジェイコブ・エロルディ",
+        "character": "Heathcliff",
+        "profilePath": "/qZNRPWCP2c5d0YaYLTzHXU9Rdoe.jpg"
+      },
+      {
+        "id": 1360317,
+        "name": "ホン・チャウ",
+        "character": "Nelly Dean",
+        "profilePath": "/yGEw6uiSUBo838HkiCARs4BR40y.jpg"
+      },
+      {
+        "id": 2981449,
+        "name": "Alison Oliver",
+        "character": "Isabella Linton",
+        "profilePath": "/ouHdcq6Tgedx4UnJuT3liROzomq.jpg"
+      },
+      {
+        "id": 1370832,
+        "name": "シャザド・ラティフ",
+        "character": "Edgar Linton",
+        "profilePath": "/n8vJ1AHhv294hGqZxhjM95OvpxT.jpg"
+      }
+    ]
+  },
+  {
     "id": 1208348,
     "title": "レンタル・ファミリー",
     "originalTitle": "Rental Family",
@@ -1728,9 +2065,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 7.861,
-    "voteCount": 321,
-    "popularity": 35.7226,
+    "voteAverage": 7.874,
+    "voteCount": 344,
+    "popularity": 21.6017,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/bipG6WAxeBz6vUcAm6A831KB4Hg.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
@@ -1799,7 +2136,7 @@
     ],
     "voteAverage": 5.857,
     "voteCount": 7,
-    "popularity": 1.047,
+    "popularity": 1.0166,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/9fFSXOoqiUi7bhEs1jt24SsPmpx.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/n9dnPIb1PYJtAJeX9X8phyibJoI.jpg",
@@ -1874,9 +2211,9 @@
         "name": "サイエンスフィクション"
       }
     ],
-    "voteAverage": 6.626,
-    "voteCount": 824,
-    "popularity": 5.442,
+    "voteAverage": 6.628,
+    "voteCount": 825,
+    "popularity": 3.4428,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/3l04H9ljNegDGG9gnKDhLExJvpz.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/wG2WlIxdYDTdFrHm4WUj6oOjjQS.jpg",
@@ -1945,7 +2282,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.2259,
+    "popularity": 0.4359,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/q8S8L3ZgfMxMtRDuunRTrkfp6R3.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/8S2Sz7uHuAgQz0SIlyFD9ofshlv.jpg",
@@ -1957,7 +2294,7 @@
       {
         "id": 1269394,
         "name": "浜野佐知",
-        "profilePath": "/i0Mij7IMajfJ06YinTgCkZcHD6c.jpg"
+        "profilePath": null
       }
     ],
     "cast": [
@@ -2010,7 +2347,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.0972,
+    "popularity": 0.0311,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/7Ulx8LL40ExqvzKPkdTQesKxt0k.jpg",
     "backdropUrl": null,
@@ -2031,5 +2368,70 @@
       }
     ],
     "cast": []
+  },
+  {
+    "id": 1167802,
+    "title": "この場所",
+    "originalTitle": "この場所",
+    "overview": "陸前高田市に暮らす20歳の美大生・橋本レイナは、最愛の父を突然亡くし、悲しみに打ちひしがれる。そんな彼女の前に、フィリピンからやって来た7歳上の異母姉エラが現れる。長い間音信不通だったエラがなぜ父の死後に突然姿を見せたのか、レイナはその真意がわからず戸惑ってしまう。文化も人種も異なる姉妹は、衝突と理解を繰り返しながら心の傷と向き合い、家族や祖国への思いを問い直していく。",
+    "releaseDate": "2026-02-28",
+    "jpReleaseDate": "2026-02-28",
+    "jpReleaseType": 3,
+    "runtime": 85,
+    "genres": [
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.2981,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/a4SGdY4Df0osaPKaEHAw4WCdPha.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/d1SeTX2CtR9zDPtTAtRFPEMmNuw.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 3196572,
+        "name": "Jaime Pacena II",
+        "profilePath": null
+      }
+    ],
+    "cast": [
+      {
+        "id": 1533156,
+        "name": "Gabby Padilla",
+        "character": "Ella",
+        "profilePath": "/jfueudHnAY0k8xwypfrtqPjfoLN.jpg"
+      },
+      {
+        "id": 4011271,
+        "name": "Arisa Nakano",
+        "character": "Reina",
+        "profilePath": "/q5mHmgPUGF3HBWsccog3z3B9y6p.jpg"
+      },
+      {
+        "id": 96558,
+        "name": "片岡礼子",
+        "character": "Atsuko",
+        "profilePath": "/8V8JFYx0wFm8NCiAczX8t2RdXW0.jpg"
+      },
+      {
+        "id": 18061,
+        "name": "二階堂智",
+        "character": "Sada",
+        "profilePath": "/9fmVRDkkMwHxItNzBJQungwj5Ow.jpg"
+      },
+      {
+        "id": 3376334,
+        "name": "Sheryl Ichikawa",
+        "character": "Maita",
+        "profilePath": null
+      }
+    ]
   }
 ]
