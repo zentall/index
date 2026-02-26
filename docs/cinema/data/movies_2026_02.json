@@ -11,7 +11,7 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.0071,
+    "popularity": 0.0214,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/z2jOUP0r9jb2qIyw35Mt5Cgjis7.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/itOOLFARY1UsZvWwBsUkCurs2zu.jpg",
@@ -92,7 +92,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.3191,
+    "popularity": 0.3535,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/p2wClSPUcs0NidsNBueaTBmGkJd.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/wG2VyZvBjXwuZUvqK00UcUNIpCG.jpg",
@@ -152,7 +152,7 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.1879,
+    "popularity": 0.1077,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/3uCWukCs8yLh2Lh7mzgbZ2BVoQH.jpg",
     "backdropUrl": null,
@@ -199,7 +199,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.7679,
+    "popularity": 0.3762,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/wrnPSN0VJDRLFoOmv6T4dMrYYVq.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/hvdmeHJn3hbYKeCPyWIB7aInFtb.jpg",
@@ -264,10 +264,10 @@
     ],
     "voteAverage": 8.0,
     "voteCount": 1,
-    "popularity": 0.6574,
+    "popularity": 0.4267,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/7k7ywAbBNrhsLhHkKggzveMhFQg.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/s4jZuMSlFekkW5pjt7lnBXMStOZ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/g01fDs0AeLU50yCy92jsxCCkEHN.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=mROmTDCY214",
     "homepage": "",
     "tagline": "",
@@ -289,25 +289,25 @@
       {
         "id": 3086230,
         "name": "山田 葵",
-        "character": "",
+        "character": "Rumi Mochizuki",
         "profilePath": "/4VJzAyq9gZxUxdzk0u8bNwGkhDS.jpg"
       },
       {
         "id": 586791,
         "name": "前田旺志郎",
-        "character": "",
+        "character": "Hiroshi Masumura",
         "profilePath": "/cOWmkaKC848jIersVa18l1DYL54.jpg"
       },
       {
         "id": 3144130,
         "name": "髙石あかり",
-        "character": "",
+        "character": "Yui Teramoto",
         "profilePath": "/qQURz3QiOVFHOo2azpL5cQOJg3a.jpg"
       },
       {
         "id": 115700,
         "name": "斎藤工",
-        "character": "",
+        "character": "Kosei Eno",
         "profilePath": "/bI4F2yT9R3HW4o17V7Mne7EqIbB.jpg"
       }
     ]
@@ -329,7 +329,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.3111,
+    "popularity": 0.2979,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/vCyLm5PN4lkfl89hRn1oeX595En.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/Avjj0u3FlutyD71UtdVDVMEJsGO.jpg",
@@ -400,9 +400,9 @@
         "name": "ファンタジー"
       }
     ],
-    "voteAverage": 7.682,
-    "voteCount": 715,
-    "popularity": 81.8425,
+    "voteAverage": 7.7,
+    "voteCount": 737,
+    "popularity": 84.8116,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/tlNFKrkb0LzhnwvyiMSOoCB5dbj.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/lNYympQM5O6QSInusbyG9eJDIe4.jpg",
@@ -471,7 +471,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.5842,
+    "popularity": 0.3893,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/grq3eAFw6D0iFB1xfBA9GPbNjeD.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/8KzGsh6LTZCbYg4UujDhYqlmVzg.jpg",
@@ -516,9 +516,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 6.562,
+    "voteAverage": 6.6,
     "voteCount": 137,
-    "popularity": 0.4595,
+    "popularity": 0.4182,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/z1CqJKI6gmdAMprD1NOYSCHVXEv.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/r763vsubExGcDJypctYuLLJmhB.jpg",
@@ -591,11 +591,11 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.4452,
+    "popularity": 0.8791,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/5F7YrauGDP2tbzz84KKwji2MB3e.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/8qSFFK9AcMl2Ecp249f5J3Nr8MK.jpg",
-    "trailerUrl": "https://www.youtube.com/watch?v=cO2AX29b7Tw",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/sS8kgDkLWAi0Mx57DauMI5ZIZuu.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=6O1yQQAnXrE",
     "homepage": "https://wwws.warnerbros.co.jp/shingintamamovie",
     "tagline": "",
     "status": "Released",
@@ -660,10 +660,10 @@
     ],
     "voteAverage": 9.0,
     "voteCount": 2,
-    "popularity": 5.2247,
+    "popularity": 3.9515,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/m0SmTFThfKTMZMKxUsxc7vFUla.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/b1CO4XDNSYIZE1ev8Z72fcxJjC7.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/yfVKbukGYadDHbHIZCqSovyAtDC.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=36JDA7oxID0",
     "homepage": "https://bokuyaba-anime-movie.com",
     "tagline": "",
@@ -727,9 +727,9 @@
         "name": "スリラー"
       }
     ],
-    "voteAverage": 6.936,
-    "voteCount": 55,
-    "popularity": 98.0611,
+    "voteAverage": 6.924,
+    "voteCount": 99,
+    "popularity": 70.7768,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/7curvoRSvtHTdd7QhTkWbuQMds5.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/yWZc7ZglTAecVLKHS0oROuetKce.jpg",
@@ -804,9 +804,9 @@
         "name": "コメディ"
       }
     ],
-    "voteAverage": 6.474,
-    "voteCount": 117,
-    "popularity": 6.1288,
+    "voteAverage": 6.5,
+    "voteCount": 119,
+    "popularity": 6.2378,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/xXJjuZwSI6O6r4MnnCZuSmEJfiy.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/5OEcsHKZy9TLFz9qXLp5NJN9K8e.jpg",
@@ -882,9 +882,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 6.1,
-    "voteCount": 172,
-    "popularity": 3.9884,
+    "voteAverage": 6.111,
+    "voteCount": 176,
+    "popularity": 4.1312,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/hqaJrihfOCJyytIiuh1MKecM4BB.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/lprsAHkwMxk2iC6VZxNmV0H7g1t.jpg",
@@ -904,7 +904,7 @@
         "id": 85034,
         "name": "ランビール・カプール",
         "character": "Ranvijay Balbir Singh / Aziz Haque",
-        "profilePath": "/ymYNHV9luwgyrw17NXHqbOWTQkg.jpg"
+        "profilePath": "/a5xWgKh7f4XofIl7ZwisxOi616K.jpg"
       },
       {
         "id": 1752056,
@@ -928,7 +928,7 @@
         "id": 2100209,
         "name": "Triptii Dimri",
         "character": "Zoya Riaz",
-        "profilePath": "/bAwn2jF0X67qUzmO27X34THLJ4w.jpg"
+        "profilePath": "/rGyxSvRhohagcF7lutUUQ2ARD5X.jpg"
       }
     ]
   },
@@ -955,9 +955,9 @@
         "name": "コメディ"
       }
     ],
-    "voteAverage": 7.365,
-    "voteCount": 1426,
-    "popularity": 23.1557,
+    "voteAverage": 7.348,
+    "voteCount": 1490,
+    "popularity": 25.776,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/1prf5Qob2ZRCFWp6XHvVSey8G6e.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/tN3pTxkQoP96wtaEahYuRVdUWb2.jpg",
@@ -1034,7 +1034,7 @@
     ],
     "voteAverage": 6.8,
     "voteCount": 504,
-    "popularity": 5.3871,
+    "popularity": 5.7163,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ynyN9hdxL5vq7GnSX8Fdz3TfoTE.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/7ZP8HtgOIDaBs12krXgUIygqEsy.jpg",
@@ -1109,9 +1109,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 8.2,
-    "voteCount": 910,
-    "popularity": 4.4357,
+    "voteAverage": 8.196,
+    "voteCount": 915,
+    "popularity": 5.9075,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/m4pgO8iyafIrbjN1hJ7hAOsQfjo.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/1EAxNqdkVnp48a7NUuNBHGflowM.jpg",
@@ -1191,7 +1191,7 @@
     ],
     "voteAverage": 6.9,
     "voteCount": 20,
-    "popularity": 0.5252,
+    "popularity": 0.2728,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/712BOyadfS8Dt56ymxEyahlqYOQ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/auCqpkz6wFuy1KvXTIAKUq2lFNP.jpg",
@@ -1260,9 +1260,9 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.8789,
+    "popularity": 1.2939,
     "adult": false,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6kZ3vgDFs4DTGuj0tgSgXkSBhAl.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/qX0hwcKvO3FNkI3JMBUnQ3wxKEI.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/mA03GgESjKMCUAiCywyx6I7kSZx.jpg",
     "trailerUrl": null,
     "homepage": "",
@@ -1309,6 +1309,103 @@
     ]
   },
   {
+    "id": 1639889,
+    "title": "Be Forever Yamato - Rebel 3199 - Part 5: The Incandescent Galactic War",
+    "originalTitle": "Be Forever Yamato - Rebel 3199 - Part 5: The Incandescent Galactic War",
+    "overview": "",
+    "releaseDate": "2026-02-20",
+    "jpReleaseDate": "2026-02-20",
+    "jpReleaseType": 3,
+    "runtime": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "アニメーション"
+      },
+      {
+        "id": 878,
+        "name": "サイエンスフィクション"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.0461,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1wnIyK6vEH0WQt04Q6Q0gmEnMF7.jpg",
+    "backdropUrl": null,
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 562941,
+        "name": "福井晴敏",
+        "profilePath": null
+      },
+      {
+        "id": 1558199,
+        "name": "ヤマトナオミチ",
+        "profilePath": "/tCL0EjB4qSDwZId9t4FnuPbLTEh.jpg"
+      }
+    ],
+    "cast": []
+  },
+  {
+    "id": 1638697,
+    "title": "ヤマトよ永遠に REBEL3199 第五章 白熱の銀河大戦",
+    "originalTitle": "ヤマトよ永遠に REBEL3199 第五章 白熱の銀河大戦",
+    "overview": "この宇宙を凍えさせるもの――  「ウラリアの魔女」との対決の刻が迫る。  “魔女”の正体――暗黒の宇宙に潜む中間補給基地ディガブラス。  デザリアムと「ウラリアの魔女」との関係とはなにか？  “冷えた宇宙”という絶対的劣勢のなか、波動砲すら無効化する巨大要塞に、ヤマトとガルマン・ガミラスの連合艦隊は苦戦を強いられる。  そのさなか、再び古代の前に姿を現すアルフォン。雪という縁に導かれながらも、異なる未来を信じ、相容れぬふたりが目撃する、ディガブラスの真実とは――！？  一方、マザー・デザリアムの術中に陥った地球では、人々が自らの意思で“デザリアム化”を受け入れつつある。",
+    "releaseDate": "2026-02-20",
+    "jpReleaseDate": "2026-02-20",
+    "jpReleaseType": 3,
+    "runtime": 101,
+    "genres": [],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.2544,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/i4ikMXAxa6yG7rDPnlrcX2KYVKJ.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/gxYpwPDRyEk0i9VmhnpU50yptUL.jpg",
+    "trailerUrl": null,
+    "homepage": "https://starblazers-yamato.net",
+    "tagline": "",
+    "status": "Released",
+    "directors": [],
+    "cast": [
+      {
+        "id": 1241498,
+        "name": "小野大輔",
+        "character": "古代　進",
+        "profilePath": "/5rjl28lx84JjRS0hzq3Ajvx2dhp.jpg"
+      },
+      {
+        "id": 220710,
+        "name": "桑島法子",
+        "character": "森　雪",
+        "profilePath": "/uZSmoh5jSdLwmkLaCnC3Xju6TTN.jpg"
+      },
+      {
+        "id": 1164931,
+        "name": "潘めぐみ",
+        "character": "サーシャ",
+        "profilePath": "/cwnwrPg1YvB19TbfouC4ShGPmbQ.jpg"
+      },
+      {
+        "id": 20664,
+        "name": "山寺宏一",
+        "character": "アベルト・デスラー",
+        "profilePath": "/biov5jENp2XYfehkcdnRvi796Wi.jpg"
+      },
+      {
+        "id": 552683,
+        "name": "大塚芳忠",
+        "character": "真田　志郎",
+        "profilePath": "/3RHQcrsWnAFK6AifSis1lMq08cR.jpg"
+      }
+    ]
+  },
+  {
     "id": 1634021,
     "title": "ハローマイフレンド",
     "originalTitle": "ハローマイフレンド",
@@ -1325,7 +1422,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.1519,
+    "popularity": 0.0638,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/f1CZHT25xeVx7I2xw3P3L8fLKS7.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/hRuDhRqvKaWuknHhGw6cfnw1wuL.jpg",
@@ -1376,7 +1473,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.1373,
+    "popularity": 0.1438,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/AmkunFWhOuZfBZY48Z9l43y0Ifw.jpg",
     "backdropUrl": null,
@@ -1423,7 +1520,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.18,
+    "popularity": 0.3742,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/7wL8GlTbd9FjuBauIBUMiqfPkEo.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/fPRfRAPM26KUFE1IKM0d3cywNWN.jpg",
@@ -1488,12 +1585,77 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.4442,
+    "popularity": 0.7449,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/cFwpQtlUM63U0AKpwet7OPrL7HA.jpg",
     "backdropUrl": null,
     "trailerUrl": "https://www.youtube.com/watch?v=Hd7SWJ64shI",
     "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 105400,
+        "name": "中江功",
+        "profilePath": "/hezvjThPiHQVaqRRJY32XGm5VWv.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 12670,
+        "name": "木村拓哉",
+        "character": "Kimichika Kazama",
+        "profilePath": "/sswCg8kvFsgSaVJwcIKKe4K7jOe.jpg"
+      },
+      {
+        "id": 2238822,
+        "name": "綱啓永",
+        "character": "",
+        "profilePath": "/6pdirixI897dHILW6BiUqks8wSd.jpg"
+      },
+      {
+        "id": 2538827,
+        "name": "齊藤京子",
+        "character": "",
+        "profilePath": "/ds3khPvvYSpVTV6OFl1wRnXRxQC.jpg"
+      },
+      {
+        "id": 1762674,
+        "name": "金子大地",
+        "character": "",
+        "profilePath": "/uI440qww2G8mTSKO9A65ZrqPga8.jpg"
+      },
+      {
+        "id": 2647155,
+        "name": "倉悠貴",
+        "character": "",
+        "profilePath": "/dPTlgkUvQXPfc1yZLXSsdF5gOQM.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1557886,
+    "title": "教場 Reunion",
+    "originalTitle": "教場 Reunion",
+    "overview": "風間教場へ、ようこそー。",
+    "releaseDate": "2026-02-20",
+    "jpReleaseDate": "2026-02-20",
+    "jpReleaseType": 3,
+    "runtime": 150,
+    "genres": [
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.8016,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8SHL2mYaL9vS0ETzoF9SixWRyvw.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/2jguQgwRgU0e82zWMmWub9c4J6I.jpg",
+    "trailerUrl": null,
+    "homepage": "https://kazama-kyojo.jp/",
     "tagline": "",
     "status": "Released",
     "directors": [
@@ -1557,7 +1719,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.5845,
+    "popularity": 0.6724,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/pKzKYSNhjDvf2C0AsYhco8nCVtw.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/kq2Lym2qKZcbTAt4KjJYeYwVxGH.jpg",
@@ -1629,9 +1791,9 @@
         "name": "スリラー"
       }
     ],
-    "voteAverage": 6.624,
-    "voteCount": 335,
-    "popularity": 209.1157,
+    "voteAverage": 6.6,
+    "voteCount": 392,
+    "popularity": 61.2462,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/rKleYiEj4pFqxedTRWfujLooi84.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/9uakM2woks0JV8HKIc4oatIVS88.jpg",
@@ -1700,14 +1862,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.8092,
+    "popularity": 0.7437,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/6a7Wwooo0a8BWL6qmqF1kqzZoex.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/9KV5MkFvywyTyWeUi4wxCK0lrJr.jpg",
     "trailerUrl": null,
     "homepage": "",
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "directors": [
       {
         "id": 3460618,
@@ -1765,14 +1927,14 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.0673,
+    "popularity": 0.2211,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/iM7W3xZGjAewbp4UF9KJtb8N3zQ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/6CgqW8hIpPIcIJw8QqWoeuswnmH.jpg",
     "trailerUrl": null,
     "homepage": "",
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "directors": [],
     "cast": [
       {
@@ -1824,14 +1986,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.4906,
+    "popularity": 0.6282,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/zarwRdOKi27bsY0CaOd7cxr57sL.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/2zsn3myyhBB6bjNKGFPgEVfXUBp.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=CHHLJCIYIkU",
     "homepage": "https://kobikicho-movie.jp/",
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "directors": [
       {
         "id": 148304,
@@ -1901,14 +2063,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.2424,
+    "popularity": 1.3398,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/mKkYq96Qf8duNWds7aBqzAXDpje.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/pxd9rc03EMMln3tVFdfd427Fpsi.jpg",
-    "trailerUrl": "https://www.youtube.com/watch?v=3k1Y7cA9Emw",
+    "trailerUrl": "https://www.youtube.com/watch?v=bJ33nzD39p8",
     "homepage": "https://doraeiga.com/2026",
     "tagline": "行こう、誰も知らない 海底大冒険へ！",
-    "status": "Post Production",
+    "status": "Released",
     "directors": [
       {
         "id": 1947876,
@@ -1966,7 +2128,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.1328,
+    "popularity": 0.176,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ktNG4LtK2v6BjqPeo8Kg3er91WS.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/mE013TIBLnqQPqUt8WgfIKzGT3.jpg",
@@ -2029,10 +2191,6 @@
         "name": "アニメーション"
       },
       {
-        "id": 28,
-        "name": "アクション"
-      },
-      {
         "id": 14,
         "name": "ファンタジー"
       },
@@ -2047,14 +2205,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.5733,
+    "popularity": 1.7882,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/q2CqzdaaxHrpH1SKlqjKOBKCUEm.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/4z6VWajbDWZ6CQFC3u4ApKMzGMk.jpg",
-    "trailerUrl": "https://www.youtube.com/watch?v=tBA9iiLYk9Q",
+    "trailerUrl": "https://www.youtube.com/watch?v=gB-_X8aPQzU",
     "homepage": "https://movie02.ten-sura.com",
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "directors": [
       {
         "id": 1654352,
@@ -2098,7 +2256,7 @@
   {
     "id": 1316092,
     "title": "嵐が丘",
-    "originalTitle": "“Wuthering Heights”",
+    "originalTitle": "\"Wuthering Heights\"",
     "overview": "",
     "releaseDate": "2026-02-11",
     "jpReleaseDate": "2026-02-27",
@@ -2114,9 +2272,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 6.679,
-    "voteCount": 229,
-    "popularity": 173.4582,
+    "voteAverage": 6.544,
+    "voteCount": 372,
+    "popularity": 113.8131,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/9Rmhua58sWR3RrjhNmH2ky6etQg.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
@@ -2175,20 +2333,20 @@
     "runtime": 110,
     "genres": [
       {
-        "id": 35,
-        "name": "コメディ"
-      },
-      {
         "id": 18,
         "name": "ドラマ"
+      },
+      {
+        "id": 35,
+        "name": "コメディ"
       }
     ],
-    "voteAverage": 7.849,
-    "voteCount": 382,
-    "popularity": 20.6456,
+    "voteAverage": 7.812,
+    "voteCount": 463,
+    "popularity": 27.3549,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/bipG6WAxeBz6vUcAm6A831KB4Hg.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/ufuabtiOem0kHeYz6b8x8MjBb2L.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/euoXeFAOt9o7yAWA9zGZk7DdZWZ.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=mp4Hisbo_sY",
     "homepage": "https://www.searchlightpictures.jp/movies/rentalfamily",
     "tagline": "",
@@ -2210,20 +2368,20 @@
       {
         "id": 1082509,
         "name": "平岳大",
-        "character": "Shinji",
-        "profilePath": "/2N1viBfPY4cRlz6W6YfM2F6UbSH.jpg"
+        "character": "Shinji Tada",
+        "profilePath": "/f8UK7xqwkfpIZiECcDgc0AErkj6.jpg"
       },
       {
         "id": 2210389,
         "name": "山本真理",
-        "character": "Aiko",
-        "profilePath": "/chy8WQgbSfIxp4B1lHzHFFVzsEv.jpg"
+        "character": "Aiko Nakajima",
+        "profilePath": "/n0kSgZvoFD6ENdja5MDhAMDbDwT.jpg"
       },
       {
         "id": 5615231,
         "name": "シャノン・ゴーマン",
         "character": "Mia Kawasaki",
-        "profilePath": "/8t3tWp0K8eMrnMBrZYTZibaKSPS.jpg"
+        "profilePath": "/cDnGx1RkYG4gQObcL3aqP4VPT5V.jpg"
       },
       {
         "id": 13283,
@@ -2254,7 +2412,7 @@
     ],
     "voteAverage": 5.857,
     "voteCount": 7,
-    "popularity": 0.993,
+    "popularity": 0.7065,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/9fFSXOoqiUi7bhEs1jt24SsPmpx.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/n9dnPIb1PYJtAJeX9X8phyibJoI.jpg",
@@ -2331,7 +2489,7 @@
     ],
     "voteAverage": 6.6,
     "voteCount": 825,
-    "popularity": 2.6965,
+    "popularity": 3.0556,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/3l04H9ljNegDGG9gnKDhLExJvpz.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/wG2WlIxdYDTdFrHm4WUj6oOjjQS.jpg",
@@ -2400,7 +2558,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.3651,
+    "popularity": 0.3989,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/q8S8L3ZgfMxMtRDuunRTrkfp6R3.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/8S2Sz7uHuAgQz0SIlyFD9ofshlv.jpg",
@@ -2465,7 +2623,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.0553,
+    "popularity": 0.0482,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/7Ulx8LL40ExqvzKPkdTQesKxt0k.jpg",
     "backdropUrl": null,
@@ -2489,7 +2647,7 @@
   },
   {
     "id": 1167802,
-    "title": "この場所",
+    "title": "Kono Basho",
     "originalTitle": "この場所",
     "overview": "陸前高田市に暮らす20歳の美大生・橋本レイナは、最愛の父を突然亡くし、悲しみに打ちひしがれる。そんな彼女の前に、フィリピンからやって来た7歳上の異母姉エラが現れる。長い間音信不通だったエラがなぜ父の死後に突然姿を見せたのか、レイナはその真意がわからず戸惑ってしまう。文化も人種も異なる姉妹は、衝突と理解を繰り返しながら心の傷と向き合い、家族や祖国への思いを問い直していく。",
     "releaseDate": "2026-02-28",
@@ -2502,9 +2660,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 0.0,
-    "voteCount": 0,
-    "popularity": 0.2582,
+    "voteAverage": 4.0,
+    "voteCount": 1,
+    "popularity": 0.5243,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/a4SGdY4Df0osaPKaEHAw4WCdPha.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/d1SeTX2CtR9zDPtTAtRFPEMmNuw.jpg",
