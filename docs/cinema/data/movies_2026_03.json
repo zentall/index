@@ -1,5 +1,43 @@
 [
   {
+    "id": 1650794,
+    "title": "ふくふくの地図",
+    "originalTitle": "ふくふくの地図",
+    "overview": "",
+    "releaseDate": "2026-03-05",
+    "jpReleaseDate": "2026-03-05",
+    "jpReleaseType": 3,
+    "runtime": 0,
+    "genres": [
+      {
+        "id": 16,
+        "name": "アニメーション"
+      },
+      {
+        "id": 14,
+        "name": "ファンタジー"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.0644,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/7O3zL9LtOTj7m6dBH6QhoAae8PT.jpg",
+    "backdropUrl": null,
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 239858,
+        "name": "片渕須直",
+        "profilePath": "/eURX76p8cGD9gEwMDoCZkG4ri5Y.jpg"
+      }
+    ],
+    "cast": []
+  },
+  {
     "id": 1646064,
     "title": "ガールズ＆パンツァー　もっとらぶらぶ作戦です！　第3幕",
     "originalTitle": "ガールズ＆パンツァー　もっとらぶらぶ作戦です！　第3幕",
@@ -16,7 +54,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.3653,
+    "popularity": 1.1821,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/oBczZGAxQCPRfUErhEldfzhgWHk.jpg",
     "backdropUrl": null,
@@ -76,7 +114,7 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.1207,
+    "popularity": 0.0936,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/unOPSrUqEcUk4QOx9UAj2PryhCe.jpg",
     "backdropUrl": null,
@@ -131,7 +169,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.537,
+    "popularity": 0.5137,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/wjb19iVaUVTWfPwf2XNnfEDjwZo.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/w9lQPIOaHXUoVHgUOCOjQkiQjX9.jpg",
@@ -196,7 +234,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.4537,
+    "popularity": 0.1828,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/60PDRNJkoDtY43CT5hUUDFAB1ft.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/kB4qfVvbErPCNHH3RLHwGR7SbYO.jpg",
@@ -259,9 +297,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 7.768,
-    "voteCount": 200,
-    "popularity": 2.9845,
+    "voteAverage": 7.76,
+    "voteCount": 204,
+    "popularity": 3.9793,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/pjcfjDf4f4WsLWEPeza2R8Ibob3.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/egNz2a18eQ9ycBfQQkQehSTeNwH.jpg",
@@ -292,7 +330,7 @@
       {
         "id": 239776,
         "name": "Jürg Plüss",
-        "character": "Herr Severin",
+        "character": "Mr. Severin",
         "profilePath": "/5q2lyZLpzHsaAT6NgbCulWB0gqS.jpg"
       },
       {
@@ -304,7 +342,7 @@
       {
         "id": 500376,
         "name": "Lale Yavaş",
-        "character": "Frau Morina",
+        "character": "Mrs. Morina",
         "profilePath": "/6C9EdfsytEBsBQgoxPPrk8r3LdZ.jpg"
       }
     ]
@@ -317,7 +355,7 @@
     "releaseDate": "2026-03-06",
     "jpReleaseDate": "2026-03-06",
     "jpReleaseType": 3,
-    "runtime": 75,
+    "runtime": 76,
     "genres": [
       {
         "id": 16,
@@ -330,7 +368,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 2.9272,
+    "popularity": 4.0165,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/wIXWBILvfweBOPfnOsaK71AFtXm.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/uuVLGMIIGwz9QbBlvDvGlfU5HkI.jpg",
@@ -395,9 +433,9 @@
         "name": "ロマンス"
       }
     ],
-    "voteAverage": 6.6,
-    "voteCount": 859,
-    "popularity": 29.8375,
+    "voteAverage": 6.629,
+    "voteCount": 878,
+    "popularity": 19.374,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/qzKgabRKPsMtFYqbjTLc37mwbBj.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/cGbPBHKSFO7hSIjxkb3KOaGdOep.jpg",
@@ -435,7 +473,7 @@
         "id": 1620,
         "name": "ミシェル・ヨー",
         "character": "Madame Morrible",
-        "profilePath": "/nrbHNzSMydpWK9um5VqWIFJihB5.jpg"
+        "profilePath": "/i6fHvGt7Rb8oVyjjdQVV6vEHB94.jpg"
       },
       {
         "id": 80860,
@@ -468,9 +506,9 @@
         "name": "ホラー"
       }
     ],
-    "voteAverage": 5.804,
-    "voteCount": 1221,
-    "popularity": 7.7561,
+    "voteAverage": 5.809,
+    "voteCount": 1222,
+    "popularity": 6.5212,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/g8TbOXrNMuqq7AaKqdvqS2oG4ob.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/503LUrI9juBk1rktOPzxyMUTDEu.jpg",
@@ -541,9 +579,9 @@
         "name": "スリラー"
       }
     ],
-    "voteAverage": 7.552,
-    "voteCount": 796,
-    "popularity": 16.1713,
+    "voteAverage": 7.559,
+    "voteCount": 824,
+    "popularity": 20.9195,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/9w7WGjQes0Cs0s4U3Qr09Tg1Sra.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/vuUDwAi9UgLyNN9xZLtKTaLQWnl.jpg",
@@ -593,9 +631,9 @@
   },
   {
     "id": 956733,
-    "title": "경아의 딸",
+    "title": "ギョンアの娘",
     "originalTitle": "경아의 딸",
-    "overview": "",
+    "overview": "夫を亡くしたギョンアは、介護の仕事をしながら一人暮らしをしている。頼れるのは娘のヨンスだけだが、教師として働く彼女に会う機会は少ない。一方、ヨンスは元恋人のサンヒョンからしつこく付きまとわれ、苦しんでいた。\r ある日、ヨンスは突然ギョンアのもとを訪れる。穏やかな週末の中、ギョンアの携帯に知らない番号からメッセージが届く。それは、ヨンスのプライベート動画だった。混乱するギョンアに厳しく責め立てられたヨンスは、ひとりでこの状況に対処しようとするが…。\r 動画流出をきっかけに表面化した母娘の関係性、そして、現実に向き合う2人の姿を厳しくも丁寧に描く。",
     "releaseDate": "2022-06-16",
     "jpReleaseDate": "2026-03-07",
     "jpReleaseType": 3,
@@ -608,7 +646,7 @@
     ],
     "voteAverage": 5.0,
     "voteCount": 1,
-    "popularity": 5.6413,
+    "popularity": 0.7896,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/4hD4ZvUH6MH7uA19Xs63E4X1man.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/56wMqXu8OqacBuSaaoOO0b7Ca6u.jpg",
@@ -673,7 +711,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.17,
+    "popularity": 0.0968,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/xEq6Ynybk8fjWNHW0N9f19cHtZd.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/zRfgSQNvid0iK80xtlxH0EfwSz5.jpg",
@@ -705,7 +743,7 @@
     "releaseDate": "2026-03-13",
     "jpReleaseDate": "2026-03-13",
     "jpReleaseType": 3,
-    "runtime": 0,
+    "runtime": 119,
     "genres": [
       {
         "id": 16,
@@ -718,11 +756,11 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 2.9523,
+    "popularity": 1.2443,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/rrNrjrqDatwXJdDdYqZDUbHJKfw.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/y92YEUxG8QxqJrGNpOxOQbagaot.jpg",
-    "trailerUrl": "https://www.youtube.com/watch?v=XD5fFv7pb-U",
+    "trailerUrl": "https://www.youtube.com/watch?v=_lVI07eica0",
     "homepage": "https://sh-anime.shochiku.co.jp/parieto-movie",
     "tagline": "叶えたい、この街で。",
     "status": "Released",
@@ -791,7 +829,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 3.0429,
+    "popularity": 1.6637,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kFIs85TGQrrUqOvyYuC1ezkRO8x.jpg",
     "backdropUrl": null,
@@ -866,9 +904,9 @@
         "name": "コメディ"
       }
     ],
-    "voteAverage": 7.685,
-    "voteCount": 130,
-    "popularity": 142.8862,
+    "voteAverage": 7.7,
+    "voteCount": 207,
+    "popularity": 139.6683,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/8phh1PuZZ9gFagI2hcpJTT6lEKm.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
@@ -912,7 +950,7 @@
         "id": 54697,
         "name": "デイヴ・フランコ",
         "character": "Insect King (voice)",
-        "profilePath": "/to7ee1xcCOpDSKMXjBIRuYEfbEc.jpg"
+        "profilePath": "/j48eRArsXapbfXZfw9Fik7PlJSo.jpg"
       }
     ]
   },
@@ -929,11 +967,15 @@
       {
         "id": 18,
         "name": "ドラマ"
+      },
+      {
+        "id": 53,
+        "name": "スリラー"
       }
     ],
-    "voteAverage": 7.507,
-    "voteCount": 1230,
-    "popularity": 57.43,
+    "voteAverage": 7.469,
+    "voteCount": 1344,
+    "popularity": 63.7533,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/hVhPgJ6FZL0AJbd86bEhWESYwYw.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
@@ -953,19 +995,19 @@
         "id": 1190668,
         "name": "ティモシー・シャラメ",
         "character": "Marty Mauser",
-        "profilePath": "/c3NJxKbnKkQsttxA2XVh4pwPpIt.jpg"
+        "profilePath": "/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
       },
       {
         "id": 12052,
         "name": "グウィネス・パルトロー",
         "character": "Kay Stone",
-        "profilePath": "/slPWN0VvYJtNOEuxlFSsXSNQMaF.jpg"
+        "profilePath": "/8x3jpWD7DEvyMXO1FOjwNdd1UZT.jpg"
       },
       {
         "id": 1972166,
         "name": "オデッサ・アザイオン",
         "character": "Rachel Mizler",
-        "profilePath": "/fGgP2Ik5PbWlDVQNp6SN8oPsu0P.jpg"
+        "profilePath": "/meS7AUhkbybFiDtQyeczQ6rxO0F.jpg"
       },
       {
         "id": 1240877,
@@ -1008,9 +1050,9 @@
         "name": "アニメーション"
       }
     ],
-    "voteAverage": 6.6,
-    "voteCount": 61,
-    "popularity": 11.1458,
+    "voteAverage": 6.7,
+    "voteCount": 62,
+    "popularity": 8.1332,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/sM1CDaFdb4WNjtxsbV1Rw78km0A.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/MrcSSzWGsXf2IUJpjPPFLlNbjX.jpg",
@@ -1081,9 +1123,9 @@
         "name": "ロマンス"
       }
     ],
-    "voteAverage": 5.858,
-    "voteCount": 67,
-    "popularity": 8.4994,
+    "voteAverage": 5.85,
+    "voteCount": 70,
+    "popularity": 6.7232,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/5HefFZDvzHAR4qWEMExLfyM0qLs.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/lAtuFCx6cYkNBmTMSNnLE0qlCLx.jpg",
@@ -1148,7 +1190,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.068,
+    "popularity": 0.0143,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/f1CZHT25xeVx7I2xw3P3L8fLKS7.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/hRuDhRqvKaWuknHhGw6cfnw1wuL.jpg",
@@ -1195,7 +1237,7 @@
     ],
     "voteAverage": 6.962,
     "voteCount": 13,
-    "popularity": 0.5954,
+    "popularity": 0.5091,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/6RQEJnm563rZsE3Zxdm0CbVV9Xd.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/8DSNpmLej632QTmVHrnQNKrwVQY.jpg",
@@ -1205,14 +1247,14 @@
     "status": "Released",
     "directors": [
       {
-        "id": 1697289,
-        "name": "Andreas Hartmann",
-        "profilePath": "/i6N1r3TOJ8AMOxw7frW6rt3aNoj.jpg"
-      },
-      {
         "id": 1403813,
         "name": "森あらた",
         "profilePath": "/ozRFN4IaJqlYtkGQD63pT3X6a4A.jpg"
+      },
+      {
+        "id": 1697289,
+        "name": "Andreas Hartmann",
+        "profilePath": "/i6N1r3TOJ8AMOxw7frW6rt3aNoj.jpg"
       }
     ],
     "cast": []
@@ -1234,14 +1276,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.0432,
+    "popularity": 0.1371,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kXAKuvSkkpFNVBPEuXJxPTxVLdr.jpg",
     "backdropUrl": null,
     "trailerUrl": null,
     "homepage": "",
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "directors": [
       {
         "id": 229359,
@@ -1254,73 +1296,6 @@
         "id": 1246864,
         "name": "Yuko Suzuki",
         "character": "Narration (Voice)",
-        "profilePath": null
-      }
-    ]
-  },
-  {
-    "id": 1622242,
-    "title": "The Brainrotter",
-    "originalTitle": "The Brainrotter",
-    "overview": "",
-    "releaseDate": "2026-02-20",
-    "jpReleaseDate": "2026-03-20",
-    "jpReleaseType": 3,
-    "runtime": 0,
-    "genres": [
-      {
-        "id": 18,
-        "name": "ドラマ"
-      },
-      {
-        "id": 10749,
-        "name": "ロマンス"
-      },
-      {
-        "id": 35,
-        "name": "コメディ"
-      }
-    ],
-    "voteAverage": 0.0,
-    "voteCount": 0,
-    "popularity": 0.139,
-    "adult": false,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/lKiVG24kYoxLAowbrpjchxuqX9a.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/iXzeOojRNWGCqHrN6vOtta19hot.jpg",
-    "trailerUrl": null,
-    "homepage": "",
-    "tagline": "",
-    "status": "Released",
-    "directors": [
-      {
-        "id": 5285413,
-        "name": "Gaspar Villani",
-        "profilePath": "/ztMUrVQXyOpD44QAJ8n59Nyjes7.jpg"
-      }
-    ],
-    "cast": [
-      {
-        "id": 5285413,
-        "name": "Gaspar Villani",
-        "character": "Tralalero Tralala",
-        "profilePath": "/ztMUrVQXyOpD44QAJ8n59Nyjes7.jpg"
-      },
-      {
-        "id": 5308962,
-        "name": "Sofia Jacobs",
-        "character": "Cappuccino Assasino",
-        "profilePath": null
-      },
-      {
-        "id": 5308960,
-        "name": "Clarice Rocha",
-        "character": "Ballerina Cappuccina",
-        "profilePath": null
-      },
-      {
-        "id": 5960021,
-        "name": "Voice",
-        "character": "Hospital man",
         "profilePath": null
       }
     ]
@@ -1346,14 +1321,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.7504,
+    "popularity": 0.5554,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/r1tTESoJfvGZxM4xXSBtN6P5KvM.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/2D5Sd28wIcovIWNFnKYoLrcDiq7.jpg",
     "trailerUrl": null,
     "homepage": "https://kimiutamovie.toho.co.jp/",
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "directors": [
       {
         "id": 133251,
@@ -1384,7 +1359,7 @@
     "releaseDate": "2026-03-20",
     "jpReleaseDate": "2026-03-20",
     "jpReleaseType": 3,
-    "runtime": 0,
+    "runtime": 87,
     "genres": [
       {
         "id": 16,
@@ -1405,14 +1380,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.8032,
+    "popularity": 1.0182,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/jPCJ3drhhxcfJrLIZv3vucUGRBS.jpg",
-    "backdropUrl": null,
+    "backdropUrl": "https://image.tmdb.org/t/p/original/oP3Gj7nihYsu9i4JyPVMRLR7xBP.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=Mbc1i7QZW9E",
     "homepage": "",
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "directors": [
       {
         "id": 1506157,
@@ -1428,9 +1403,21 @@
         "profilePath": "/eT9eloyIaIkTvTqMmpcsAleP2hM.jpg"
       },
       {
+        "id": 144655,
+        "name": "杉田智和",
+        "character": "Tadaomi Karasuma (voice)",
+        "profilePath": "/cv5zuPZySNsHXu24pjKLYCRzJ2J.jpg"
+      },
+      {
+        "id": 571993,
+        "name": "伊藤静",
+        "character": "Irina Jelavic (voice)",
+        "profilePath": "/n47YvFPlJzl8HnsoDBtM8SUqG8q.jpg"
+      },
+      {
         "id": 1254300,
         "name": "渕上舞",
-        "character": "Nagisa Shiota (voice)",
+        "character": "Nagisa Shiota (voice), Hotaru (voice)",
         "profilePath": "/rWYdSVyjdyKoWj9SbJRTMJmYgbJ.jpg"
       },
       {
@@ -1438,12 +1425,57 @@
         "name": "岡本信彦",
         "character": "Karma Akabane (voice)",
         "profilePath": "/7s1K2yQVF5iIWILaOfG7QrMZkXA.jpg"
+      }
+    ]
+  },
+  {
+    "id": 1507573,
+    "title": "ナショナル・シアター・ライブ「フィフス・ステップ」",
+    "originalTitle": "National Theatre Live: The Fifth Step",
+    "overview": "長年アルコール依存症の12ステップ・プログラムに取り組んできたジェームズは、新たに参加したルカのスポンサーとなる。ブラックコーヒーを片手に語り、過去を分かち合いながら、2人はもろくも温かな友情を築いていく。だがルカが“第5ステップ”――すべての過ちを打ち明ける告白の段階に差し掛かった時、2人の信頼関係を根底から揺るがす危険な真実が明らかになる――。",
+    "releaseDate": "2025-11-27",
+    "jpReleaseDate": "2026-03-20",
+    "jpReleaseType": 3,
+    "runtime": 90,
+    "genres": [
+      {
+        "id": 18,
+        "name": "ドラマ"
       },
       {
-        "id": 1258548,
-        "name": "洲崎綾",
-        "character": "Kaede Kayano (voice)",
-        "profilePath": "/eCbCtnzFqr4aTpe3arDeRGazP5K.jpg"
+        "id": 35,
+        "name": "コメディ"
+      }
+    ],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.4253,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/f2FeCAeOadqj3leou4XTsHDR8pX.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/xAAk7DR2bloyaM5xj0In0Kel4m.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 1626601,
+        "name": "Finn den Hertog",
+        "profilePath": "/r6x2OkSXlfVtzBuomzPVXAzGRlj.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 7060,
+        "name": "マーティン・フリーマン",
+        "character": "James",
+        "profilePath": "/nrO54AzrxiNgCjBUOSz6ebyxDZY.jpg"
+      },
+      {
+        "id": 1334638,
+        "name": "ジャック・ロウデン",
+        "character": "Luka",
+        "profilePath": "/3wSE6uHLkslE9xvRiMbnphuI0VK.jpg"
       }
     ]
   },
@@ -1470,9 +1502,9 @@
         "name": "ファンタジー"
       }
     ],
-    "voteAverage": 6.8,
-    "voteCount": 75,
-    "popularity": 12.4836,
+    "voteAverage": 6.822,
+    "voteCount": 76,
+    "popularity": 10.8614,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/lWQRM7IOCyJT9E5kOnoUvZNELHQ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/mZGsJUzQ4dONUBccxhImBqxaSQt.jpg",
@@ -1510,7 +1542,7 @@
         "id": 2353469,
         "name": "신승호",
         "character": "Lee Hyeon-seong",
-        "profilePath": "/pIvBFVWOhfLvWClrFMqBKRJ1iK4.jpg"
+        "profilePath": "/6Ca6UNuwVmHPIVGIPQuChOp7oJp.jpg"
       },
       {
         "id": 1523043,
@@ -1535,9 +1567,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 6.7,
-    "voteCount": 502,
-    "popularity": 3.5232,
+    "voteAverage": 6.658,
+    "voteCount": 504,
+    "popularity": 3.2913,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/lTTl9EH4iy8d4axiqxuVGCW6LzL.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/rtpFIgy1YYw3kx7PCyNhi6xmEFb.jpg",
@@ -1590,7 +1622,7 @@
     "title": "プロジェクト・ヘイル・メアリー",
     "originalTitle": "Project Hail Mary",
     "overview": "",
-    "releaseDate": "2026-03-13",
+    "releaseDate": "2026-03-15",
     "jpReleaseDate": "2026-03-20",
     "jpReleaseType": 3,
     "runtime": 157,
@@ -1608,12 +1640,12 @@
         "name": "謎"
       }
     ],
-    "voteAverage": 9.286,
-    "voteCount": 7,
-    "popularity": 56.3524,
+    "voteAverage": 8.5,
+    "voteCount": 66,
+    "popularity": 152.0097,
     "adult": false,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/cCx1m530ph5FmtabVVUpUchEmhe.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/qL4dBGLkWOVP5vImN7EEoqJQYd8.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=VU_diEdOUu8",
     "homepage": "https://projecthm.movie",
     "tagline": "",
@@ -1635,25 +1667,25 @@
         "id": 30614,
         "name": "ライアン・ゴズリング",
         "character": "Ryland Grace",
-        "profilePath": "/asoKC7CLCqpZKZDL6iovNurQUdf.jpg"
+        "profilePath": "/k50021gkK92Lx6m99pBy6FUOvNf.jpg"
       },
       {
         "id": 7152,
         "name": "ザンドラ・ヒュラー",
         "character": "Eva Stratt",
-        "profilePath": "/xRkKpadrLhvhH3bCzW1AIuwPAxt.jpg"
+        "profilePath": "/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
+      },
+      {
+        "id": 2096164,
+        "name": "James Ortiz",
+        "character": "Rocky (voice)",
+        "profilePath": "/m4pZGO9bHaVMfQBtFVZx9MGlo14.jpg"
       },
       {
         "id": 2320708,
         "name": "ライオネル・ボイス",
-        "character": "Martin DuBois",
+        "character": "Carl",
         "profilePath": "/hpIxX5nkfA3pWCW8rYkEUCSBVyS.jpg"
-      },
-      {
-        "id": 2131,
-        "name": "ケン・レオン",
-        "character": "Yáo Li-Jie",
-        "profilePath": "/hpatUP6u74gkpDRmn9voNY9V43O.jpg"
       },
       {
         "id": 1454946,
@@ -1667,11 +1699,11 @@
     "id": 682012,
     "title": "アメリと雨の物語",
     "originalTitle": "Amélie et la métaphysique des tubes",
-    "overview": "",
+    "overview": "1960年代神戸—日本で生まれたベルギー人の小さな女の子アメリ。彼女の成長を描く物語。外交官の家庭に生まれ、2歳半までは無反応状態だったアメリ。その後、子ども時代に突入した彼女は自らを「神」だと信じ、魔法のような世界を生きている。家政婦のニシオさんや家族との日々の生活は、彼女にとって冒険であり、新たな発見の連続。少しずつ変化していくアメリ。しかし、3歳の誕生日に人生を変える出来事が起こり、彼女の世界は大きく変わっていく…。誰もが子供時代に夢見た世界を描く感動のアニメーション作品",
     "releaseDate": "2025-06-25",
     "jpReleaseDate": "2026-03-20",
     "jpReleaseType": 3,
-    "runtime": 78,
+    "runtime": 77,
     "genres": [
       {
         "id": 16,
@@ -1687,13 +1719,13 @@
       }
     ],
     "voteAverage": 8.0,
-    "voteCount": 116,
-    "popularity": 15.5804,
+    "voteCount": 124,
+    "popularity": 12.3217,
     "adult": false,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/As1MI46u7yWuBhZ5AI41GdB867G.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/t44gdeEDqhZk4erujgcxdypUhBq.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/2WCpiFmRqXyu5y7WoZjEa3CJbiI.jpg",
     "trailerUrl": null,
-    "homepage": "",
+    "homepage": "https://littleamelie-movie.com/",
     "tagline": "",
     "status": "Released",
     "directors": [
@@ -1756,9 +1788,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 6.889,
+    "voteAverage": 6.9,
     "voteCount": 9,
-    "popularity": 2.8329,
+    "popularity": 0.5897,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ajneL70wrATLhrXaYEuXHz9aep9.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/fZ6cXVESqUp2mq9NkYykrjz3EEG.jpg",
@@ -1818,7 +1850,7 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.6601,
+    "popularity": 0.5254,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/4mi1xmVxfwSnNVerEUPeWLsYpgv.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/auuAbLDTWKCJCphJ9SNwm7ZNzfO.jpg",
@@ -1883,7 +1915,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.0921,
+    "popularity": 0.096,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/4THLIZgzWYCU4OkIf3ubzbZoltC.jpg",
     "backdropUrl": null,
@@ -1934,7 +1966,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.6875,
+    "popularity": 0.4851,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/f6uPL4hVIkRrXcDatinVR5BqWCn.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/j1exVoTvgc1RIKB8SG3UkSUY4aX.jpg",
@@ -1993,7 +2025,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.4448,
+    "popularity": 0.5521,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/jjKlu7fAQrnVGaSnJ4Xzo8T4WCB.jpg",
     "backdropUrl": null,
@@ -2042,6 +2074,145 @@
     ]
   },
   {
+    "id": 1242015,
+    "title": "そして彼女たちは",
+    "originalTitle": "Jeunes mères",
+    "overview": "若くして妊娠した女性を支援する施設で共に暮らす５人の少女。彼女たちは頼る人を持たず、貧困や暴力などさまざまな問題を抱えている。「ひとりじゃ育てられない」「嬉しいと思いたいのに」――戸惑い、悩み、なるべき家族像を見いだせないまま、母になる少女たち。押し寄せる孤独感に飲み込まれそうになっても、時に誰かに寄り添われながら、それぞれが歩むべき道を選び取っていく……",
+    "releaseDate": "2025-05-23",
+    "jpReleaseDate": "2026-03-27",
+    "jpReleaseType": 3,
+    "runtime": 104,
+    "genres": [
+      {
+        "id": 18,
+        "name": "ドラマ"
+      }
+    ],
+    "voteAverage": 6.652,
+    "voteCount": 46,
+    "popularity": 4.4608,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8sawP0EY2BxbnizxxcJSrdKLtJO.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/7UsW6pKkCdCmceBmdQ0MvV6zKhL.jpg",
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 56209,
+        "name": "Jean-Pierre Dardenne",
+        "profilePath": "/n5BqsP6h3VtweQAFfQz2qtd5khq.jpg"
+      },
+      {
+        "id": 45138,
+        "name": "リュック・ダルデンヌ",
+        "profilePath": "/hfnvLjmLKQyx1ftkuC6hhHwoTtM.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 5362387,
+        "name": "Lucie Laruelle",
+        "character": "Perla",
+        "profilePath": null
+      },
+      {
+        "id": 3873043,
+        "name": "Babette Verbeek",
+        "character": "Jessica",
+        "profilePath": "/nsSshYlSO2HwQeEubWjwtqhHGg6.jpg"
+      },
+      {
+        "id": 1633277,
+        "name": "Elsa Houben",
+        "character": "Julia",
+        "profilePath": "/sBaQ1w7fE7qffrh4JsW1G3Zbf0C.jpg"
+      },
+      {
+        "id": 3677620,
+        "name": "Janaïna Halloy Fokan",
+        "character": "Ariane",
+        "profilePath": "/7QRZSdaWLyY4YjLtZpJwRFgOckP.jpg"
+      },
+      {
+        "id": 5362382,
+        "name": "Samia Hilmi",
+        "character": "Naïma",
+        "profilePath": null
+      }
+    ]
+  },
+  {
+    "id": 1239041,
+    "title": "私たちの話し方",
+    "originalTitle": "看我今天怎麼說",
+    "overview": "手話のみを使用しスクーバダイビングのインストラクターを目指すジーソン、ジーソンの幼馴染で親友、口語と手話の両方を使う広告クリエイターのアラン。そんな2人が、大学を卒業後、大企業に就職し人工内耳（※）のアンバサダーに就任したソフィーと出会う。新たな出会いが、３人それぞれの生き方を変えていくーー\r ※人工内耳とは、聴覚障がいがあり、補聴器では十分な効果が得られない人がつける医療器具。受信コイルを皮下に挿入するため、手術が必要。外部に送信コイルなどの器具を付けることで使用できる。",
+    "releaseDate": "2025-01-18",
+    "jpReleaseDate": "2026-03-27",
+    "jpReleaseType": 3,
+    "runtime": 132,
+    "genres": [
+      {
+        "id": 18,
+        "name": "ドラマ"
+      },
+      {
+        "id": 35,
+        "name": "コメディ"
+      }
+    ],
+    "voteAverage": 7.0,
+    "voteCount": 5,
+    "popularity": 0.9262,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/barKgptDYek9bbxs6zGK0PA506b.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/sLN3jFngme3cIGYYvHZLR1voo6l.jpg",
+    "trailerUrl": null,
+    "homepage": "https://mimosafilms.com/thewaywetalk/",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 231732,
+        "name": "Adam Wong",
+        "profilePath": null
+      }
+    ],
+    "cast": [
+      {
+        "id": 1809911,
+        "name": "游學修",
+        "character": "Wolf Yip",
+        "profilePath": "/uoyHHtSNdoxMxsb507OMniYKN8e.jpg"
+      },
+      {
+        "id": 3102289,
+        "name": "鍾雪瑩",
+        "character": "Sophie Fong",
+        "profilePath": "/kAWBcYbbOYe0u1s5bAjVKasUYs2.jpg"
+      },
+      {
+        "id": 4511953,
+        "name": "吳祉昊",
+        "character": "Alan Ng",
+        "profilePath": "/1KB31pRE3mysKyiWjFY9MEWyEwF.jpg"
+      },
+      {
+        "id": 5374140,
+        "name": "Nathan Chun-Hei Cheng",
+        "character": "Young Wolf",
+        "profilePath": null
+      },
+      {
+        "id": 5374142,
+        "name": "Wai-Hang Wong",
+        "character": "Young Alan",
+        "profilePath": null
+      }
+    ]
+  },
+  {
     "id": 1181107,
     "title": "キング・オブ・キングス",
     "originalTitle": "The King of Kings",
@@ -2073,8 +2244,8 @@
       }
     ],
     "voteAverage": 8.3,
-    "voteCount": 144,
-    "popularity": 6.3843,
+    "voteCount": 145,
+    "popularity": 5.822,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/mr2LvZydvor6CDZhrpJLRYMCcBc.jpg",
@@ -2139,7 +2310,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.0516,
+    "popularity": 0.0311,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/lEHDmmkHsVPLPcCCB7ximQVpTfk.jpg",
     "backdropUrl": null,
@@ -2200,9 +2371,9 @@
         "name": "ホラー"
       }
     ],
-    "voteAverage": 5.6,
-    "voteCount": 5,
-    "popularity": 0.6887,
+    "voteAverage": 6.0,
+    "voteCount": 6,
+    "popularity": 1.0306,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ifPpCzrcdxYgszMtvEvs627NBBt.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/iMNGqlNBbeyc15OfmO2VWaZBSQC.jpg",
@@ -2267,7 +2438,7 @@
     ],
     "voteAverage": 8.0,
     "voteCount": 1,
-    "popularity": 2.0369,
+    "popularity": 0.8833,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/3SMN4reN1muXAE8YtBqRv12UkZn.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/dWEgMbIDK0Bcnp52wnm645XI8UH.jpg",
@@ -2309,7 +2480,7 @@
       },
       {
         "id": 552067,
-        "name": "김태훈",
+        "name": "キム・テフン",
         "character": "Yong-min",
         "profilePath": "/8mTd6HpLDFK2cwiWhoyZO78A5n1.jpg"
       }
