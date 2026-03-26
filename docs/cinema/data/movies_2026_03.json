@@ -3,11 +3,11 @@
     "id": 1650794,
     "title": "ふくふくの地図",
     "originalTitle": "ふくふくの地図",
-    "overview": "",
+    "overview": "友人の結婚式に参列するため、フランス人の哲学者・ソフィーは、はじめて福島県を訪れる。 見ず知らずの土地。通じない言葉。頼りにしていた地図さえ、気づけば失くしてしまっていた。  途方に暮れる彼女の前に現れたのは、不思議な “ともだち” と、一枚の “まっぷ” 。 どこに辿り着くか分からない、奇妙な旅を共にしていく。  導かれるままに歩き、寄り道をし、出会った場所で立ち止まる。 そこにあるすべてが、誰かの手によってつくられ、受け渡されてきた 「文化」 なのだと、ソフィーは少しずつ感じ取っていく。  幸せがいっぱいの福島。  たった一日の、旅とも冒険ともつかない時間のなかで、ソフィーは久方ぶりに再会する友人にかけるべき言葉を、ゆっくりと見つけていく。",
     "releaseDate": "2026-03-05",
     "jpReleaseDate": "2026-03-05",
     "jpReleaseType": 3,
-    "runtime": 0,
+    "runtime": 11,
     "genres": [
       {
         "id": 16,
@@ -18,14 +18,14 @@
         "name": "ファンタジー"
       }
     ],
-    "voteAverage": 0.0,
-    "voteCount": 0,
-    "popularity": 0.0644,
+    "voteAverage": 7.0,
+    "voteCount": 1,
+    "popularity": 0.2964,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/7O3zL9LtOTj7m6dBH6QhoAae8PT.jpg",
     "backdropUrl": null,
-    "trailerUrl": null,
-    "homepage": "",
+    "trailerUrl": "https://www.youtube.com/watch?v=Ax5lzDlmRAE",
+    "homepage": "https://fukushimamap.jp/special-2/",
     "tagline": "",
     "status": "Released",
     "directors": [
@@ -54,7 +54,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.1821,
+    "popularity": 0.4659,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/oBczZGAxQCPRfUErhEldfzhgWHk.jpg",
     "backdropUrl": null,
@@ -114,7 +114,7 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.0936,
+    "popularity": 0.1534,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/unOPSrUqEcUk4QOx9UAj2PryhCe.jpg",
     "backdropUrl": null,
@@ -169,7 +169,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.5137,
+    "popularity": 0.495,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/wjb19iVaUVTWfPwf2XNnfEDjwZo.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/w9lQPIOaHXUoVHgUOCOjQkiQjX9.jpg",
@@ -234,7 +234,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.1828,
+    "popularity": 0.3759,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/60PDRNJkoDtY43CT5hUUDFAB1ft.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/kB4qfVvbErPCNHH3RLHwGR7SbYO.jpg",
@@ -297,9 +297,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 7.76,
+    "voteAverage": 7.8,
     "voteCount": 204,
-    "popularity": 3.9793,
+    "popularity": 3.1782,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/pjcfjDf4f4WsLWEPeza2R8Ibob3.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/egNz2a18eQ9ycBfQQkQehSTeNwH.jpg",
@@ -368,7 +368,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 4.0165,
+    "popularity": 2.0716,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/wIXWBILvfweBOPfnOsaK71AFtXm.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/uuVLGMIIGwz9QbBlvDvGlfU5HkI.jpg",
@@ -433,9 +433,9 @@
         "name": "ロマンス"
       }
     ],
-    "voteAverage": 6.629,
-    "voteCount": 878,
-    "popularity": 19.374,
+    "voteAverage": 6.6,
+    "voteCount": 889,
+    "popularity": 18.082,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/qzKgabRKPsMtFYqbjTLc37mwbBj.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/cGbPBHKSFO7hSIjxkb3KOaGdOep.jpg",
@@ -506,9 +506,9 @@
         "name": "ホラー"
       }
     ],
-    "voteAverage": 5.809,
-    "voteCount": 1222,
-    "popularity": 6.5212,
+    "voteAverage": 5.8,
+    "voteCount": 1226,
+    "popularity": 6.0288,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/g8TbOXrNMuqq7AaKqdvqS2oG4ob.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/503LUrI9juBk1rktOPzxyMUTDEu.jpg",
@@ -579,9 +579,9 @@
         "name": "スリラー"
       }
     ],
-    "voteAverage": 7.559,
-    "voteCount": 824,
-    "popularity": 20.9195,
+    "voteAverage": 7.562,
+    "voteCount": 852,
+    "popularity": 18.7868,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/9w7WGjQes0Cs0s4U3Qr09Tg1Sra.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/vuUDwAi9UgLyNN9xZLtKTaLQWnl.jpg",
@@ -601,7 +601,7 @@
         "id": 25002,
         "name": "イ・ビョンホン",
         "character": "Yoo Man-su",
-        "profilePath": "/ciB32A22ePZZgjOvOMsyiQFDLDy.jpg"
+        "profilePath": "/j7SUd9Qi8iOxgrQGb3nQyEYcXur.jpg"
       },
       {
         "id": 86889,
@@ -646,7 +646,7 @@
     ],
     "voteAverage": 5.0,
     "voteCount": 1,
-    "popularity": 0.7896,
+    "popularity": 1.0181,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/4hD4ZvUH6MH7uA19Xs63E4X1man.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/56wMqXu8OqacBuSaaoOO0b7Ca6u.jpg",
@@ -711,7 +711,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.0968,
+    "popularity": 0.4369,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/xEq6Ynybk8fjWNHW0N9f19cHtZd.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/zRfgSQNvid0iK80xtlxH0EfwSz5.jpg",
@@ -756,11 +756,11 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.2443,
+    "popularity": 1.5457,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/rrNrjrqDatwXJdDdYqZDUbHJKfw.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/y92YEUxG8QxqJrGNpOxOQbagaot.jpg",
-    "trailerUrl": "https://www.youtube.com/watch?v=_lVI07eica0",
+    "trailerUrl": "https://www.youtube.com/watch?v=v2IgfCM3mbA",
     "homepage": "https://sh-anime.shochiku.co.jp/parieto-movie",
     "tagline": "叶えたい、この街で。",
     "status": "Released",
@@ -829,7 +829,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.6637,
+    "popularity": 1.6152,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kFIs85TGQrrUqOvyYuC1ezkRO8x.jpg",
     "backdropUrl": null,
@@ -881,7 +881,7 @@
     "id": 1327819,
     "title": "私がビーバーになる時",
     "originalTitle": "Hoppers",
-    "overview": "ディズニー＆ピクサー最新作！ もしもビーバーになって、＜動物の世界＞に潜入できたら？\r ある目的のため、ビーバー型ロボットに意識を“ホップ”させたメイベルは夢見ていた動物との会話に大喜びするが、人間の世界を揺るがす動物たちのとんでもない計画を知ってしまう。ビーバーになった彼女が巻き起こす奇跡とは―？",
+    "overview": "ディズニー＆ピクサー最新作！ もしもビーバーになって、＜動物の世界＞に潜入できたら？  ある目的のため、ビーバー型ロボットに意識を“ホップ”させたメイベルは夢見ていた動物との会話に大喜びするが、人間の世界を揺るがす動物たちのとんでもない計画を知ってしまう。ビーバーになった彼女が巻き起こす奇跡とは―？",
     "releaseDate": "2026-03-04",
     "jpReleaseDate": "2026-03-13",
     "jpReleaseType": 3,
@@ -902,14 +902,18 @@
       {
         "id": 35,
         "name": "コメディ"
+      },
+      {
+        "id": 12,
+        "name": "アドベンチャー"
       }
     ],
-    "voteAverage": 7.7,
-    "voteCount": 207,
-    "popularity": 139.6683,
+    "voteAverage": 7.619,
+    "voteCount": 286,
+    "popularity": 112.5402,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/8phh1PuZZ9gFagI2hcpJTT6lEKm.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=2WX3hRcqaRU",
     "homepage": "",
     "tagline": "今日から、動物の世界の住民になります。",
@@ -950,7 +954,7 @@
         "id": 54697,
         "name": "デイヴ・フランコ",
         "character": "Insect King (voice)",
-        "profilePath": "/j48eRArsXapbfXZfw9Fik7PlJSo.jpg"
+        "profilePath": "/d0I1BgNBAVvLJEDSfmyNVjYWPZE.jpg"
       }
     ]
   },
@@ -973,9 +977,9 @@
         "name": "スリラー"
       }
     ],
-    "voteAverage": 7.469,
-    "voteCount": 1344,
-    "popularity": 63.7533,
+    "voteAverage": 7.5,
+    "voteCount": 1429,
+    "popularity": 40.885,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/hVhPgJ6FZL0AJbd86bEhWESYwYw.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/3iMoYSbI72Nwsvi7uSpqReLJVa6.jpg",
@@ -995,19 +999,19 @@
         "id": 1190668,
         "name": "ティモシー・シャラメ",
         "character": "Marty Mauser",
-        "profilePath": "/dFxpwRpmzpVfP1zjluH68DeQhyj.jpg"
+        "profilePath": "/axENiFIrSz5B7UuWkMT7PDe7CaO.jpg"
       },
       {
         "id": 12052,
         "name": "グウィネス・パルトロー",
         "character": "Kay Stone",
-        "profilePath": "/8x3jpWD7DEvyMXO1FOjwNdd1UZT.jpg"
+        "profilePath": "/ylN4A7fnnNXvHURENl5sQI8Jbib.jpg"
       },
       {
         "id": 1972166,
         "name": "オデッサ・アザイオン",
         "character": "Rachel Mizler",
-        "profilePath": "/meS7AUhkbybFiDtQyeczQ6rxO0F.jpg"
+        "profilePath": "/swdC2knDQri6CIRuEK0SOgCa6PA.jpg"
       },
       {
         "id": 1240877,
@@ -1052,7 +1056,7 @@
     ],
     "voteAverage": 6.7,
     "voteCount": 62,
-    "popularity": 8.1332,
+    "popularity": 8.3114,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/sM1CDaFdb4WNjtxsbV1Rw78km0A.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/MrcSSzWGsXf2IUJpjPPFLlNbjX.jpg",
@@ -1078,7 +1082,7 @@
         "id": 94759,
         "name": "Gloria Estefan",
         "character": "Grandma Gigi",
-        "profilePath": "/4XXJXUZiUzrI1Xjm2e0QqFu3J9y.jpg"
+        "profilePath": "/jncBW0zcDrPd8wXJiIqSY3AnePr.jpg"
       },
       {
         "id": 41091,
@@ -1123,9 +1127,9 @@
         "name": "ロマンス"
       }
     ],
-    "voteAverage": 5.85,
-    "voteCount": 70,
-    "popularity": 6.7232,
+    "voteAverage": 5.9,
+    "voteCount": 71,
+    "popularity": 6.2354,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/5HefFZDvzHAR4qWEMExLfyM0qLs.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/lAtuFCx6cYkNBmTMSNnLE0qlCLx.jpg",
@@ -1190,7 +1194,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.0143,
+    "popularity": 0.0475,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/f1CZHT25xeVx7I2xw3P3L8fLKS7.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/hRuDhRqvKaWuknHhGw6cfnw1wuL.jpg",
@@ -1235,9 +1239,9 @@
         "name": "ドキュメンタリー"
       }
     ],
-    "voteAverage": 6.962,
+    "voteAverage": 7.0,
     "voteCount": 13,
-    "popularity": 0.5091,
+    "popularity": 0.7362,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/6RQEJnm563rZsE3Zxdm0CbVV9Xd.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/8DSNpmLej632QTmVHrnQNKrwVQY.jpg",
@@ -1247,14 +1251,14 @@
     "status": "Released",
     "directors": [
       {
-        "id": 1403813,
-        "name": "森あらた",
-        "profilePath": "/ozRFN4IaJqlYtkGQD63pT3X6a4A.jpg"
-      },
-      {
         "id": 1697289,
         "name": "Andreas Hartmann",
         "profilePath": "/i6N1r3TOJ8AMOxw7frW6rt3aNoj.jpg"
+      },
+      {
+        "id": 1403813,
+        "name": "森あらた",
+        "profilePath": "/ozRFN4IaJqlYtkGQD63pT3X6a4A.jpg"
       }
     ],
     "cast": []
@@ -1276,7 +1280,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.1371,
+    "popularity": 0.1174,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/kXAKuvSkkpFNVBPEuXJxPTxVLdr.jpg",
     "backdropUrl": null,
@@ -1301,6 +1305,48 @@
     ]
   },
   {
+    "id": 1656500,
+    "title": "おしり前マン〜復活のおしり前帝国〜",
+    "originalTitle": "おしり前マン〜復活のおしり前帝国〜",
+    "overview": "YouTubeを起点に個性的な自主制作アニメを発表して注目を集める谷口崇が、自身のオリジナル作品である「おしり前マン」を映画化した長編アニメーション映画。  おしりが前にある前尻（まえじり）はごく普通のサラリーマンだが、その正体は、街の平和を守るヒーロー「おしり前マン」だった。ある時、おしりが前になる薬「シリマエナーレ」が町中に出回り、かつてない混乱が巻き起こる。原因を探るおしり前マンは、とある製薬会社にたどり着く。そこで「おしり前帝国復活計画」と記された文書を発見した彼は、伝説の「おしり前帝国」を復活させ、人々を支配しようと企む組織の存在を知る。事の重大性を感じたおしり前マンは、かつての師である「おしり前レジェンド」（先代おしり前マン）のもとで修行することを決意する。  映画版でも、監督・脚本・作画・声・歌をはじめとする主な制作過程を谷口監督がひとりで手がけたが、おしり前レジェンドの声優として二宮和也が参加。二宮と谷口監督で劇中歌も歌唱した。",
+    "releaseDate": "2026-03-20",
+    "jpReleaseDate": "2026-03-20",
+    "jpReleaseType": 3,
+    "runtime": 0,
+    "genres": [],
+    "voteAverage": 0.0,
+    "voteCount": 0,
+    "popularity": 0.0404,
+    "adult": false,
+    "posterUrl": "https://image.tmdb.org/t/p/w500/wyxrHphcya4PyaEnH24njZreSo0.jpg",
+    "backdropUrl": null,
+    "trailerUrl": null,
+    "homepage": "",
+    "tagline": "",
+    "status": "Released",
+    "directors": [
+      {
+        "id": 1092130,
+        "name": "谷口崇",
+        "profilePath": "/l1BdzSHVRKmzOD6hVDq20KApMUF.jpg"
+      }
+    ],
+    "cast": [
+      {
+        "id": 1092130,
+        "name": "谷口崇",
+        "character": "",
+        "profilePath": "/l1BdzSHVRKmzOD6hVDq20KApMUF.jpg"
+      },
+      {
+        "id": 33515,
+        "name": "二宮和也",
+        "character": "",
+        "profilePath": "/4mxogZeEPZiVrnJ4L8ICvOJONfs.jpg"
+      }
+    ]
+  },
+  {
     "id": 1559185,
     "title": "君が最後に遺した歌",
     "originalTitle": "君が最後に遺した歌",
@@ -1321,7 +1367,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.5554,
+    "popularity": 1.1942,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/r1tTESoJfvGZxM4xXSBtN6P5KvM.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/2D5Sd28wIcovIWNFnKYoLrcDiq7.jpg",
@@ -1380,7 +1426,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 1.0182,
+    "popularity": 1.6791,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/jPCJ3drhhxcfJrLIZv3vucUGRBS.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/oP3Gj7nihYsu9i4JyPVMRLR7xBP.jpg",
@@ -1449,7 +1495,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.4253,
+    "popularity": 0.5557,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/f2FeCAeOadqj3leou4XTsHDR8pX.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/xAAk7DR2bloyaM5xj0In0Kel4m.jpg",
@@ -1502,9 +1548,9 @@
         "name": "ファンタジー"
       }
     ],
-    "voteAverage": 6.822,
-    "voteCount": 76,
-    "popularity": 10.8614,
+    "voteAverage": 6.8,
+    "voteCount": 77,
+    "popularity": 9.7773,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/lWQRM7IOCyJT9E5kOnoUvZNELHQ.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/mZGsJUzQ4dONUBccxhImBqxaSQt.jpg",
@@ -1567,9 +1613,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 6.658,
-    "voteCount": 504,
-    "popularity": 3.2913,
+    "voteAverage": 6.7,
+    "voteCount": 511,
+    "popularity": 3.6658,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/lTTl9EH4iy8d4axiqxuVGCW6LzL.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/rtpFIgy1YYw3kx7PCyNhi6xmEFb.jpg",
@@ -1589,7 +1635,7 @@
         "id": 2037,
         "name": "キリアン・マーフィー",
         "character": "Bill Furlong",
-        "profilePath": "/llkbyWKwpfowZ6C8peBjIV9jj99.jpg"
+        "profilePath": "/2lKs67r7FI4bPu0AXxMUJZxmUXn.jpg"
       },
       {
         "id": 1639,
@@ -1634,18 +1680,14 @@
       {
         "id": 12,
         "name": "アドベンチャー"
-      },
-      {
-        "id": 9648,
-        "name": "謎"
       }
     ],
-    "voteAverage": 8.5,
-    "voteCount": 66,
-    "popularity": 152.0097,
+    "voteAverage": 8.184,
+    "voteCount": 481,
+    "popularity": 318.4081,
     "adult": false,
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-    "backdropUrl": "https://image.tmdb.org/t/p/original/qL4dBGLkWOVP5vImN7EEoqJQYd8.jpg",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/laVssxUceGPReVeLM6GVVDwXBF3.jpg",
+    "backdropUrl": "https://image.tmdb.org/t/p/original/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=VU_diEdOUu8",
     "homepage": "https://projecthm.movie",
     "tagline": "",
@@ -1670,16 +1712,16 @@
         "profilePath": "/k50021gkK92Lx6m99pBy6FUOvNf.jpg"
       },
       {
-        "id": 7152,
-        "name": "ザンドラ・ヒュラー",
-        "character": "Eva Stratt",
-        "profilePath": "/jQfKXVCPTH9KEnzHHU4QemCnlMe.jpg"
-      },
-      {
         "id": 2096164,
         "name": "James Ortiz",
         "character": "Rocky (voice)",
         "profilePath": "/m4pZGO9bHaVMfQBtFVZx9MGlo14.jpg"
+      },
+      {
+        "id": 7152,
+        "name": "ザンドラ・ヒュラー",
+        "character": "Eva Stratt",
+        "profilePath": "/t7wGqC2dRwTEnt9Fk5pxQ0uXTqs.jpg"
       },
       {
         "id": 2320708,
@@ -1719,8 +1761,8 @@
       }
     ],
     "voteAverage": 8.0,
-    "voteCount": 124,
-    "popularity": 12.3217,
+    "voteCount": 130,
+    "popularity": 8.5604,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/t44gdeEDqhZk4erujgcxdypUhBq.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/2WCpiFmRqXyu5y7WoZjEa3CJbiI.jpg",
@@ -1790,7 +1832,7 @@
     ],
     "voteAverage": 6.9,
     "voteCount": 9,
-    "popularity": 0.5897,
+    "popularity": 1.4917,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ajneL70wrATLhrXaYEuXHz9aep9.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/fZ6cXVESqUp2mq9NkYykrjz3EEG.jpg",
@@ -1850,14 +1892,14 @@
     "genres": [],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.5254,
+    "popularity": 0.5622,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/4mi1xmVxfwSnNVerEUPeWLsYpgv.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/auuAbLDTWKCJCphJ9SNwm7ZNzfO.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=Gv0JGi7XsJw",
     "homepage": "https://happinet-phantom.com/streetkingdom/",
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "directors": [
       {
         "id": 67091,
@@ -1915,14 +1957,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.096,
+    "popularity": 0.4018,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/4THLIZgzWYCU4OkIf3ubzbZoltC.jpg",
-    "backdropUrl": null,
+    "backdropUrl": "https://image.tmdb.org/t/p/original/fbVtcapDnqrJqhsE2boiW5ILeio.jpg",
     "trailerUrl": null,
     "homepage": "https://movie90m.com/",
     "tagline": "",
-    "status": "Post Production",
+    "status": "Released",
     "directors": [
       {
         "id": 2419123,
@@ -1966,14 +2008,14 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.4851,
+    "popularity": 0.6244,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/f6uPL4hVIkRrXcDatinVR5BqWCn.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/j1exVoTvgc1RIKB8SG3UkSUY4aX.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=EzKF42io_TI",
     "homepage": "https://movies.shochiku.co.jp/onihana/",
     "tagline": "",
-    "status": "In Production",
+    "status": "Released",
     "directors": [
       {
         "id": 1178880,
@@ -2025,7 +2067,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.5521,
+    "popularity": 1.2155,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/jjKlu7fAQrnVGaSnJ4Xzo8T4WCB.jpg",
     "backdropUrl": null,
@@ -2088,9 +2130,9 @@
         "name": "ドラマ"
       }
     ],
-    "voteAverage": 6.652,
-    "voteCount": 46,
-    "popularity": 4.4608,
+    "voteAverage": 6.7,
+    "voteCount": 47,
+    "popularity": 5.0415,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/8sawP0EY2BxbnizxxcJSrdKLtJO.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/7UsW6pKkCdCmceBmdQ0MvV6zKhL.jpg",
@@ -2164,7 +2206,7 @@
     ],
     "voteAverage": 7.0,
     "voteCount": 5,
-    "popularity": 0.9262,
+    "popularity": 1.3961,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/barKgptDYek9bbxs6zGK0PA506b.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/sLN3jFngme3cIGYYvHZLR1voo6l.jpg",
@@ -2244,8 +2286,8 @@
       }
     ],
     "voteAverage": 8.3,
-    "voteCount": 145,
-    "popularity": 5.822,
+    "voteCount": 147,
+    "popularity": 7.7327,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/mr2LvZydvor6CDZhrpJLRYMCcBc.jpg",
@@ -2310,7 +2352,7 @@
     ],
     "voteAverage": 0.0,
     "voteCount": 0,
-    "popularity": 0.0311,
+    "popularity": 0.0718,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/lEHDmmkHsVPLPcCCB7ximQVpTfk.jpg",
     "backdropUrl": null,
@@ -2373,7 +2415,7 @@
     ],
     "voteAverage": 6.0,
     "voteCount": 6,
-    "popularity": 1.0306,
+    "popularity": 2.2299,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/ifPpCzrcdxYgszMtvEvs627NBBt.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/iMNGqlNBbeyc15OfmO2VWaZBSQC.jpg",
@@ -2438,7 +2480,7 @@
     ],
     "voteAverage": 8.0,
     "voteCount": 1,
-    "popularity": 0.8833,
+    "popularity": 1.1996,
     "adult": false,
     "posterUrl": "https://image.tmdb.org/t/p/w500/3SMN4reN1muXAE8YtBqRv12UkZn.jpg",
     "backdropUrl": "https://image.tmdb.org/t/p/original/dWEgMbIDK0Bcnp52wnm645XI8UH.jpg",
@@ -2464,7 +2506,7 @@
         "id": 1233841,
         "name": "이윤지",
         "character": "Su-in",
-        "profilePath": "/qR2Kl3OWNwcUecVnmQVlCXaNuCL.jpg"
+        "profilePath": "/wN4YrbKqvpk0KIZWVTFtjSXAQQg.jpg"
       },
       {
         "id": 3495015,
